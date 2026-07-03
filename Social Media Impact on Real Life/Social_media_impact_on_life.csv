@@ -1,0 +1,1706 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Overall_Impact,Age_Group,Usage_to_Sleep_Ratio,Wellbeing_Index,Is_Heavy_User,Sleep_Deficit
+232,21,Male,Undergraduate,Other,4.1,Facebook,No,6.7,6.7,Neutral,Young Adult,0.61,6.14,No,Yes
+564,23,Female,Undergraduate,Other,1.6,LinkedIn,No,8.7,7.6,Positive,Adult,0.18,8.43,No,No
+788,22,Male,Graduate,Canada,4.7,Instagram,No,6.9,7.2,Neutral,Young Adult,0.68,6.36,No,Yes
+686,18,Male,Undergraduate,Other,7.2,Snapchat,Yes,5.4,5.2,Negative,Teen,1.33,3.66,Yes,Yes
+608,24,Female,High School,Other,7.5,Facebook,Yes,4.9,4.3,Negative,Adult,1.53,2.78,Yes,Yes
+370,19,Female,High School,Other,4.1,Twitter,Yes,6.9,6.8,Neutral,Young Adult,0.59,6.3,No,Yes
+862,22,Female,Graduate,Other,8.2,Instagram,Yes,5.2,5.4,Negative,Young Adult,1.58,3.38,Yes,Yes
+520,21,Female,Graduate,Other,6.1,Facebook,Yes,5.5,4.7,Negative,Young Adult,1.11,3.74,Yes,Yes
+703,24,Male,Undergraduate,USA,4.6,YouTube,No,7.1,6.1,Neutral,Adult,0.65,5.83,No,No
+33,19,Male,High School,Other,3.7,TikTok,No,8.0,8.5,Positive,Young Adult,0.46,7.99,No,No
+519,18,Male,Graduate,Other,4.0,LinkedIn,No,7.3,6.7,Neutral,Teen,0.55,6.47,No,No
+738,18,Male,High School,Other,7.5,Snapchat,Yes,5.3,5.5,Negative,Teen,1.42,3.7,Yes,Yes
+119,20,Male,Undergraduate,Other,2.4,Facebook,No,8.8,8.5,Positive,Young Adult,0.27,8.78,No,No
+287,23,Female,Undergraduate,Other,5.9,LinkedIn,No,5.4,5.4,Negative,Adult,1.09,4.17,Yes,Yes
+610,24,Male,Graduate,India,2.4,Instagram,No,8.6,7.6,Positive,Adult,0.28,8.14,No,No
+383,18,Female,Graduate,Other,5.1,Twitter,Yes,7.1,6.4,Neutral,Teen,0.72,5.86,Yes,No
+699,22,Female,Graduate,USA,6.3,YouTube,Yes,5.4,5.0,Negative,Young Adult,1.17,3.81,Yes,Yes
+302,21,Male,High School,Australia,6.8,YouTube,Yes,5.8,5.1,Negative,Young Adult,1.17,3.92,Yes,Yes
+277,21,Male,Graduate,Canada,6.8,Facebook,Yes,6.0,5.0,Negative,Young Adult,1.13,3.96,Yes,Yes
+631,20,Male,Undergraduate,Other,5.3,Instagram,No,6.7,6.9,Neutral,Young Adult,0.79,5.9,Yes,Yes
+567,23,Female,High School,Other,2.2,Facebook,No,8.0,7.1,Positive,Adult,0.28,7.6,No,No
+110,19,Female,Undergraduate,Other,5.1,Snapchat,Yes,7.0,6.6,Neutral,Young Adult,0.73,5.93,Yes,No
+261,24,Male,Undergraduate,Other,2.0,Facebook,Yes,7.9,8.6,Positive,Adult,0.25,8.51,No,No
+691,23,Male,Undergraduate,India,1.8,TikTok,No,7.2,8.6,Positive,Adult,0.25,8.22,No,No
+109,23,Female,Graduate,Other,7.0,LinkedIn,Yes,5.6,5.3,Negative,Adult,1.25,3.88,Yes,Yes
+537,21,Male,Undergraduate,Other,6.2,Instagram,Yes,4.7,5.8,Negative,Young Adult,1.32,3.97,Yes,Yes
+824,20,Female,Undergraduate,Other,2.6,LinkedIn,No,8.3,8.3,Positive,Young Adult,0.31,8.35,No,No
+270,21,Female,High School,Other,7.5,TikTok,Yes,4.6,4.6,Negative,Young Adult,1.63,2.81,Yes,Yes
+932,20,Female,Graduate,USA,5.5,TikTok,Yes,5.7,5.0,Negative,Young Adult,0.96,4.2,Yes,Yes
+2,23,Female,Undergraduate,USA,2.7,YouTube,No,7.9,7.7,Positive,Adult,0.34,7.76,No,No
+808,20,Male,High School,Australia,7.2,YouTube,No,5.8,5.7,Negative,Young Adult,1.24,4.16,Yes,Yes
+143,24,Male,Graduate,Other,2.6,Snapchat,No,8.1,8.0,Positive,Adult,0.32,8.07,No,No
+671,19,Male,High School,India,5.6,LinkedIn,No,6.8,6.6,Neutral,Young Adult,0.82,5.68,Yes,Yes
+363,22,Female,Graduate,India,7.3,Facebook,Yes,5.3,4.2,Negative,Young Adult,1.38,2.98,Yes,Yes
+725,24,Male,High School,UK,6.0,TikTok,No,6.1,5.0,Negative,Adult,0.98,4.25,Yes,Yes
+120,18,Male,Undergraduate,UK,6.6,Instagram,Yes,5.5,4.1,Negative,Teen,1.2,3.23,Yes,Yes
+925,23,Male,High School,Other,6.7,Snapchat,Yes,5.5,5.0,Negative,Adult,1.22,3.74,Yes,Yes
+223,22,Male,Graduate,Other,4.2,Instagram,No,6.1,6.5,Neutral,Young Adult,0.69,5.69,No,Yes
+305,22,Male,Graduate,USA,5.5,LinkedIn,Yes,6.9,6.3,Neutral,Young Adult,0.8,5.58,Yes,Yes
+70,19,Female,Undergraduate,Other,2.3,Facebook,No,7.9,8.5,Positive,Young Adult,0.29,8.36,No,No
+890,24,Male,Undergraduate,Other,8.4,Twitter,Yes,5.5,4.3,Negative,Adult,1.53,2.81,Yes,Yes
+84,21,Female,Undergraduate,Other,6.5,Twitter,Yes,5.8,4.1,Negative,Young Adult,1.12,3.41,Yes,Yes
+246,22,Female,Graduate,Other,6.9,Twitter,Yes,5.4,4.5,Negative,Young Adult,1.28,3.33,Yes,Yes
+64,20,Male,Undergraduate,Other,8.1,TikTok,No,4.5,5.6,Negative,Young Adult,1.8,3.18,Yes,Yes
+851,20,Female,High School,Other,7.0,Instagram,No,4.9,3.9,Negative,Young Adult,1.43,2.69,Yes,Yes
+827,20,Male,Graduate,Other,4.0,Twitter,Yes,6.3,6.9,Neutral,Young Adult,0.63,6.09,No,Yes
+104,18,Male,Graduate,Other,7.1,LinkedIn,Yes,4.6,6.0,Negative,Teen,1.54,3.77,Yes,Yes
+103,19,Female,High School,Other,5.4,Twitter,No,7.4,6.4,Neutral,Young Adult,0.73,5.92,Yes,No
+577,20,Male,High School,UK,7.5,Instagram,Yes,5.0,5.0,Negative,Young Adult,1.5,3.25,Yes,Yes
+692,21,Male,High School,Germany,3.3,Instagram,No,7.2,8.4,Positive,Young Adult,0.46,7.65,No,No
+124,22,Female,High School,Other,8.0,YouTube,Yes,5.5,4.9,Negative,Young Adult,1.45,3.29,Yes,Yes
+78,19,Female,Undergraduate,Other,7.8,Twitter,No,5.0,5.1,Negative,Young Adult,1.56,3.22,Yes,Yes
+315,21,Female,Undergraduate,India,6.7,YouTube,Yes,5.4,4.6,Negative,Young Adult,1.24,3.45,Yes,Yes
+483,22,Male,High School,Australia,7.4,Twitter,Yes,5.7,4.8,Negative,Young Adult,1.3,3.51,Yes,Yes
+512,21,Male,Undergraduate,Other,3.6,LinkedIn,No,8.7,8.8,Positive,Young Adult,0.41,8.55,No,No
+147,21,Female,Graduate,UK,4.5,LinkedIn,Yes,6.6,6.5,Neutral,Young Adult,0.68,5.85,No,Yes
+603,22,Male,Graduate,Other,5.8,Twitter,No,4.8,5.4,Negative,Young Adult,1.21,3.9,Yes,Yes
+102,23,Male,Graduate,UK,6.0,TikTok,No,4.8,5.5,Negative,Adult,1.25,3.9,Yes,Yes
+654,24,Female,High School,Other,3.0,TikTok,No,7.9,8.0,Positive,Adult,0.38,7.85,No,No
+614,19,Male,High School,Other,2.8,Instagram,No,8.5,7.6,Positive,Young Adult,0.33,7.97,No,No
+552,24,Male,Undergraduate,Other,1.6,Instagram,No,7.6,8.7,Positive,Adult,0.21,8.54,No,No
+441,22,Female,Graduate,Other,6.2,YouTube,Yes,5.5,5.5,Negative,Young Adult,1.13,4.19,Yes,Yes
+847,21,Male,Undergraduate,Other,1.6,TikTok,No,7.9,8.1,Positive,Young Adult,0.2,8.33,No,No
+23,24,Female,High School,Other,6.9,Twitter,Yes,5.2,4.7,Negative,Adult,1.33,3.35,Yes,Yes
+46,20,Female,High School,India,6.6,Snapchat,Yes,5.8,4.0,Negative,Young Adult,1.14,3.32,Yes,Yes
+620,22,Male,High School,Other,7.8,Snapchat,Yes,5.9,5.9,Negative,Young Adult,1.32,4.15,Yes,Yes
+845,19,Female,High School,Other,4.9,LinkedIn,No,7.0,6.7,Neutral,Young Adult,0.7,6.05,No,No
+434,24,Female,High School,Other,8.4,Instagram,No,5.2,4.2,Negative,Adult,1.62,2.6,Yes,Yes
+933,21,Male,Undergraduate,Other,5.3,Snapchat,Yes,6.4,6.2,Neutral,Young Adult,0.83,5.33,Yes,Yes
+7,19,Female,Graduate,Other,2.8,Instagram,No,7.8,7.8,Positive,Young Adult,0.36,7.74,No,No
+30,23,Female,High School,Other,4.5,YouTube,No,7.2,6.2,Neutral,Adult,0.62,5.97,No,No
+395,20,Female,Undergraduate,Other,4.2,Snapchat,No,7.4,6.9,Positive,Young Adult,0.57,6.58,No,No
+425,23,Male,High School,Other,6.4,TikTok,Yes,5.2,4.6,Negative,Adult,1.23,3.44,Yes,Yes
+865,22,Male,Undergraduate,UK,8.4,Facebook,Yes,4.6,4.1,Negative,Young Adult,1.83,2.24,Yes,Yes
+776,22,Male,Undergraduate,Other,4.7,Twitter,No,6.4,6.8,Neutral,Young Adult,0.73,5.87,No,Yes
+867,19,Male,Graduate,Other,2.6,YouTube,No,7.5,8.3,Positive,Young Adult,0.35,7.95,No,No
+295,22,Male,High School,Other,6.5,Facebook,No,5.8,5.7,Negative,Young Adult,1.12,4.37,Yes,Yes
+786,24,Female,Graduate,Australia,7.5,YouTube,Yes,4.5,5.4,Negative,Adult,1.67,3.24,Yes,Yes
+809,24,Male,Graduate,Other,3.2,LinkedIn,No,7.2,8.5,Positive,Adult,0.44,7.74,No,No
+156,23,Male,Undergraduate,Germany,7.0,Facebook,Yes,5.7,5.1,Negative,Adult,1.23,3.81,Yes,Yes
+778,18,Female,High School,USA,5.7,Instagram,No,5.0,4.9,Negative,Teen,1.14,3.73,Yes,Yes
+814,23,Female,Undergraduate,Other,4.8,Instagram,Yes,6.1,6.6,Neutral,Adult,0.79,5.57,No,Yes
+100,22,Male,Graduate,Other,6.1,Twitter,No,5.9,7.0,Neutral,Young Adult,1.03,5.32,Yes,Yes
+732,18,Male,High School,Other,7.3,YouTube,Yes,5.0,4.6,Negative,Teen,1.46,3.07,Yes,Yes
+43,18,Male,Undergraduate,India,8.3,TikTok,Yes,6.0,5.4,Negative,Teen,1.38,3.75,Yes,Yes
+708,19,Male,Undergraduate,India,8.0,Instagram,Yes,4.6,4.3,Negative,Young Adult,1.74,2.48,Yes,Yes
+337,22,Female,Undergraduate,Other,3.7,LinkedIn,No,8.6,8.7,Positive,Young Adult,0.43,8.41,No,No
+904,20,Male,High School,Canada,5.8,Twitter,Yes,5.6,5.5,Negative,Young Adult,1.04,4.36,Yes,Yes
+201,21,Female,Undergraduate,USA,7.9,Snapchat,Yes,5.9,5.1,Negative,Young Adult,1.34,3.64,Yes,Yes
+790,23,Male,High School,India,5.8,Snapchat,No,5.9,5.2,Negative,Adult,0.98,4.33,Yes,Yes
+335,18,Male,Undergraduate,Australia,8.0,TikTok,No,4.5,5.9,Negative,Teen,1.78,3.39,Yes,Yes
+230,23,Male,Undergraduate,UK,3.8,Instagram,No,8.4,7.1,Positive,Adult,0.45,7.32,No,No
+4,20,Male,Undergraduate,Other,3.3,Facebook,Yes,8.5,8.7,Positive,Young Adult,0.39,8.48,No,No
+161,23,Female,Graduate,Australia,3.3,Facebook,Yes,8.7,8.3,Positive,Adult,0.38,8.34,No,No
+73,18,Female,Undergraduate,Canada,3.0,Snapchat,No,7.8,7.4,Positive,Teen,0.38,7.44,No,No
+489,21,Male,Graduate,Other,8.0,LinkedIn,Yes,6.2,5.3,Negative,Young Adult,1.29,3.88,Yes,Yes
+679,20,Male,Graduate,USA,4.1,LinkedIn,No,7.2,6.8,Neutral,Young Adult,0.57,6.45,No,No
+118,18,Female,High School,Other,3.5,TikTok,No,6.9,6.5,Neutral,Teen,0.51,6.3,No,Yes
+130,21,Male,High School,Other,5.9,Facebook,No,5.8,6.8,Neutral,Young Adult,1.02,5.21,Yes,Yes
+970,22,Male,High School,Germany,5.6,YouTube,Yes,5.4,5.6,Negative,Young Adult,1.04,4.38,Yes,Yes
+220,22,Male,Graduate,Canada,3.6,YouTube,No,7.3,8.0,Positive,Young Adult,0.49,7.37,No,No
+209,20,Male,Undergraduate,Other,3.7,Facebook,No,7.6,8.6,Positive,Young Adult,0.49,7.85,No,No
+188,21,Female,Graduate,Other,5.7,Facebook,Yes,5.9,5.1,Negative,Young Adult,0.97,4.3,Yes,Yes
+706,18,Male,Undergraduate,Other,3.6,Snapchat,Yes,7.3,6.8,Positive,Teen,0.49,6.65,No,No
+328,20,Female,High School,Other,2.9,LinkedIn,No,8.4,8.4,Positive,Young Adult,0.35,8.37,No,No
+662,21,Male,High School,India,4.6,LinkedIn,Yes,7.5,7.0,Neutral,Young Adult,0.61,6.57,No,No
+400,21,Male,High School,Other,4.1,Snapchat,Yes,7.2,6.0,Neutral,Young Adult,0.57,5.97,No,No
+931,20,Male,Undergraduate,Other,2.9,Twitter,No,8.4,7.6,Positive,Young Adult,0.35,7.89,No,No
+752,23,Male,Undergraduate,Other,5.0,Twitter,No,6.8,6.9,Neutral,Adult,0.74,6.04,No,Yes
+542,21,Male,Undergraduate,Other,6.5,Instagram,Yes,5.6,4.1,Negative,Young Adult,1.16,3.31,Yes,Yes
+570,22,Female,High School,UK,3.3,Instagram,Yes,7.0,6.1,Neutral,Young Adult,0.47,6.17,No,No
+369,18,Male,Graduate,Other,6.9,LinkedIn,Yes,5.7,4.7,Negative,Teen,1.21,3.6,Yes,Yes
+48,23,Female,Graduate,Other,2.3,TikTok,No,8.2,8.7,Positive,Adult,0.28,8.63,No,No
+444,19,Male,Undergraduate,Other,3.0,Snapchat,No,7.8,9.0,Positive,Young Adult,0.38,8.4,No,No
+352,22,Male,Graduate,Other,6.2,Instagram,Yes,4.7,5.8,Negative,Young Adult,1.32,3.97,Yes,Yes
+644,24,Female,Graduate,Australia,3.8,Instagram,No,7.3,6.4,Neutral,Adult,0.52,6.35,No,No
+296,20,Female,Graduate,Other,7.5,Instagram,Yes,4.7,4.6,Negative,Young Adult,1.6,2.86,Yes,Yes
+866,20,Male,Graduate,India,3.6,Instagram,No,8.2,8.0,Positive,Young Adult,0.44,7.82,No,No
+183,21,Female,Undergraduate,Other,8.6,TikTok,No,5.2,5.7,Negative,Young Adult,1.65,3.44,Yes,Yes
+557,24,Female,Undergraduate,Other,6.0,Twitter,Yes,4.9,4.0,Negative,Adult,1.22,3.05,Yes,Yes
+971,22,Male,High School,Australia,6.1,YouTube,Yes,6.8,7.0,Neutral,Young Adult,0.9,5.77,Yes,Yes
+458,23,Male,Undergraduate,Other,3.4,TikTok,Yes,8.4,7.5,Positive,Adult,0.4,7.68,No,No
+864,21,Male,Undergraduate,Other,3.3,LinkedIn,No,8.6,8.5,Positive,Young Adult,0.38,8.41,No,No
+504,19,Female,Undergraduate,Canada,4.3,Instagram,Yes,6.1,6.5,Neutral,Young Adult,0.7,5.66,No,Yes
+987,21,Female,Graduate,Other,5.7,Instagram,Yes,5.4,5.3,Negative,Young Adult,1.06,4.17,Yes,Yes
+419,21,Female,Undergraduate,Other,3.9,Facebook,No,7.3,9.2,Positive,Young Adult,0.53,8.0,No,No
+869,18,Male,Undergraduate,UK,7.2,LinkedIn,No,5.3,4.1,Negative,Teen,1.36,2.95,Yes,Yes
+117,21,Female,High School,Other,8.2,YouTube,Yes,5.2,4.1,Negative,Young Adult,1.58,2.6,Yes,Yes
+800,20,Female,High School,India,5.1,LinkedIn,No,6.3,6.1,Neutral,Young Adult,0.81,5.28,Yes,Yes
+6,24,Female,Undergraduate,India,3.3,YouTube,No,7.9,7.5,Positive,Adult,0.42,7.46,No,No
+558,22,Female,High School,Other,7.8,Instagram,Yes,4.9,4.0,Negative,Young Adult,1.59,2.51,Yes,Yes
+983,18,Male,High School,Other,3.7,LinkedIn,Yes,6.8,7.0,Neutral,Teen,0.54,6.49,No,Yes
+79,18,Female,Graduate,Other,3.1,Instagram,No,8.3,8.6,Positive,Teen,0.37,8.38,No,No
+225,21,Male,High School,Other,5.4,Twitter,Yes,7.3,6.6,Neutral,Young Adult,0.74,5.99,Yes,No
+3,23,Female,High School,USA,3.7,Instagram,No,7.4,7.2,Positive,Adult,0.5,6.91,No,No
+634,24,Male,High School,Other,3.9,Instagram,No,7.4,8.7,Positive,Adult,0.53,7.75,No,No
+712,22,Female,High School,Other,1.8,Twitter,No,8.8,8.7,Positive,Young Adult,0.2,9.08,No,No
+656,21,Female,Undergraduate,Germany,4.4,Facebook,Yes,6.4,6.6,Neutral,Young Adult,0.69,5.84,No,Yes
+873,18,Female,Graduate,UK,4.1,LinkedIn,No,6.9,6.0,Neutral,Teen,0.59,5.82,No,Yes
+975,20,Male,Undergraduate,Other,5.4,YouTube,Yes,5.3,5.4,Negative,Young Adult,1.02,4.27,Yes,Yes
+469,22,Female,High School,Other,3.2,YouTube,No,8.2,7.4,Positive,Young Adult,0.39,7.58,No,No
+421,21,Female,Undergraduate,UK,6.3,Snapchat,Yes,4.6,3.9,Negative,Young Adult,1.37,2.75,Yes,Yes
+325,18,Female,Graduate,Australia,5.1,TikTok,Yes,7.0,6.4,Neutral,Teen,0.73,5.81,Yes,No
+76,18,Female,Undergraduate,Other,5.6,LinkedIn,Yes,6.0,5.5,Negative,Teen,0.93,4.62,Yes,Yes
+371,24,Male,Undergraduate,Other,6.3,TikTok,Yes,5.5,5.4,Negative,Adult,1.15,4.1,Yes,Yes
+617,23,Female,High School,Other,5.9,Snapchat,No,6.8,6.1,Neutral,Adult,0.87,5.29,Yes,Yes
+101,23,Male,Undergraduate,Canada,2.6,Twitter,Yes,7.9,8.2,Positive,Adult,0.33,8.09,No,No
+831,18,Female,Undergraduate,Other,6.3,YouTube,No,5.5,4.3,Negative,Teen,1.15,3.44,Yes,Yes
+900,23,Female,Undergraduate,Australia,4.7,Snapchat,Yes,7.0,6.6,Neutral,Adult,0.67,6.05,No,No
+828,18,Female,Undergraduate,USA,7.0,TikTok,No,5.0,5.3,Negative,Teen,1.4,3.58,Yes,Yes
+312,18,Male,Undergraduate,Other,1.8,Twitter,No,7.9,8.0,Positive,Teen,0.23,8.21,No,No
+583,18,Male,High School,Other,3.8,Instagram,No,6.4,6.4,Neutral,Teen,0.59,5.9,No,Yes
+285,18,Male,Graduate,Other,7.8,TikTok,Yes,5.9,4.5,Negative,Teen,1.32,3.31,Yes,Yes
+267,22,Male,Undergraduate,India,4.6,Snapchat,Yes,6.6,7.0,Neutral,Young Adult,0.7,6.12,No,Yes
+460,20,Female,Undergraduate,Other,8.2,Twitter,Yes,5.8,4.7,Negative,Young Adult,1.41,3.26,Yes,Yes
+248,21,Female,Undergraduate,Other,8.3,TikTok,No,5.9,5.0,Negative,Young Adult,1.41,3.46,Yes,Yes
+652,22,Female,Undergraduate,Other,4.0,TikTok,Yes,7.2,6.7,Neutral,Young Adult,0.56,6.42,No,No
+385,23,Female,Graduate,Other,7.4,TikTok,Yes,5.6,5.8,Negative,Adult,1.32,4.06,Yes,Yes
+909,24,Female,Undergraduate,Other,2.7,Twitter,Yes,7.5,8.1,Positive,Adult,0.36,7.8,No,No
+422,18,Male,Undergraduate,Other,1.9,Twitter,No,9.0,8.7,Positive,Teen,0.21,9.15,No,No
+767,23,Female,Undergraduate,Other,6.2,Snapchat,Yes,5.5,5.9,Negative,Adult,1.13,4.43,Yes,Yes
+950,19,Male,Undergraduate,Other,3.5,YouTube,No,8.7,7.7,Positive,Young Adult,0.4,7.92,No,No
+16,24,Male,High School,Other,5.9,Facebook,Yes,6.9,6.6,Neutral,Adult,0.86,5.64,Yes,Yes
+546,24,Female,Graduate,Other,3.7,Facebook,No,7.3,6.3,Neutral,Adult,0.51,6.32,No,No
+199,21,Male,High School,Other,3.7,TikTok,No,7.4,7.7,Positive,Young Adult,0.5,7.21,No,No
+496,18,Female,Graduate,Other,6.6,Facebook,No,4.6,4.8,Negative,Teen,1.43,3.2,Yes,Yes
+364,24,Female,Undergraduate,Other,7.9,YouTube,Yes,5.4,5.5,Negative,Adult,1.46,3.63,Yes,Yes
+587,22,Male,Graduate,USA,4.0,TikTok,No,7.1,7.4,Positive,Young Adult,0.56,6.79,No,No
+838,18,Male,High School,Other,3.7,LinkedIn,Yes,6.8,6.1,Neutral,Teen,0.54,5.95,No,Yes
+155,19,Male,Undergraduate,India,5.6,Facebook,Yes,7.3,6.1,Neutral,Young Adult,0.77,5.63,Yes,No
+956,18,Female,Undergraduate,USA,3.2,Facebook,No,8.1,9.0,Positive,Teen,0.4,8.49,No,No
+632,21,Female,Undergraduate,Other,3.2,Facebook,No,8.1,8.7,Positive,Young Adult,0.4,8.31,No,No
+897,20,Male,Undergraduate,Other,1.8,Snapchat,No,8.5,7.7,Positive,Young Adult,0.21,8.33,No,No
+457,23,Female,Graduate,Canada,5.5,Snapchat,Yes,6.9,6.4,Neutral,Adult,0.8,5.64,Yes,Yes
+358,20,Female,High School,Other,5.9,YouTube,Yes,4.8,5.1,Negative,Young Adult,1.23,3.69,Yes,Yes
+842,20,Male,High School,Australia,3.4,LinkedIn,No,8.9,7.8,Positive,Young Adult,0.38,8.11,No,No
+432,24,Male,Undergraduate,Other,7.2,Snapchat,Yes,4.9,5.3,Negative,Adult,1.47,3.47,Yes,Yes
+688,18,Male,Graduate,Other,1.8,Snapchat,No,8.0,8.5,Positive,Teen,0.22,8.56,No,No
+777,24,Female,High School,Other,3.4,YouTube,No,8.1,8.3,Positive,Adult,0.42,8.01,No,No
+982,22,Female,Undergraduate,Other,3.0,Twitter,No,7.5,8.5,Positive,Young Adult,0.4,7.95,No,No
+548,20,Female,Undergraduate,USA,5.2,Twitter,Yes,6.5,7.0,Neutral,Young Adult,0.8,5.89,Yes,Yes
+15,23,Female,Undergraduate,Other,5.7,Instagram,No,6.1,6.3,Neutral,Adult,0.93,5.12,Yes,Yes
+815,19,Male,Undergraduate,Australia,4.1,Instagram,Yes,6.7,6.5,Neutral,Young Adult,0.61,6.02,No,Yes
+914,20,Female,Undergraduate,Other,2.6,TikTok,Yes,7.7,8.4,Positive,Young Adult,0.34,8.11,No,No
+375,22,Female,Graduate,Other,5.8,YouTube,Yes,6.0,4.8,Negative,Young Adult,0.97,4.14,Yes,Yes
+859,20,Male,High School,Other,2.6,LinkedIn,No,7.5,8.3,Positive,Young Adult,0.35,7.95,No,No
+834,19,Female,Graduate,Australia,6.5,TikTok,Yes,5.5,4.3,Negative,Young Adult,1.18,3.38,Yes,Yes
+965,20,Male,Undergraduate,Other,7.8,Twitter,Yes,5.2,5.3,Negative,Young Adult,1.5,3.44,Yes,Yes
+678,20,Male,Graduate,USA,6.4,Twitter,Yes,4.5,4.2,Negative,Young Adult,1.42,2.85,Yes,Yes
+791,22,Female,Graduate,India,2.8,YouTube,Yes,8.9,7.1,Positive,Young Adult,0.31,7.87,No,No
+377,24,Female,Undergraduate,Other,1.4,Facebook,Yes,7.2,7.5,Positive,Adult,0.19,7.68,No,No
+368,19,Female,Undergraduate,Other,8.2,TikTok,Yes,5.6,5.4,Negative,Young Adult,1.46,3.58,Yes,Yes
+193,21,Female,High School,Other,2.6,Snapchat,Yes,7.6,7.6,Positive,Young Adult,0.34,7.58,No,No
+782,18,Male,High School,Other,2.5,Snapchat,No,8.6,7.6,Positive,Teen,0.29,8.11,No,No
+442,23,Female,Undergraduate,Other,2.4,Snapchat,Yes,7.6,7.7,Positive,Adult,0.32,7.7,No,No
+722,23,Female,High School,Other,6.7,TikTok,Yes,6.1,4.9,Negative,Adult,1.1,3.98,Yes,Yes
+674,22,Male,Undergraduate,USA,3.7,YouTube,No,7.9,7.2,Positive,Young Adult,0.47,7.16,No,No
+174,21,Female,Graduate,USA,5.8,LinkedIn,No,7.1,6.5,Neutral,Young Adult,0.82,5.71,Yes,No
+374,20,Male,Undergraduate,Other,8.2,LinkedIn,Yes,6.0,5.6,Negative,Young Adult,1.37,3.9,Yes,Yes
+348,22,Male,High School,Other,4.3,Facebook,Yes,6.0,6.3,Neutral,Young Adult,0.72,5.49,No,Yes
+730,18,Female,Graduate,Other,5.7,Twitter,Yes,4.8,5.9,Negative,Teen,1.19,4.23,Yes,Yes
+281,20,Male,High School,Other,3.6,TikTok,No,7.7,7.8,Positive,Young Adult,0.47,7.45,No,No
+957,23,Female,Graduate,Other,3.1,YouTube,Yes,7.2,8.5,Positive,Adult,0.43,7.77,No,No
+819,19,Male,Undergraduate,USA,6.8,TikTok,Yes,5.8,5.0,Negative,Young Adult,1.17,3.86,Yes,Yes
+27,24,Male,Undergraduate,India,7.8,Twitter,Yes,5.1,5.4,Negative,Adult,1.53,3.45,Yes,Yes
+639,18,Male,Undergraduate,Other,7.2,LinkedIn,Yes,5.3,4.2,Negative,Teen,1.36,3.01,Yes,Yes
+826,19,Female,High School,Other,2.6,Twitter,No,7.5,8.2,Positive,Young Adult,0.35,7.89,No,No
+723,19,Male,Graduate,Canada,2.7,TikTok,No,8.5,8.2,Positive,Young Adult,0.32,8.36,No,No
+206,24,Male,Graduate,India,2.4,Twitter,No,8.4,9.0,Positive,Adult,0.29,8.88,No,No
+28,21,Male,Undergraduate,Other,5.9,Twitter,Yes,7.1,6.2,Neutral,Young Adult,0.83,5.5,Yes,No
+728,19,Female,High School,Other,7.8,Snapchat,Yes,5.6,5.2,Negative,Young Adult,1.39,3.58,Yes,Yes
+594,19,Female,High School,Other,4.8,Snapchat,No,6.1,6.2,Neutral,Young Adult,0.79,5.33,No,Yes
+153,21,Male,Graduate,Other,6.0,YouTube,No,7.0,6.2,Neutral,Young Adult,0.86,5.42,Yes,No
+784,18,Male,High School,Other,7.6,LinkedIn,Yes,5.0,5.4,Negative,Teen,1.52,3.46,Yes,Yes
+913,18,Male,Graduate,Canada,6.3,LinkedIn,Yes,6.0,6.2,Negative,Teen,1.05,4.83,Yes,Yes
+11,19,Male,Graduate,Other,5.4,YouTube,No,6.8,6.6,Neutral,Young Adult,0.79,5.74,Yes,Yes
+451,23,Female,Undergraduate,Other,1.5,TikTok,Yes,8.8,8.8,Positive,Adult,0.17,9.23,No,No
+985,20,Male,High School,Other,6.5,LinkedIn,Yes,4.4,4.8,Negative,Young Adult,1.48,3.13,Yes,Yes
+724,20,Female,Undergraduate,Other,8.1,Twitter,Yes,5.0,5.7,Negative,Young Adult,1.62,3.49,Yes,Yes
+239,23,Male,High School,Other,6.1,LinkedIn,Yes,6.1,4.7,Negative,Adult,1.0,4.04,Yes,Yes
+160,22,Male,Undergraduate,Other,6.0,LinkedIn,No,7.2,7.0,Neutral,Young Adult,0.83,6.0,Yes,No
+793,19,Female,Undergraduate,Other,4.8,Twitter,Yes,6.8,6.5,Neutral,Young Adult,0.71,5.86,No,Yes
+389,24,Male,Graduate,Other,3.9,Twitter,Yes,6.3,6.2,Neutral,Adult,0.62,5.7,No,Yes
+437,20,Male,Graduate,India,5.5,YouTube,Yes,5.2,4.3,Negative,Young Adult,1.06,3.53,Yes,Yes
+935,20,Female,Graduate,UK,6.5,Facebook,Yes,5.5,4.6,Negative,Young Adult,1.18,3.56,Yes,Yes
+321,20,Male,Undergraduate,USA,8.5,Instagram,Yes,5.0,5.8,Negative,Young Adult,1.7,3.43,Yes,Yes
+186,20,Male,Graduate,Other,7.1,Instagram,Yes,6.0,4.5,Negative,Young Adult,1.18,3.57,Yes,Yes
+123,18,Male,Graduate,Other,2.8,Facebook,No,8.4,7.9,Positive,Teen,0.33,8.1,No,No
+198,22,Male,Graduate,Other,8.4,Instagram,No,6.0,5.3,Negative,Young Adult,1.4,3.66,Yes,Yes
+111,24,Female,Graduate,Other,3.6,Twitter,No,7.5,7.3,Positive,Adult,0.48,7.05,No,No
+743,18,Female,Undergraduate,USA,3.7,Twitter,No,8.2,7.2,Positive,Teen,0.45,7.31,No,No
+953,19,Male,Undergraduate,Other,2.0,Instagram,No,7.1,8.2,Positive,Young Adult,0.28,7.87,No,No
+998,18,Female,Graduate,Other,4.2,Twitter,Yes,6.9,6.7,Neutral,Teen,0.61,6.21,No,Yes
+802,21,Female,High School,Other,4.4,YouTube,No,6.2,6.3,Neutral,Young Adult,0.71,5.56,No,Yes
+742,24,Female,Undergraduate,Other,4.5,YouTube,No,7.3,6.0,Neutral,Adult,0.62,5.9,No,No
+224,24,Female,High School,Other,5.7,Facebook,Yes,5.5,4.0,Negative,Adult,1.04,3.44,Yes,Yes
+131,21,Female,Undergraduate,India,2.8,Facebook,Yes,7.2,8.5,Positive,Young Adult,0.39,7.86,No,No
+169,19,Female,Undergraduate,Other,5.9,Instagram,No,5.5,4.0,Negative,Young Adult,1.07,3.38,Yes,Yes
+382,22,Female,High School,India,7.4,YouTube,Yes,5.5,4.8,Negative,Young Adult,1.35,3.41,Yes,Yes
+918,20,Male,Graduate,Other,3.9,Snapchat,No,6.8,6.2,Neutral,Young Adult,0.57,5.95,No,Yes
+593,21,Female,High School,Other,3.2,LinkedIn,No,8.9,7.9,Positive,Young Adult,0.36,8.23,No,No
+52,24,Male,Graduate,Other,4.1,Facebook,No,6.1,6.1,Neutral,Adult,0.67,5.48,No,Yes
+90,19,Female,Undergraduate,Other,6.9,YouTube,Yes,5.6,5.0,Negative,Young Adult,1.23,3.73,Yes,Yes
+60,23,Male,High School,Other,3.6,Snapchat,No,7.1,5.9,Neutral,Adult,0.51,6.01,No,No
+338,19,Male,High School,Canada,3.2,YouTube,Yes,8.5,8.0,Positive,Young Adult,0.38,8.09,No,No
+452,19,Male,High School,Other,5.7,LinkedIn,Yes,6.1,6.4,Neutral,Young Adult,0.93,5.18,Yes,Yes
+736,19,Female,High School,India,5.9,TikTok,Yes,6.9,6.5,Neutral,Young Adult,0.86,5.58,Yes,Yes
+746,23,Female,High School,Other,2.9,TikTok,No,8.5,7.5,Positive,Adult,0.34,7.88,No,No
+44,19,Male,Undergraduate,USA,5.3,Twitter,No,7.4,6.6,Neutral,Young Adult,0.72,6.07,Yes,No
+773,24,Female,Graduate,India,5.6,Twitter,Yes,4.5,5.3,Negative,Adult,1.24,3.75,Yes,Yes
+721,20,Female,Undergraduate,India,5.1,TikTok,Yes,6.1,6.5,Neutral,Young Adult,0.84,5.42,Yes,Yes
+129,21,Male,Undergraduate,Canada,5.7,Facebook,No,5.8,6.2,Neutral,Young Adult,0.98,4.91,Yes,Yes
+606,19,Female,Undergraduate,India,6.1,Facebook,Yes,7.7,6.5,Neutral,Young Adult,0.79,5.92,Yes,No
+961,18,Male,Undergraduate,Other,2.4,Twitter,No,8.4,7.4,Positive,Teen,0.29,7.92,No,No
+780,24,Male,Graduate,Other,1.5,LinkedIn,No,8.4,7.7,Positive,Adult,0.18,8.37,No,No
+215,21,Male,High School,India,2.9,Instagram,No,7.2,7.1,Positive,Young Adult,0.4,6.99,No,No
+290,18,Female,Graduate,Other,4.9,TikTok,No,6.6,7.1,Neutral,Teen,0.74,6.09,No,Yes
+53,23,Male,Graduate,Other,6.1,YouTube,No,6.0,5.7,Negative,Adult,1.02,4.59,Yes,Yes
+408,18,Male,Graduate,Other,6.3,TikTok,Yes,6.0,4.9,Negative,Teen,1.05,4.05,Yes,Yes
+310,20,Female,Graduate,Other,2.0,Instagram,No,7.9,7.8,Positive,Young Adult,0.25,8.03,No,No
+702,23,Male,High School,UK,2.5,LinkedIn,No,8.8,8.2,Positive,Adult,0.28,8.57,No,No
+660,18,Male,High School,Other,5.9,Facebook,No,6.1,6.3,Neutral,Teen,0.97,5.06,Yes,Yes
+14,20,Male,Undergraduate,Other,3.4,LinkedIn,No,6.9,6.5,Neutral,Young Adult,0.49,6.33,No,Yes
+288,22,Female,High School,India,6.9,Instagram,No,5.1,4.2,Negative,Young Adult,1.35,3.0,Yes,Yes
+350,19,Male,Undergraduate,USA,3.9,Twitter,Yes,6.2,6.0,Neutral,Young Adult,0.63,5.53,No,Yes
+611,20,Male,Undergraduate,Other,7.8,TikTok,No,5.0,4.8,Negative,Young Adult,1.56,3.04,Yes,Yes
+735,24,Male,Graduate,Other,6.1,Snapchat,No,5.8,6.1,Neutral,Adult,1.05,4.73,Yes,Yes
+402,24,Female,High School,Australia,8.2,Facebook,Yes,6.0,5.5,Negative,Adult,1.37,3.84,Yes,Yes
+488,21,Female,Graduate,Other,7.4,YouTube,Yes,4.7,6.1,Negative,Young Adult,1.57,3.79,Yes,Yes
+524,20,Female,Graduate,Australia,7.5,Snapchat,Yes,5.2,4.8,Negative,Young Adult,1.44,3.23,Yes,Yes
+535,19,Male,High School,India,5.5,Snapchat,Yes,7.0,6.7,Neutral,Young Adult,0.79,5.87,Yes,No
+431,18,Male,Undergraduate,Canada,6.0,Twitter,No,4.8,4.2,Negative,Teen,1.25,3.12,Yes,Yes
+664,19,Male,High School,Other,5.4,Facebook,Yes,6.6,6.1,Neutral,Young Adult,0.82,5.34,Yes,Yes
+572,21,Male,Undergraduate,Other,5.5,Facebook,Yes,5.6,6.1,Negative,Young Adult,0.98,4.81,Yes,Yes
+428,20,Male,Undergraduate,Canada,7.8,Instagram,Yes,4.7,5.3,Negative,Young Adult,1.66,3.19,Yes,Yes
+430,23,Male,Graduate,Other,7.8,Snapchat,Yes,5.2,4.4,Negative,Adult,1.5,2.9,Yes,Yes
+238,20,Male,High School,Other,3.9,YouTube,Yes,6.6,6.2,Neutral,Young Adult,0.59,5.85,No,Yes
+179,21,Female,High School,Other,3.8,LinkedIn,Yes,6.8,6.1,Neutral,Young Adult,0.56,5.92,No,Yes
+289,21,Female,High School,Canada,5.9,YouTube,Yes,6.1,5.2,Negative,Young Adult,0.97,4.4,Yes,Yes
+958,18,Male,High School,Other,3.7,Facebook,No,8.5,8.3,Positive,Teen,0.44,8.12,No,No
+991,19,Male,Undergraduate,Other,7.4,TikTok,Yes,5.6,4.2,Negative,Young Adult,1.32,3.1,Yes,Yes
+894,20,Female,Undergraduate,Other,7.3,LinkedIn,Yes,6.0,4.3,Negative,Young Adult,1.22,3.39,Yes,Yes
+22,19,Male,Undergraduate,Other,6.3,TikTok,Yes,4.7,5.0,Negative,Young Adult,1.34,3.46,Yes,Yes
+919,22,Male,High School,India,3.7,Facebook,No,8.5,8.4,Positive,Young Adult,0.44,8.18,No,No
+487,20,Female,Undergraduate,Australia,5.9,LinkedIn,Yes,4.9,6.0,Negative,Young Adult,1.2,4.28,Yes,Yes
+177,22,Female,High School,Other,6.0,Snapchat,Yes,5.2,5.7,Negative,Young Adult,1.15,4.22,Yes,Yes
+405,22,Female,Graduate,Other,2.3,Facebook,No,9.1,7.0,Positive,Young Adult,0.25,8.06,No,No
+45,19,Male,Undergraduate,India,6.5,YouTube,Yes,6.0,5.9,Negative,Young Adult,1.08,4.59,Yes,Yes
+682,19,Female,High School,USA,5.2,YouTube,No,7.1,6.8,Neutral,Young Adult,0.73,6.07,Yes,No
+698,21,Female,Graduate,Germany,7.0,LinkedIn,Yes,5.5,4.4,Negative,Young Adult,1.27,3.29,Yes,Yes
+384,23,Female,Undergraduate,India,6.1,Instagram,Yes,4.7,5.3,Negative,Adult,1.3,3.7,Yes,Yes
+677,20,Male,High School,Other,7.8,Twitter,Yes,5.4,5.4,Negative,Young Adult,1.44,3.6,Yes,Yes
+858,19,Female,High School,Canada,7.3,Twitter,Yes,4.5,5.7,Negative,Young Adult,1.62,3.48,Yes,Yes
+283,20,Female,Graduate,UK,7.2,TikTok,Yes,5.9,4.1,Negative,Young Adult,1.22,3.25,Yes,Yes
+718,24,Male,Undergraduate,Other,5.3,YouTube,Yes,6.4,6.0,Neutral,Adult,0.83,5.21,Yes,Yes
+936,21,Male,Graduate,Other,5.7,Twitter,No,5.3,4.9,Negative,Young Adult,1.08,3.88,Yes,Yes
+98,21,Female,High School,Other,5.9,YouTube,Yes,4.9,4.0,Negative,Young Adult,1.2,3.08,Yes,Yes
+895,19,Female,Undergraduate,Other,2.2,Twitter,No,7.5,9.0,Positive,Young Adult,0.29,8.49,No,No
+242,24,Male,Graduate,Germany,7.0,Snapchat,Yes,5.3,4.3,Negative,Adult,1.32,3.13,Yes,Yes
+602,22,Female,High School,Other,7.0,Snapchat,Yes,4.4,4.3,Negative,Young Adult,1.59,2.68,Yes,Yes
+207,20,Female,Undergraduate,Other,6.2,Facebook,Yes,5.9,5.2,Negative,Young Adult,1.05,4.21,Yes,Yes
+185,24,Female,High School,Other,4.3,Twitter,No,6.2,6.1,Neutral,Adult,0.69,5.47,No,Yes
+286,23,Male,Undergraduate,Germany,3.3,TikTok,No,8.8,8.0,Positive,Adult,0.37,8.21,No,No
+926,21,Female,High School,UK,7.7,Facebook,No,6.0,4.5,Negative,Young Adult,1.28,3.39,Yes,Yes
+65,22,Female,Graduate,Other,3.5,Instagram,Yes,8.8,8.1,Positive,Young Adult,0.4,8.21,No,No
+214,24,Male,High School,Australia,4.6,Snapchat,Yes,6.2,6.8,Neutral,Adult,0.74,5.8,No,Yes
+997,21,Female,Undergraduate,Other,6.3,Twitter,Yes,4.4,5.6,Negative,Young Adult,1.43,3.67,Yes,Yes
+166,22,Male,Undergraduate,Other,3.2,TikTok,No,8.1,7.6,Positive,Young Adult,0.4,7.65,No,No
+213,24,Male,High School,Other,5.3,LinkedIn,Yes,6.8,6.9,Neutral,Adult,0.78,5.95,Yes,Yes
+977,20,Female,Graduate,UK,5.9,LinkedIn,Yes,5.6,4.3,Negative,Young Adult,1.05,3.61,Yes,Yes
+856,23,Female,Undergraduate,Other,6.1,Twitter,Yes,5.1,5.0,Negative,Adult,1.2,3.72,Yes,Yes
+24,21,Male,Graduate,Other,4.1,TikTok,No,7.7,7.7,Positive,Young Adult,0.53,7.24,No,No
+745,20,Male,Undergraduate,Other,7.3,Facebook,Yes,4.4,4.2,Negative,Young Adult,1.66,2.53,Yes,Yes
+574,22,Female,Undergraduate,Other,8.0,LinkedIn,No,5.7,5.1,Negative,Young Adult,1.4,3.51,Yes,Yes
+467,18,Female,Undergraduate,Other,7.7,TikTok,Yes,5.7,4.5,Negative,Teen,1.35,3.24,Yes,Yes
+157,24,Female,Undergraduate,USA,6.4,Twitter,Yes,6.0,5.3,Negative,Adult,1.07,4.26,Yes,Yes
+596,21,Male,Undergraduate,India,7.7,Facebook,Yes,5.8,4.8,Negative,Young Adult,1.33,3.47,Yes,Yes
+41,18,Female,High School,Other,5.8,Twitter,Yes,5.1,5.7,Negative,Teen,1.14,4.23,Yes,Yes
+618,23,Female,Graduate,Canada,2.8,Twitter,No,7.3,8.3,Positive,Adult,0.38,7.79,No,No
+392,20,Male,Undergraduate,UK,6.3,Facebook,No,4.4,4.1,Negative,Young Adult,1.43,2.77,Yes,Yes
+753,23,Female,Undergraduate,Canada,4.3,Snapchat,Yes,7.4,6.2,Neutral,Adult,0.58,6.13,No,No
+530,20,Female,High School,Germany,8.3,Snapchat,Yes,5.0,3.9,Negative,Young Adult,1.66,2.35,Yes,Yes
+518,18,Male,Graduate,Other,6.8,Twitter,Yes,6.0,3.9,Negative,Teen,1.13,3.3,Yes,Yes
+459,22,Male,Undergraduate,Other,6.0,Facebook,Yes,4.6,4.8,Negative,Young Adult,1.3,3.38,Yes,Yes
+116,24,Female,High School,Other,5.7,TikTok,No,5.8,5.7,Negative,Adult,0.98,4.61,Yes,Yes
+599,22,Female,High School,Other,1.7,Snapchat,No,8.5,8.1,Positive,Young Adult,0.2,8.6,No,No
+272,23,Male,High School,Other,7.9,Snapchat,Yes,5.0,5.7,Negative,Adult,1.58,3.55,Yes,Yes
+630,24,Male,Undergraduate,Other,3.3,Twitter,No,7.8,8.4,Positive,Adult,0.42,7.95,No,No
+672,24,Female,Graduate,Other,1.8,TikTok,No,8.8,8.0,Positive,Adult,0.2,8.66,No,No
+453,21,Male,Graduate,India,7.9,TikTok,Yes,5.1,4.4,Negative,Young Adult,1.55,2.82,Yes,Yes
+549,21,Male,High School,Germany,1.9,Instagram,Yes,9.0,8.0,Positive,Young Adult,0.21,8.73,No,No
+462,19,Male,Graduate,USA,7.4,TikTok,Yes,4.9,4.3,Negative,Young Adult,1.51,2.81,Yes,Yes
+426,21,Male,Undergraduate,USA,7.1,YouTube,Yes,5.8,4.7,Negative,Young Adult,1.22,3.59,Yes,Yes
+750,20,Female,High School,Canada,4.2,Facebook,No,6.4,6.2,Neutral,Young Adult,0.66,5.66,No,Yes
+31,23,Male,Undergraduate,Other,8.3,Twitter,No,5.5,4.8,Negative,Adult,1.51,3.14,Yes,Yes
+391,21,Female,Undergraduate,Other,8.3,TikTok,No,4.5,4.8,Negative,Young Adult,1.84,2.64,Yes,Yes
+247,18,Female,High School,Other,8.0,Facebook,No,4.7,5.4,Negative,Teen,1.7,3.19,Yes,Yes
+219,19,Male,High School,Other,4.8,TikTok,Yes,6.9,6.1,Neutral,Young Adult,0.7,5.67,No,Yes
+994,20,Female,Graduate,Other,2.8,YouTube,No,7.8,7.6,Positive,Young Adult,0.36,7.62,No,No
+929,18,Male,Graduate,UK,7.4,LinkedIn,Yes,5.3,4.1,Negative,Teen,1.4,2.89,Yes,Yes
+107,24,Male,High School,Other,3.7,LinkedIn,No,8.0,8.7,Positive,Adult,0.46,8.11,No,No
+218,21,Female,Undergraduate,Other,5.9,Instagram,Yes,4.9,5.6,Negative,Young Adult,1.2,4.04,Yes,Yes
+57,23,Male,High School,Other,3.4,Instagram,No,8.4,7.4,Positive,Adult,0.4,7.62,No,No
+576,19,Male,Undergraduate,USA,3.8,Twitter,Yes,6.6,6.9,Neutral,Young Adult,0.58,6.3,No,Yes
+17,19,Male,Undergraduate,Other,7.8,TikTok,Yes,5.4,4.1,Negative,Young Adult,1.44,2.82,Yes,Yes
+765,24,Male,Graduate,Other,2.1,Instagram,Yes,7.3,7.0,Positive,Adult,0.29,7.22,No,No
+260,18,Male,Undergraduate,Other,6.1,Snapchat,Yes,4.4,5.2,Negative,Teen,1.39,3.49,Yes,Yes
+189,24,Male,Undergraduate,Other,4.2,LinkedIn,Yes,7.4,7.0,Neutral,Adult,0.57,6.64,No,No
+500,21,Female,Undergraduate,Australia,3.6,Twitter,No,6.7,6.6,Neutral,Young Adult,0.54,6.23,No,Yes
+495,24,Female,High School,USA,7.4,YouTube,Yes,5.8,4.3,Negative,Adult,1.28,3.26,Yes,Yes
+663,21,Female,Undergraduate,India,4.4,LinkedIn,Yes,6.3,6.4,Neutral,Young Adult,0.7,5.67,No,Yes
+774,23,Male,Undergraduate,Other,2.7,LinkedIn,No,7.1,8.8,Positive,Adult,0.38,8.02,No,No
+915,19,Female,High School,Germany,6.6,Facebook,No,6.0,5.2,Negative,Young Adult,1.1,4.14,Yes,Yes
+739,21,Female,High School,Other,3.7,Twitter,No,8.2,7.4,Positive,Young Adult,0.45,7.43,No,No
+40,22,Female,Graduate,Australia,7.6,TikTok,Yes,5.2,4.5,Negative,Young Adult,1.46,3.02,Yes,Yes
+152,18,Male,Graduate,India,6.6,Instagram,Yes,4.7,4.1,Negative,Teen,1.4,2.83,Yes,Yes
+684,23,Male,Graduate,Other,7.5,Instagram,Yes,5.7,4.4,Negative,Adult,1.32,3.24,Yes,Yes
+979,24,Female,High School,Other,7.1,YouTube,Yes,4.7,4.1,Negative,Adult,1.51,2.68,Yes,Yes
+94,24,Male,High School,Canada,6.7,Twitter,Yes,6.0,4.6,Negative,Adult,1.12,3.75,Yes,Yes
+9,19,Male,Undergraduate,Other,3.5,Twitter,Yes,6.9,6.7,Neutral,Young Adult,0.51,6.42,No,Yes
+72,21,Male,High School,Other,3.2,Snapchat,Yes,7.4,9.0,Positive,Young Adult,0.43,8.14,No,No
+787,21,Male,Graduate,Other,5.4,TikTok,Yes,6.2,7.0,Neutral,Young Adult,0.87,5.68,Yes,Yes
+764,18,Female,Undergraduate,Other,4.7,LinkedIn,No,6.2,6.3,Neutral,Teen,0.76,5.47,No,Yes
+347,19,Male,High School,Other,3.0,YouTube,No,8.1,7.3,Positive,Young Adult,0.37,7.53,No,No
+63,23,Female,Graduate,Other,3.7,Snapchat,No,8.5,8.2,Positive,Adult,0.44,8.06,No,No
+758,20,Female,High School,USA,5.5,TikTok,No,6.9,6.5,Neutral,Young Adult,0.8,5.7,Yes,Yes
+737,22,Male,Graduate,Other,5.2,Facebook,Yes,7.3,5.8,Neutral,Young Adult,0.71,5.57,Yes,No
+892,24,Female,Undergraduate,Canada,1.7,YouTube,No,7.1,7.4,Positive,Adult,0.24,7.48,No,No
+379,19,Male,Graduate,Other,3.7,YouTube,No,7.0,6.5,Neutral,Young Adult,0.53,6.29,No,No
+406,22,Male,Undergraduate,Australia,1.4,Instagram,No,8.6,8.6,Positive,Young Adult,0.16,9.04,No,No
+878,21,Male,Graduate,India,4.4,Instagram,No,7.3,6.1,Neutral,Young Adult,0.6,5.99,No,No
+323,21,Male,Undergraduate,Other,7.5,Instagram,Yes,4.9,4.8,Negative,Young Adult,1.53,3.08,Yes,Yes
+146,22,Female,High School,Other,4.2,Facebook,Yes,6.1,6.1,Neutral,Young Adult,0.69,5.45,No,Yes
+314,20,Male,Graduate,Other,2.1,Twitter,No,7.7,7.6,Positive,Young Adult,0.27,7.78,No,No
+141,20,Male,High School,Other,6.0,LinkedIn,Yes,5.5,6.0,Negative,Young Adult,1.09,4.55,Yes,Yes
+555,18,Male,Undergraduate,Other,4.4,LinkedIn,No,6.1,6.3,Neutral,Teen,0.72,5.51,No,Yes
+751,24,Male,High School,Canada,3.3,TikTok,No,7.6,8.0,Positive,Adult,0.43,7.61,No,No
+170,20,Female,High School,Other,6.7,Twitter,Yes,5.0,5.6,Negative,Young Adult,1.34,3.85,Yes,Yes
+343,21,Male,Undergraduate,Other,8.6,Snapchat,Yes,4.5,5.0,Negative,Young Adult,1.91,2.67,Yes,Yes
+959,18,Female,Undergraduate,Other,3.1,Snapchat,No,7.7,8.6,Positive,Teen,0.4,8.08,No,No
+853,19,Female,High School,Other,5.8,TikTok,No,6.2,6.9,Neutral,Young Adult,0.94,5.5,Yes,Yes
+619,21,Male,Undergraduate,Other,5.1,YouTube,Yes,6.5,6.3,Neutral,Young Adult,0.78,5.5,Yes,Yes
+275,22,Male,Undergraduate,Other,3.2,LinkedIn,No,8.1,7.2,Positive,Young Adult,0.4,7.41,No,No
+928,22,Male,High School,USA,7.9,YouTube,Yes,5.2,4.7,Negative,Young Adult,1.52,3.05,Yes,Yes
+294,21,Female,Graduate,Other,7.2,TikTok,Yes,5.9,5.6,Negative,Young Adult,1.22,4.15,Yes,Yes
+150,21,Male,Graduate,Other,6.3,YouTube,Yes,5.9,4.5,Negative,Young Adult,1.07,3.76,Yes,Yes
+300,21,Male,Graduate,Other,8.5,Snapchat,Yes,4.7,5.4,Negative,Young Adult,1.81,3.04,Yes,Yes
+257,19,Male,High School,USA,2.7,LinkedIn,No,7.3,8.6,Positive,Young Adult,0.37,8.0,No,No
+5,23,Female,Graduate,Other,6.5,Instagram,Yes,5.3,5.3,Negative,Adult,1.23,3.88,Yes,Yes
+47,24,Female,High School,Other,4.7,LinkedIn,Yes,6.8,6.3,Neutral,Adult,0.69,5.77,No,Yes
+627,23,Female,High School,Other,7.6,Snapchat,Yes,5.3,5.2,Negative,Adult,1.43,3.49,Yes,Yes
+575,21,Male,Undergraduate,Other,6.8,Facebook,Yes,4.7,4.3,Negative,Young Adult,1.45,2.89,Yes,Yes
+871,20,Female,High School,Other,2.7,Facebook,No,8.3,8.3,Positive,Young Adult,0.33,8.32,No,No
+436,19,Female,High School,Other,8.6,LinkedIn,Yes,4.8,4.5,Negative,Young Adult,1.79,2.52,Yes,Yes
+106,18,Male,Undergraduate,Other,2.7,LinkedIn,No,8.8,8.5,Positive,Teen,0.31,8.69,No,No
+990,18,Female,Graduate,Other,6.1,Facebook,Yes,5.1,5.3,Negative,Teen,1.2,3.9,Yes,Yes
+301,24,Male,Graduate,Other,2.5,Snapchat,No,8.4,7.6,Positive,Adult,0.3,8.01,No,No
+917,18,Female,High School,Other,5.0,LinkedIn,Yes,6.7,6.1,Neutral,Teen,0.75,5.51,No,Yes
+178,20,Male,High School,India,7.6,Instagram,Yes,5.5,4.2,Negative,Young Adult,1.38,2.99,Yes,Yes
+386,19,Female,Undergraduate,Other,4.7,Facebook,No,6.1,6.7,Neutral,Young Adult,0.77,5.66,No,Yes
+840,21,Male,High School,Other,2.4,TikTok,No,7.6,8.8,Positive,Young Adult,0.32,8.36,No,No
+168,22,Female,Undergraduate,Other,2.2,YouTube,No,8.7,9.0,Positive,Young Adult,0.25,9.09,No,No
+843,20,Male,Undergraduate,Other,2.8,Twitter,No,8.3,7.2,Positive,Young Adult,0.34,7.63,No,No
+355,19,Male,Graduate,Other,7.0,Instagram,Yes,4.7,5.5,Negative,Young Adult,1.49,3.55,Yes,Yes
+658,23,Female,Undergraduate,Other,5.5,YouTube,No,6.7,6.4,Neutral,Adult,0.82,5.54,Yes,Yes
+539,21,Male,High School,UK,3.6,Instagram,No,8.4,8.2,Positive,Young Adult,0.43,8.04,No,No
+566,18,Female,High School,USA,5.7,Twitter,No,4.5,5.8,Negative,Teen,1.27,4.02,Yes,Yes
+37,19,Male,Graduate,Other,2.4,LinkedIn,No,8.4,7.6,Positive,Young Adult,0.29,8.04,No,No
+515,20,Female,Graduate,Other,6.4,Facebook,No,5.4,4.3,Negative,Young Adult,1.19,3.36,Yes,Yes
+789,21,Female,Graduate,Other,2.8,Twitter,No,7.6,7.8,Positive,Young Adult,0.37,7.64,No,No
+92,24,Male,High School,India,8.3,Instagram,Yes,4.7,4.5,Negative,Adult,1.77,2.56,Yes,Yes
+164,22,Male,Undergraduate,Other,1.7,Instagram,No,7.2,8.2,Positive,Young Adult,0.24,8.01,No,No
+50,21,Male,High School,Other,5.2,Instagram,Yes,6.5,6.5,Neutral,Young Adult,0.8,5.59,Yes,Yes
+20,21,Female,Undergraduate,USA,6.3,Snapchat,Yes,5.0,6.0,Negative,Young Adult,1.26,4.21,Yes,Yes
+85,23,Female,Graduate,Other,7.4,Instagram,No,5.3,5.4,Negative,Adult,1.4,3.67,Yes,Yes
+1000,24,Male,Undergraduate,Germany,7.0,LinkedIn,Yes,6.0,4.3,Negative,Adult,1.17,3.48,Yes,Yes
+941,21,Male,Undergraduate,Australia,5.9,Instagram,Yes,7.6,6.5,Neutral,Young Adult,0.78,5.93,Yes,No
+13,20,Female,High School,Other,1.8,Twitter,No,7.2,7.5,Positive,Young Adult,0.25,7.56,No,No
+532,22,Female,Undergraduate,Other,8.1,YouTube,Yes,5.1,5.0,Negative,Young Adult,1.59,3.12,Yes,Yes
+250,24,Male,Graduate,Other,8.1,Twitter,Yes,6.0,4.8,Negative,Adult,1.35,3.45,Yes,Yes
+889,24,Female,High School,Other,3.9,Instagram,No,7.0,6.5,Neutral,Adult,0.56,6.23,No,No
+633,21,Male,Graduate,India,8.1,Facebook,Yes,5.4,5.6,Negative,Young Adult,1.5,3.63,Yes,Yes
+761,22,Female,Undergraduate,Other,7.0,Instagram,Yes,6.0,4.1,Negative,Young Adult,1.17,3.36,Yes,Yes
+960,22,Female,Graduate,Canada,7.8,TikTok,Yes,5.9,4.1,Negative,Young Adult,1.32,3.07,Yes,Yes
+695,24,Female,Graduate,Other,5.8,Snapchat,Yes,7.0,6.3,Neutral,Adult,0.83,5.54,Yes,No
+134,19,Female,Undergraduate,Other,5.1,LinkedIn,Yes,6.6,6.5,Neutral,Young Adult,0.77,5.67,Yes,Yes
+231,24,Female,High School,USA,7.5,Instagram,No,5.3,5.0,Negative,Adult,1.42,3.4,Yes,Yes
+731,19,Female,High School,India,8.6,Snapchat,Yes,5.9,4.8,Negative,Young Adult,1.46,3.25,Yes,Yes
+144,22,Female,High School,India,6.8,TikTok,No,5.4,4.9,Negative,Young Adult,1.26,3.6,Yes,Yes
+475,20,Female,Graduate,Other,7.2,Snapchat,No,5.9,4.6,Negative,Young Adult,1.22,3.55,Yes,Yes
+927,24,Female,High School,Other,7.3,YouTube,Yes,4.7,5.3,Negative,Adult,1.55,3.34,Yes,Yes
+863,23,Male,Graduate,Other,7.9,Facebook,Yes,5.7,3.9,Negative,Adult,1.39,2.82,Yes,Yes
+418,20,Female,Graduate,UK,5.3,YouTube,No,7.3,6.7,Neutral,Young Adult,0.73,6.08,Yes,No
+353,22,Female,Undergraduate,Other,5.0,LinkedIn,Yes,6.9,6.6,Neutral,Young Adult,0.72,5.91,No,Yes
+237,21,Female,High School,USA,6.0,Instagram,Yes,5.7,5.3,Negative,Young Adult,1.05,4.23,Yes,Yes
+137,23,Male,Graduate,Other,6.4,LinkedIn,Yes,5.4,4.4,Negative,Adult,1.19,3.42,Yes,Yes
+477,18,Female,Graduate,Other,4.0,Snapchat,Yes,6.2,6.9,Neutral,Teen,0.65,6.04,No,Yes
+592,22,Female,Graduate,USA,3.6,Facebook,Yes,6.9,6.5,Neutral,Young Adult,0.52,6.27,No,Yes
+506,18,Male,Graduate,Australia,3.7,Twitter,Yes,7.4,6.5,Neutral,Teen,0.5,6.49,No,No
+461,21,Male,Undergraduate,Other,8.0,LinkedIn,Yes,5.5,5.5,Negative,Young Adult,1.45,3.65,Yes,Yes
+330,23,Female,Undergraduate,Other,8.4,Snapchat,Yes,5.7,5.7,Negative,Adult,1.47,3.75,Yes,Yes
+559,19,Male,High School,USA,5.8,LinkedIn,Yes,5.1,5.0,Negative,Young Adult,1.14,3.81,Yes,Yes
+922,23,Male,Graduate,Other,5.9,Snapchat,Yes,5.2,5.1,Negative,Adult,1.13,3.89,Yes,Yes
+329,18,Male,Undergraduate,Other,2.3,Snapchat,No,7.5,8.1,Positive,Teen,0.31,7.92,No,No
+571,19,Female,High School,Other,6.0,YouTube,Yes,5.6,4.3,Negative,Young Adult,1.07,3.58,Yes,Yes
+883,20,Female,High School,Other,7.1,Instagram,No,4.5,5.9,Negative,Young Adult,1.58,3.66,Yes,Yes
+766,24,Male,High School,Other,3.9,LinkedIn,No,7.4,8.8,Positive,Adult,0.53,7.81,No,No
+203,18,Female,High School,Other,3.2,TikTok,No,8.6,8.8,Positive,Teen,0.37,8.62,No,No
+334,19,Female,High School,USA,1.4,Instagram,No,8.2,8.1,Positive,Young Adult,0.17,8.54,No,No
+565,18,Male,Graduate,Other,6.5,YouTube,Yes,5.7,4.5,Negative,Teen,1.14,3.6,Yes,Yes
+182,23,Male,Graduate,India,2.9,YouTube,No,7.6,7.6,Positive,Adult,0.38,7.49,No,No
+372,24,Female,Undergraduate,Other,3.3,YouTube,Yes,7.7,7.8,Positive,Adult,0.43,7.54,No,No
+327,21,Female,Graduate,Other,5.9,Twitter,Yes,5.9,4.1,Negative,Young Adult,1.0,3.64,Yes,Yes
+233,21,Female,Undergraduate,Other,3.3,YouTube,No,7.7,7.6,Positive,Young Adult,0.43,7.42,No,No
+479,22,Male,Graduate,Other,2.2,Snapchat,Yes,8.2,7.3,Positive,Young Adult,0.27,7.82,No,No
+357,22,Male,Undergraduate,Other,8.0,YouTube,Yes,5.5,5.3,Negative,Young Adult,1.45,3.53,Yes,Yes
+404,21,Male,Graduate,Other,3.5,Twitter,No,7.5,8.9,Positive,Young Adult,0.47,8.04,No,No
+783,21,Male,Graduate,USA,5.6,TikTok,Yes,5.5,5.6,Negative,Young Adult,1.02,4.43,Yes,Yes
+781,24,Female,Graduate,Other,2.8,Twitter,No,8.1,7.0,Positive,Adult,0.35,7.41,No,No
+493,22,Male,Undergraduate,Other,5.8,YouTube,Yes,6.9,6.5,Neutral,Young Adult,0.84,5.61,Yes,Yes
+854,19,Male,Graduate,USA,6.1,YouTube,Yes,5.2,5.7,Negative,Young Adult,1.17,4.19,Yes,Yes
+108,19,Male,Graduate,Other,4.9,Facebook,No,5.9,6.3,Neutral,Young Adult,0.83,5.26,No,Yes
+415,20,Male,High School,Other,5.5,TikTok,Yes,6.7,6.7,Neutral,Young Adult,0.82,5.72,Yes,Yes
+176,18,Male,High School,Other,5.6,YouTube,Yes,4.5,5.6,Negative,Teen,1.24,3.93,Yes,Yes
+140,19,Male,Undergraduate,Other,7.5,TikTok,Yes,4.7,4.0,Negative,Young Adult,1.6,2.5,Yes,Yes
+58,20,Female,High School,Other,8.2,Instagram,Yes,5.9,5.0,Negative,Young Adult,1.39,3.49,Yes,Yes
+715,18,Female,High School,Other,7.5,YouTube,Yes,5.8,4.8,Negative,Teen,1.29,3.53,Yes,Yes
+159,18,Female,High School,Australia,6.4,LinkedIn,Yes,5.9,5.4,Negative,Teen,1.08,4.27,Yes,Yes
+126,23,Female,High School,Other,2.0,LinkedIn,No,8.1,8.6,Positive,Adult,0.25,8.61,No,No
+56,19,Male,High School,Australia,5.6,YouTube,Yes,5.9,5.8,Negative,Young Adult,0.95,4.75,Yes,Yes
+646,21,Male,High School,Canada,7.1,TikTok,Yes,4.7,4.5,Negative,Young Adult,1.51,2.92,Yes,Yes
+986,23,Male,Graduate,Other,5.3,Snapchat,Yes,5.6,4.0,Negative,Adult,0.95,3.61,Yes,Yes
+579,23,Female,High School,Other,7.3,Instagram,Yes,5.9,5.0,Negative,Adult,1.24,3.76,Yes,Yes
+801,24,Female,Graduate,India,3.2,Snapchat,Yes,7.3,7.1,Positive,Adult,0.44,6.95,No,No
+135,21,Female,High School,Germany,3.9,YouTube,No,8.7,8.6,Positive,Young Adult,0.45,8.34,No,No
+874,21,Male,High School,Other,3.6,TikTok,Yes,8.5,7.2,Positive,Young Adult,0.42,7.49,No,No
+562,19,Female,High School,Other,5.5,YouTube,No,6.4,6.4,Neutral,Young Adult,0.86,5.39,Yes,Yes
+424,23,Male,Undergraduate,Other,2.0,Facebook,No,7.7,7.9,Positive,Adult,0.26,7.99,No,No
+304,22,Female,Undergraduate,Other,6.3,TikTok,Yes,5.8,4.1,Negative,Young Adult,1.09,3.47,Yes,Yes
+795,21,Female,Graduate,Other,4.7,Instagram,Yes,6.2,6.8,Neutral,Young Adult,0.76,5.77,No,Yes
+554,24,Male,Graduate,Other,6.3,Snapchat,No,5.5,4.4,Negative,Adult,1.15,3.5,Yes,Yes
+568,23,Female,Undergraduate,Germany,7.8,Instagram,Yes,5.5,5.2,Negative,Adult,1.42,3.53,Yes,Yes
+420,24,Female,High School,Other,5.8,TikTok,Yes,4.9,5.3,Negative,Adult,1.18,3.89,Yes,Yes
+244,19,Male,Graduate,Other,5.0,YouTube,Yes,6.2,6.2,Neutral,Young Adult,0.81,5.32,No,Yes
+534,18,Female,Graduate,UK,6.6,Facebook,Yes,5.9,4.6,Negative,Teen,1.12,3.73,Yes,Yes
+511,23,Male,High School,India,7.0,Twitter,Yes,5.1,6.1,Negative,Adult,1.37,4.11,Yes,Yes
+837,21,Female,Graduate,India,3.7,LinkedIn,No,7.2,7.6,Positive,Young Adult,0.51,7.05,No,No
+412,22,Female,High School,Other,4.4,YouTube,Yes,6.6,6.1,Neutral,Young Adult,0.67,5.64,No,Yes
+380,22,Male,Graduate,Other,6.0,Snapchat,No,6.5,6.4,Neutral,Young Adult,0.92,5.29,Yes,Yes
+920,22,Female,Undergraduate,Other,6.4,YouTube,Yes,5.6,5.0,Negative,Young Adult,1.14,3.88,Yes,Yes
+521,19,Male,Graduate,Other,7.9,LinkedIn,Yes,5.7,4.0,Negative,Young Adult,1.39,2.88,Yes,Yes
+291,23,Female,Graduate,Other,5.2,Snapchat,No,6.1,6.6,Neutral,Adult,0.85,5.45,Yes,Yes
+447,21,Female,Graduate,Other,3.5,TikTok,Yes,7.5,9.2,Positive,Young Adult,0.47,8.22,No,No
+741,22,Female,Graduate,Other,5.1,LinkedIn,Yes,7.1,6.2,Neutral,Young Adult,0.72,5.74,Yes,No
+485,19,Female,Graduate,Other,2.9,YouTube,No,8.6,7.7,Positive,Young Adult,0.34,8.05,No,No
+899,23,Female,Undergraduate,Other,6.6,Twitter,Yes,5.8,4.6,Negative,Adult,1.14,3.68,Yes,Yes
+852,23,Male,Undergraduate,Other,3.9,TikTok,Yes,7.4,7.0,Neutral,Adult,0.53,6.73,No,No
+387,23,Male,Graduate,Other,2.4,LinkedIn,No,7.2,7.0,Positive,Adult,0.33,7.08,No,No
+833,22,Male,High School,India,5.0,Twitter,Yes,6.2,7.0,Neutral,Young Adult,0.81,5.8,No,Yes
+399,18,Male,Undergraduate,Other,5.7,Twitter,Yes,5.9,6.4,Neutral,Teen,0.97,5.08,Yes,Yes
+868,19,Female,Undergraduate,Germany,5.8,TikTok,Yes,5.2,4.0,Negative,Young Adult,1.12,3.26,Yes,Yes
+586,24,Female,Undergraduate,Other,8.5,Twitter,Yes,5.1,4.7,Negative,Adult,1.67,2.82,Yes,Yes
+397,19,Male,Undergraduate,Other,6.7,TikTok,No,5.0,5.7,Negative,Young Adult,1.34,3.91,Yes,Yes
+322,21,Male,High School,Other,7.7,Twitter,Yes,5.0,4.0,Negative,Young Adult,1.54,2.59,Yes,Yes
+906,19,Male,Undergraduate,UK,1.9,Snapchat,No,7.5,7.7,Positive,Young Adult,0.25,7.8,No,No
+184,18,Male,Graduate,Other,3.8,Facebook,Yes,7.2,8.5,Positive,Teen,0.53,7.56,No,No
+744,19,Female,High School,Other,4.4,LinkedIn,Yes,6.2,6.3,Neutral,Young Adult,0.71,5.56,No,Yes
+803,20,Male,Graduate,Other,3.4,TikTok,Yes,7.2,8.2,Positive,Young Adult,0.47,7.5,No,No
+934,18,Male,Graduate,Other,7.3,Twitter,Yes,5.3,5.1,Negative,Teen,1.38,3.52,Yes,Yes
+227,21,Female,High School,USA,3.6,Facebook,No,7.5,8.3,Positive,Young Adult,0.48,7.65,No,No
+648,23,Male,Undergraduate,USA,4.7,YouTube,Yes,6.9,6.4,Neutral,Adult,0.68,5.88,No,Yes
+523,18,Male,High School,Other,5.3,YouTube,Yes,6.9,6.4,Neutral,Teen,0.77,5.7,Yes,Yes
+388,20,Male,Graduate,Australia,7.3,Twitter,Yes,5.3,6.0,Negative,Young Adult,1.38,4.06,Yes,Yes
+629,19,Female,Graduate,India,3.7,LinkedIn,No,7.6,6.7,Neutral,Young Adult,0.49,6.71,No,No
+69,22,Female,Graduate,India,8.3,Instagram,No,6.0,5.5,Negative,Young Adult,1.38,3.81,Yes,Yes
+551,19,Female,Undergraduate,Other,8.4,Twitter,No,4.7,4.6,Negative,Young Adult,1.79,2.59,Yes,Yes
+309,21,Male,Undergraduate,Other,4.1,Snapchat,No,6.5,7.0,Neutral,Young Adult,0.63,6.22,No,Yes
+256,23,Female,Undergraduate,India,7.5,YouTube,Yes,4.8,4.8,Negative,Adult,1.56,3.03,Yes,Yes
+121,23,Female,High School,Other,5.3,Facebook,Yes,7.3,6.1,Neutral,Adult,0.73,5.72,Yes,No
+149,18,Male,High School,Other,6.0,Snapchat,No,6.1,6.1,Neutral,Teen,0.98,4.91,Yes,Yes
+628,22,Female,Undergraduate,Other,3.8,TikTok,No,6.5,7.0,Neutral,Young Adult,0.58,6.31,No,Yes
+390,22,Male,High School,Other,5.7,TikTok,Yes,6.2,6.5,Neutral,Young Adult,0.92,5.29,Yes,Yes
+908,21,Female,High School,Other,8.3,Facebook,Yes,5.1,5.2,Negative,Young Adult,1.63,3.18,Yes,Yes
+251,20,Male,Undergraduate,Australia,5.9,Snapchat,Yes,5.6,5.0,Negative,Young Adult,1.05,4.03,Yes,Yes
+645,24,Female,Graduate,Other,8.1,YouTube,Yes,4.6,5.6,Negative,Adult,1.76,3.23,Yes,Yes
+771,21,Male,Graduate,Other,4.5,Twitter,Yes,6.5,7.0,Neutral,Young Adult,0.69,6.1,No,Yes
+474,21,Female,High School,Germany,7.4,Snapchat,Yes,5.0,5.2,Negative,Young Adult,1.48,3.4,Yes,Yes
+271,22,Female,High School,Other,3.1,Twitter,No,8.3,6.9,Positive,Young Adult,0.37,7.36,No,No
+365,18,Male,Undergraduate,Other,7.5,Instagram,No,5.5,5.5,Negative,Teen,1.36,3.8,Yes,Yes
+509,20,Female,Graduate,Other,3.8,Snapchat,Yes,6.2,6.1,Neutral,Young Adult,0.61,5.62,No,Yes
+317,20,Female,Undergraduate,USA,7.2,LinkedIn,Yes,6.1,4.1,Negative,Young Adult,1.18,3.35,Yes,Yes
+298,22,Male,Undergraduate,Other,6.1,TikTok,Yes,5.4,6.1,Negative,Young Adult,1.13,4.53,Yes,Yes
+729,24,Female,Undergraduate,Other,6.2,LinkedIn,Yes,5.9,4.7,Negative,Adult,1.05,3.91,Yes,Yes
+613,21,Female,Graduate,Other,4.7,LinkedIn,Yes,6.8,6.1,Neutral,Young Adult,0.69,5.65,No,Yes
+649,18,Male,Graduate,India,2.9,Instagram,Yes,7.8,8.5,Positive,Teen,0.37,8.13,No,No
+581,19,Male,Undergraduate,Other,8.0,Twitter,Yes,4.8,5.0,Negative,Young Adult,1.67,3.0,Yes,Yes
+401,21,Female,Undergraduate,Other,8.1,Facebook,Yes,5.8,5.1,Negative,Young Adult,1.4,3.53,Yes,Yes
+967,18,Female,Undergraduate,Other,5.9,TikTok,Yes,5.7,5.0,Negative,Teen,1.04,4.08,Yes,Yes
+252,19,Female,Undergraduate,Other,5.0,YouTube,No,6.7,6.9,Neutral,Young Adult,0.75,5.99,No,Yes
+951,24,Female,Graduate,Other,5.2,Instagram,No,6.6,6.7,Neutral,Adult,0.79,5.76,Yes,Yes
+556,22,Female,Undergraduate,Other,4.6,Instagram,Yes,6.6,6.9,Neutral,Young Adult,0.7,6.06,No,Yes
+616,23,Female,Undergraduate,India,1.5,Twitter,No,6.9,8.8,Positive,Adult,0.22,8.28,No,Yes
+601,18,Male,Graduate,Germany,6.2,YouTube,Yes,4.5,5.3,Negative,Teen,1.38,3.57,Yes,Yes
+217,18,Male,Graduate,Canada,2.1,Twitter,No,7.3,9.0,Positive,Teen,0.29,8.42,No,No
+700,21,Male,Undergraduate,Other,7.3,Instagram,No,5.9,5.0,Negative,Young Adult,1.24,3.76,Yes,Yes
+513,21,Female,Undergraduate,Other,6.8,Instagram,Yes,5.2,5.8,Negative,Young Adult,1.31,4.04,Yes,Yes
+448,24,Male,Graduate,Other,6.0,Twitter,Yes,6.1,4.4,Negative,Adult,0.98,3.89,Yes,Yes
+598,20,Male,Graduate,Australia,2.4,YouTube,No,8.6,7.2,Positive,Young Adult,0.28,7.9,No,No
+346,18,Male,High School,Other,6.6,LinkedIn,Yes,5.0,5.1,Negative,Teen,1.32,3.58,Yes,Yes
+202,20,Male,Graduate,Other,2.5,LinkedIn,Yes,8.7,8.5,Positive,Young Adult,0.29,8.7,No,No
+525,20,Male,Graduate,Other,6.9,TikTok,Yes,5.3,5.0,Negative,Young Adult,1.3,3.58,Yes,Yes
+165,19,Female,Graduate,Germany,5.4,Snapchat,Yes,7.4,6.5,Neutral,Young Adult,0.73,5.98,Yes,No
+18,21,Male,Graduate,Australia,4.9,Instagram,Yes,7.4,6.6,Neutral,Young Adult,0.66,6.19,No,No
+992,21,Male,High School,Other,2.9,Facebook,Yes,8.4,9.0,Positive,Young Adult,0.35,8.73,No,No
+480,21,Male,High School,Other,1.8,Instagram,No,8.1,7.7,Positive,Young Adult,0.22,8.13,No,No
+80,23,Female,High School,Other,6.1,TikTok,Yes,6.0,4.3,Negative,Adult,1.02,3.75,Yes,Yes
+216,23,Male,Graduate,Other,5.5,TikTok,Yes,5.5,4.2,Negative,Adult,1.0,3.62,Yes,Yes
+768,19,Female,Graduate,Other,4.4,TikTok,Yes,6.6,6.6,Neutral,Young Adult,0.67,5.94,No,Yes
+810,24,Female,Graduate,Other,8.1,Snapchat,No,5.5,6.2,Negative,Adult,1.47,4.04,Yes,Yes
+210,21,Male,High School,Australia,3.4,Twitter,Yes,7.5,6.8,Neutral,Young Adult,0.45,6.81,No,No
+306,22,Male,Undergraduate,Canada,4.8,Twitter,No,7.0,6.1,Neutral,Young Adult,0.69,5.72,No,No
+796,24,Female,Undergraduate,Other,2.6,YouTube,No,8.6,8.4,Positive,Adult,0.3,8.56,No,No
+316,22,Male,Graduate,Other,8.1,LinkedIn,Yes,4.5,5.4,Negative,Young Adult,1.8,3.06,Yes,Yes
+10,22,Male,Graduate,Other,6.6,Snapchat,Yes,5.1,5.2,Negative,Young Adult,1.29,3.69,Yes,Yes
+846,22,Male,Graduate,Other,1.8,TikTok,Yes,8.2,8.6,Positive,Young Adult,0.22,8.72,No,No
+624,22,Female,Graduate,Canada,6.7,Instagram,Yes,5.4,4.4,Negative,Young Adult,1.24,3.33,Yes,Yes
+937,19,Male,Graduate,UK,1.5,TikTok,No,7.6,8.4,Positive,Young Adult,0.2,8.39,No,No
+417,20,Female,Undergraduate,Other,3.7,TikTok,No,8.7,8.6,Positive,Young Adult,0.43,8.4,No,No
+268,24,Male,High School,Other,6.4,Snapchat,No,5.4,5.5,Negative,Adult,1.19,4.08,Yes,Yes
+825,23,Male,Undergraduate,Other,7.7,Twitter,Yes,5.6,5.8,Negative,Adult,1.38,3.97,Yes,Yes
+747,20,Female,Graduate,Other,5.0,TikTok,Yes,7.3,6.8,Neutral,Young Adult,0.68,6.23,No,No
+83,18,Female,Undergraduate,Other,7.9,Facebook,No,4.6,6.1,Negative,Teen,1.72,3.59,Yes,Yes
+947,21,Female,Undergraduate,Other,1.7,Instagram,No,8.6,7.7,Positive,Young Adult,0.2,8.41,No,No
+794,22,Female,High School,Other,5.8,LinkedIn,No,6.8,6.4,Neutral,Young Adult,0.85,5.5,Yes,Yes
+472,21,Male,High School,India,6.5,Snapchat,No,5.5,5.9,Negative,Young Adult,1.18,4.34,Yes,Yes
+341,22,Female,Undergraduate,Other,2.2,Snapchat,No,7.8,8.4,Positive,Young Adult,0.28,8.28,No,No
+491,24,Male,Graduate,Germany,5.2,YouTube,Yes,6.4,6.5,Neutral,Adult,0.81,5.54,Yes,Yes
+563,23,Male,Undergraduate,Other,5.3,TikTok,Yes,6.9,6.8,Neutral,Adult,0.77,5.94,Yes,Yes
+829,20,Female,Graduate,Germany,6.6,TikTok,Yes,5.0,5.1,Negative,Young Adult,1.32,3.58,Yes,Yes
+360,22,Female,Undergraduate,Other,7.3,LinkedIn,Yes,6.0,4.0,Negative,Young Adult,1.22,3.21,Yes,Yes
+282,21,Female,High School,Canada,4.8,Facebook,No,7.1,6.3,Neutral,Young Adult,0.68,5.89,No,No
+540,19,Male,Undergraduate,Canada,7.6,Facebook,Yes,5.5,4.4,Negative,Young Adult,1.38,3.11,Yes,Yes
+580,21,Female,High School,Other,2.7,LinkedIn,No,8.9,8.1,Positive,Young Adult,0.3,8.5,No,No
+625,19,Female,Undergraduate,Other,6.5,TikTok,Yes,4.9,4.9,Negative,Young Adult,1.33,3.44,Yes,Yes
+946,22,Male,Undergraduate,Australia,5.7,Snapchat,Yes,7.5,6.7,Neutral,Young Adult,0.76,6.06,Yes,No
+615,20,Female,Graduate,USA,2.9,Twitter,No,7.5,7.1,Positive,Young Adult,0.39,7.14,No,No
+798,19,Female,High School,Other,4.1,Facebook,Yes,7.0,6.5,Neutral,Young Adult,0.59,6.17,No,No
+54,21,Male,Graduate,Canada,3.7,YouTube,Yes,9.0,8.5,Positive,Young Adult,0.41,8.49,No,No
+222,23,Female,Graduate,India,3.7,Instagram,No,7.5,8.1,Positive,Adult,0.49,7.5,No,No
+952,24,Female,Undergraduate,Other,2.0,Instagram,No,7.9,8.7,Positive,Adult,0.25,8.57,No,No
+875,23,Female,High School,Other,4.7,Twitter,No,7.4,5.9,Neutral,Adult,0.64,5.83,No,No
+687,24,Male,High School,Other,7.6,LinkedIn,Yes,5.8,4.4,Negative,Adult,1.31,3.26,Yes,Yes
+754,23,Female,High School,Other,7.3,Facebook,No,5.7,4.6,Negative,Adult,1.28,3.42,Yes,Yes
+226,23,Male,Graduate,India,8.5,Twitter,No,5.7,5.7,Negative,Adult,1.49,3.72,Yes,Yes
+655,22,Female,Graduate,India,5.0,Instagram,No,6.8,6.2,Neutral,Young Adult,0.74,5.62,No,Yes
+181,21,Female,Graduate,India,2.5,TikTok,Yes,8.8,7.6,Positive,Young Adult,0.28,8.21,No,No
+59,20,Male,Undergraduate,Other,8.1,Twitter,Yes,4.5,4.4,Negative,Young Adult,1.8,2.46,Yes,Yes
+366,19,Male,High School,Other,6.2,TikTok,Yes,5.4,4.8,Negative,Young Adult,1.15,3.72,Yes,Yes
+171,20,Male,Graduate,Other,7.5,LinkedIn,Yes,4.6,5.0,Negative,Young Adult,1.63,3.05,Yes,Yes
+582,20,Female,High School,Other,6.2,YouTube,Yes,5.3,4.2,Negative,Young Adult,1.17,3.31,Yes,Yes
+34,24,Female,Graduate,Other,3.4,Facebook,No,7.5,7.3,Positive,Adult,0.45,7.11,No,No
+99,23,Female,Undergraduate,Other,6.8,TikTok,Yes,6.0,4.5,Negative,Adult,1.13,3.66,Yes,Yes
+376,20,Male,High School,Other,3.0,YouTube,No,7.6,7.5,Positive,Young Adult,0.39,7.4,No,No
+689,24,Male,High School,Other,5.8,TikTok,Yes,5.7,5.3,Negative,Adult,1.02,4.29,Yes,Yes
+132,19,Male,High School,Other,4.4,YouTube,Yes,6.5,6.4,Neutral,Young Adult,0.68,5.77,No,Yes
+981,21,Male,High School,Other,7.1,Twitter,Yes,4.6,3.9,Negative,Young Adult,1.54,2.51,Yes,Yes
+89,23,Female,Undergraduate,Other,5.3,Instagram,No,6.8,6.3,Neutral,Adult,0.78,5.59,Yes,Yes
+995,19,Male,Graduate,Other,7.9,YouTube,No,4.5,5.9,Negative,Young Adult,1.76,3.42,Yes,Yes
+187,22,Female,Undergraduate,Other,7.0,TikTok,Yes,4.8,5.6,Negative,Young Adult,1.46,3.66,Yes,Yes
+792,24,Male,Graduate,Other,3.9,LinkedIn,No,8.6,8.0,Positive,Adult,0.45,7.93,No,No
+823,18,Male,High School,India,3.8,LinkedIn,Yes,8.6,7.6,Positive,Teen,0.44,7.72,No,No
+454,24,Male,Undergraduate,Canada,6.3,Facebook,Yes,5.7,4.4,Negative,Adult,1.11,3.6,Yes,Yes
+378,22,Male,High School,Other,5.6,Instagram,Yes,5.7,5.0,Negative,Young Adult,0.98,4.17,Yes,Yes
+113,24,Female,High School,Other,3.5,YouTube,Yes,7.3,6.8,Neutral,Adult,0.48,6.68,No,No
+318,21,Male,Graduate,Germany,7.6,LinkedIn,Yes,5.0,4.2,Negative,Young Adult,1.52,2.74,Yes,Yes
+903,18,Male,Undergraduate,Other,7.0,YouTube,No,5.2,4.9,Negative,Teen,1.35,3.44,Yes,Yes
+636,24,Female,Undergraduate,Germany,5.5,Twitter,Yes,4.7,4.7,Negative,Adult,1.17,3.52,Yes,Yes
+573,19,Female,High School,Other,5.5,Facebook,No,6.7,6.6,Neutral,Young Adult,0.82,5.66,Yes,Yes
+681,18,Male,Undergraduate,Other,2.4,TikTok,No,8.3,7.3,Positive,Teen,0.29,7.81,No,No
+138,18,Male,High School,Other,5.9,Facebook,No,5.1,4.2,Negative,Teen,1.16,3.3,Yes,Yes
+830,19,Male,High School,Other,5.2,Facebook,Yes,6.9,6.5,Neutral,Young Adult,0.75,5.79,Yes,Yes
+962,20,Male,Graduate,Other,2.1,LinkedIn,No,8.1,7.6,Positive,Young Adult,0.26,7.98,No,No
+693,24,Male,Undergraduate,Other,1.9,Snapchat,No,8.9,7.3,Positive,Adult,0.21,8.26,No,No
+253,21,Female,High School,Australia,5.9,LinkedIn,Yes,6.9,6.3,Neutral,Young Adult,0.86,5.46,Yes,Yes
+921,23,Female,High School,Germany,6.8,Instagram,No,4.7,5.9,Negative,Adult,1.45,3.85,Yes,Yes
+720,22,Male,High School,Other,6.5,LinkedIn,Yes,4.8,4.8,Negative,Young Adult,1.35,3.33,Yes,Yes
+342,20,Female,Undergraduate,Other,6.8,Instagram,Yes,4.5,4.5,Negative,Young Adult,1.51,2.91,Yes,Yes
+813,18,Male,High School,Other,3.7,LinkedIn,Yes,7.7,8.2,Positive,Teen,0.48,7.66,No,No
+446,23,Male,Undergraduate,USA,2.3,LinkedIn,No,7.5,7.4,Positive,Adult,0.31,7.5,No,No
+517,24,Female,Undergraduate,Other,6.9,Snapchat,No,5.0,4.1,Negative,Adult,1.38,2.89,Yes,Yes
+486,20,Female,Graduate,Other,6.0,LinkedIn,Yes,5.8,5.3,Negative,Young Adult,1.03,4.28,Yes,Yes
+258,21,Female,Undergraduate,India,4.4,TikTok,No,6.2,6.6,Neutral,Young Adult,0.71,5.74,No,Yes
+204,21,Female,High School,Other,2.3,Twitter,Yes,7.0,8.2,Positive,Young Adult,0.33,7.73,No,No
+393,23,Female,Undergraduate,Australia,2.1,Instagram,No,8.6,7.7,Positive,Adult,0.24,8.29,No,No
+704,23,Male,Graduate,Other,3.4,TikTok,No,8.5,8.0,Positive,Adult,0.4,8.03,No,No
+980,19,Male,Graduate,Other,3.1,Instagram,No,8.3,7.3,Positive,Young Adult,0.37,7.6,No,No
+612,19,Male,High School,Other,6.6,TikTok,Yes,5.0,4.3,Negative,Young Adult,1.32,3.1,Yes,Yes
+872,18,Male,Undergraduate,Other,7.4,Twitter,Yes,4.9,4.6,Negative,Teen,1.51,2.99,Yes,Yes
+635,23,Female,Graduate,Other,4.5,Twitter,No,7.2,6.3,Neutral,Adult,0.62,6.03,No,No
+948,24,Female,Undergraduate,Other,3.6,Facebook,No,6.6,6.9,Neutral,Adult,0.55,6.36,No,Yes
+414,23,Female,Undergraduate,Germany,6.0,Snapchat,Yes,5.4,5.6,Negative,Adult,1.11,4.26,Yes,Yes
+717,18,Male,High School,Canada,6.4,Instagram,Yes,5.6,4.6,Negative,Teen,1.14,3.64,Yes,Yes
+881,18,Female,Undergraduate,Other,7.7,Facebook,No,5.3,4.0,Negative,Teen,1.45,2.74,Yes,Yes
+39,18,Male,High School,Other,4.8,Snapchat,Yes,6.6,6.8,Neutral,Teen,0.73,5.94,No,Yes
+597,20,Female,Graduate,Other,5.9,YouTube,Yes,5.0,5.5,Negative,Young Adult,1.18,4.03,Yes,Yes
+373,18,Female,Undergraduate,Other,8.0,Twitter,Yes,5.5,5.7,Negative,Teen,1.45,3.77,Yes,Yes
+407,20,Male,Graduate,Germany,4.0,YouTube,No,6.2,6.6,Neutral,Young Adult,0.65,5.86,No,Yes
+274,20,Male,High School,India,7.5,LinkedIn,No,5.3,5.2,Negative,Young Adult,1.42,3.52,Yes,Yes
+112,22,Male,Graduate,India,5.5,Twitter,Yes,7.0,7.1,Neutral,Young Adult,0.79,6.11,Yes,No
+969,22,Male,Undergraduate,Other,6.1,Instagram,Yes,5.9,5.5,Negative,Young Adult,1.03,4.42,Yes,Yes
+891,21,Male,Undergraduate,Canada,2.4,Twitter,No,8.8,7.1,Positive,Young Adult,0.27,7.94,No,No
+585,22,Male,Undergraduate,Other,4.3,Facebook,No,6.7,6.3,Neutral,Young Adult,0.64,5.84,No,Yes
+167,18,Female,Graduate,Other,5.6,Twitter,Yes,5.6,4.3,Negative,Teen,1.0,3.7,Yes,Yes
+66,23,Male,Undergraduate,India,1.6,Instagram,No,7.6,7.0,Positive,Adult,0.21,7.52,No,No
+19,22,Male,Graduate,Other,5.1,Facebook,Yes,6.6,6.8,Neutral,Young Adult,0.77,5.85,Yes,Yes
+278,23,Male,Undergraduate,UK,3.9,Twitter,No,7.2,6.9,Positive,Adult,0.54,6.57,No,No
+622,22,Female,Undergraduate,Other,6.6,YouTube,Yes,4.9,4.1,Negative,Young Adult,1.35,2.93,Yes,Yes
+465,21,Male,High School,Other,5.9,Facebook,Yes,4.4,5.2,Negative,Young Adult,1.34,3.55,Yes,Yes
+697,24,Female,High School,Other,3.8,Facebook,Yes,7.6,8.7,Positive,Adult,0.5,7.88,No,No
+427,18,Female,High School,USA,7.2,YouTube,Yes,5.4,5.9,Negative,Teen,1.33,4.08,Yes,Yes
+707,24,Female,Graduate,Other,7.4,YouTube,No,5.1,5.0,Negative,Adult,1.45,3.33,Yes,Yes
+526,18,Male,High School,Other,1.5,Snapchat,No,8.3,7.6,Positive,Teen,0.18,8.26,No,No
+245,22,Male,High School,UK,8.1,Snapchat,Yes,5.2,4.9,Negative,Young Adult,1.56,3.11,Yes,Yes
+228,18,Male,Undergraduate,Other,7.0,Instagram,Yes,5.8,4.8,Negative,Teen,1.21,3.68,Yes,Yes
+313,23,Male,High School,India,2.6,Instagram,No,8.9,8.4,Positive,Adult,0.29,8.71,No,No
+850,24,Male,Graduate,Other,5.8,Snapchat,Yes,4.8,4.9,Negative,Adult,1.21,3.6,Yes,Yes
+455,21,Male,High School,USA,6.8,Facebook,Yes,5.6,5.6,Negative,Young Adult,1.21,4.12,Yes,Yes
+668,24,Male,Undergraduate,Other,7.6,Twitter,Yes,5.3,3.9,Negative,Adult,1.43,2.71,Yes,Yes
+584,22,Female,Undergraduate,Canada,3.7,YouTube,Yes,7.3,6.3,Neutral,Young Adult,0.51,6.32,No,No
+345,22,Male,Undergraduate,Other,6.5,Snapchat,Yes,5.7,4.2,Negative,Young Adult,1.14,3.42,Yes,Yes
+398,24,Male,Graduate,Other,7.7,Instagram,Yes,5.8,5.8,Negative,Adult,1.33,4.07,Yes,Yes
+332,18,Female,Undergraduate,Other,7.7,TikTok,Yes,4.8,5.2,Negative,Teen,1.6,3.21,Yes,Yes
+254,19,Male,Graduate,India,5.8,YouTube,No,5.9,7.2,Neutral,Young Adult,0.98,5.53,Yes,Yes
+701,24,Male,Graduate,USA,4.3,TikTok,No,6.3,6.0,Neutral,Adult,0.68,5.46,No,Yes
+896,24,Male,High School,Other,6.8,YouTube,Yes,5.6,5.8,Negative,Adult,1.21,4.24,Yes,Yes
+344,21,Female,Graduate,Other,7.9,Twitter,No,5.1,5.6,Negative,Young Adult,1.55,3.54,Yes,Yes
+331,21,Male,High School,Canada,2.3,Instagram,No,6.9,8.3,Positive,Young Adult,0.33,7.74,No,Yes
+949,19,Female,Graduate,Australia,6.5,Facebook,Yes,5.2,5.9,Negative,Young Adult,1.25,4.19,Yes,Yes
+262,21,Female,High School,Other,7.5,LinkedIn,Yes,4.6,5.5,Negative,Young Adult,1.63,3.35,Yes,Yes
+755,20,Female,High School,USA,4.8,YouTube,No,6.1,6.7,Neutral,Young Adult,0.79,5.63,No,Yes
+879,18,Male,Graduate,Other,6.4,Facebook,Yes,4.7,4.9,Negative,Teen,1.36,3.37,Yes,Yes
+77,24,Female,Undergraduate,Germany,3.0,TikTok,No,7.9,7.5,Positive,Adult,0.38,7.55,No,No
+68,19,Female,Graduate,Other,5.3,LinkedIn,No,7.0,6.5,Neutral,Young Adult,0.76,5.81,Yes,No
+807,24,Male,Undergraduate,Other,2.6,LinkedIn,No,8.0,8.8,Positive,Adult,0.32,8.5,No,No
+74,21,Female,Graduate,Other,1.8,LinkedIn,No,8.8,8.5,Positive,Young Adult,0.2,8.96,No,No
+326,23,Female,Undergraduate,Other,2.9,Twitter,No,8.3,8.2,Positive,Adult,0.35,8.2,No,No
+817,22,Female,High School,Other,5.2,TikTok,Yes,6.2,6.9,Neutral,Young Adult,0.84,5.68,Yes,Yes
+97,21,Male,Graduate,Other,5.1,YouTube,No,6.6,6.7,Neutral,Young Adult,0.77,5.79,Yes,Yes
+560,21,Female,High School,Other,8.2,YouTube,Yes,5.5,4.5,Negative,Young Adult,1.49,2.99,Yes,Yes
+907,18,Male,Graduate,Other,2.9,Instagram,No,7.3,8.2,Positive,Teen,0.4,7.7,No,No
+292,19,Male,High School,Other,5.8,LinkedIn,No,7.3,6.3,Neutral,Young Adult,0.79,5.69,Yes,No
+626,22,Male,High School,Other,1.8,TikTok,No,7.6,7.7,Positive,Young Adult,0.24,7.88,No,No
+265,18,Female,High School,Other,7.4,Snapchat,Yes,5.3,5.9,Negative,Teen,1.4,3.97,Yes,Yes
+529,18,Female,High School,USA,2.0,YouTube,No,7.9,7.3,Positive,Teen,0.25,7.73,No,No
+507,18,Female,High School,Other,3.0,Snapchat,No,8.2,7.4,Positive,Teen,0.37,7.64,No,No
+93,18,Female,Undergraduate,USA,2.1,Instagram,No,8.6,7.9,Positive,Teen,0.24,8.41,No,No
+42,18,Male,High School,Other,5.8,LinkedIn,Yes,5.9,5.5,Negative,Teen,0.98,4.51,Yes,Yes
+816,18,Female,High School,UK,3.4,Twitter,Yes,7.0,7.1,Neutral,Teen,0.49,6.74,No,No
+87,18,Male,Graduate,USA,4.0,YouTube,Yes,6.0,6.7,Neutral,Teen,0.67,5.82,No,Yes
+726,20,Male,Undergraduate,Other,8.1,LinkedIn,No,6.1,5.9,Negative,Young Adult,1.33,4.16,Yes,Yes
+637,20,Male,High School,Other,8.1,Twitter,Yes,5.3,5.5,Negative,Young Adult,1.53,3.52,Yes,Yes
+710,23,Male,Undergraduate,Canada,6.2,Snapchat,Yes,6.4,6.0,Neutral,Adult,0.97,4.94,Yes,Yes
+75,19,Female,Graduate,Other,6.0,Facebook,Yes,4.7,4.5,Negative,Young Adult,1.28,3.25,Yes,Yes
+354,22,Female,High School,Other,7.0,TikTok,Yes,4.6,5.7,Negative,Young Adult,1.52,3.62,Yes,Yes
+340,21,Female,Graduate,Other,2.3,Facebook,No,8.6,8.5,Positive,Young Adult,0.27,8.71,No,No
+145,19,Male,Undergraduate,UK,3.9,Snapchat,Yes,6.7,6.8,Neutral,Young Adult,0.58,6.26,No,Yes
+528,22,Male,Undergraduate,USA,5.3,YouTube,Yes,5.4,4.6,Negative,Young Adult,0.98,3.87,Yes,Yes
+49,20,Male,Graduate,India,5.9,Snapchat,Yes,5.7,4.9,Negative,Young Adult,1.04,4.02,Yes,Yes
+443,22,Female,Undergraduate,Other,4.2,Snapchat,Yes,6.6,6.9,Neutral,Young Adult,0.64,6.18,No,Yes
+578,20,Male,High School,Other,3.1,LinkedIn,No,8.6,8.6,Positive,Young Adult,0.36,8.53,No,No
+901,20,Female,Undergraduate,Other,5.5,LinkedIn,No,6.5,6.7,Neutral,Young Adult,0.85,5.62,Yes,Yes
+785,18,Female,Undergraduate,Other,6.3,LinkedIn,No,5.2,4.2,Negative,Teen,1.21,3.23,Yes,Yes
+175,22,Male,High School,Other,3.9,YouTube,No,8.5,8.6,Positive,Young Adult,0.46,8.24,No,No
+638,22,Female,High School,UK,5.2,Facebook,Yes,7.1,6.1,Neutral,Young Adult,0.73,5.65,Yes,No
+516,20,Female,Undergraduate,Other,4.9,Twitter,No,5.9,7.0,Neutral,Young Adult,0.83,5.68,No,Yes
+180,24,Female,Undergraduate,Australia,2.4,LinkedIn,No,7.2,7.0,Positive,Adult,0.33,7.08,No,No
+324,23,Female,High School,Other,4.0,Instagram,Yes,7.2,7.9,Positive,Adult,0.56,7.14,No,No
+476,21,Female,High School,Other,5.1,LinkedIn,No,6.9,6.2,Neutral,Young Adult,0.74,5.64,Yes,Yes
+86,22,Male,High School,Other,3.6,YouTube,No,7.4,8.9,Positive,Young Adult,0.49,7.96,No,No
+876,19,Male,High School,Other,4.4,TikTok,No,6.8,6.4,Neutral,Young Adult,0.65,5.92,No,Yes
+805,20,Male,Undergraduate,USA,7.7,TikTok,Yes,5.7,5.3,Negative,Young Adult,1.35,3.72,Yes,Yes
+136,19,Male,Undergraduate,USA,5.7,LinkedIn,Yes,5.6,4.7,Negative,Young Adult,1.02,3.91,Yes,Yes
+806,22,Female,Graduate,Other,6.8,Instagram,Yes,5.8,4.4,Negative,Young Adult,1.17,3.5,Yes,Yes
+955,19,Female,Undergraduate,Other,5.3,Twitter,No,6.9,6.3,Neutral,Young Adult,0.77,5.64,Yes,Yes
+966,18,Male,High School,Other,6.5,Snapchat,No,5.4,4.1,Negative,Teen,1.2,3.21,Yes,Yes
+319,20,Female,Graduate,Other,3.2,TikTok,No,8.7,7.5,Positive,Young Adult,0.37,7.89,No,No
+749,23,Female,Graduate,Other,4.3,TikTok,No,6.0,6.3,Neutral,Adult,0.72,5.49,No,Yes
+32,22,Male,Undergraduate,Australia,6.3,YouTube,No,5.5,4.8,Negative,Young Adult,1.15,3.74,Yes,Yes
+569,20,Female,Graduate,USA,6.3,Facebook,Yes,5.5,5.8,Negative,Young Adult,1.15,4.34,Yes,Yes
+25,24,Male,Graduate,India,8.0,LinkedIn,Yes,5.1,5.1,Negative,Adult,1.57,3.21,Yes,Yes
+595,21,Male,Undergraduate,Other,5.2,Facebook,No,7.3,6.7,Neutral,Young Adult,0.71,6.11,Yes,No
+844,22,Male,Undergraduate,Other,6.8,Snapchat,Yes,4.6,5.4,Negative,Young Adult,1.48,3.5,Yes,Yes
+588,22,Male,Undergraduate,Other,2.7,YouTube,No,7.8,8.9,Positive,Young Adult,0.35,8.43,No,No
+760,22,Female,Graduate,Other,1.3,LinkedIn,Yes,7.1,7.4,Positive,Young Adult,0.18,7.6,No,No
+974,21,Male,High School,Other,4.0,Snapchat,No,6.5,6.6,Neutral,Young Adult,0.62,6.01,No,Yes
+35,22,Female,Undergraduate,Other,7.5,TikTok,Yes,5.4,4.8,Negative,Young Adult,1.39,3.33,Yes,Yes
+607,20,Female,Undergraduate,Other,6.4,TikTok,No,5.9,4.1,Negative,Young Adult,1.08,3.49,Yes,Yes
+229,19,Male,Undergraduate,USA,5.2,Twitter,No,7.2,6.6,Neutral,Young Adult,0.72,6.0,Yes,No
+62,18,Male,Graduate,UK,6.5,Snapchat,Yes,5.9,5.5,Negative,Teen,1.1,4.3,Yes,Yes
+545,23,Female,Graduate,UK,5.9,Snapchat,Yes,5.4,4.5,Negative,Adult,1.09,3.63,Yes,Yes
+508,24,Female,Graduate,Other,7.0,YouTube,Yes,5.6,5.0,Negative,Adult,1.25,3.7,Yes,Yes
+499,19,Female,Graduate,Other,4.2,LinkedIn,No,6.9,6.6,Neutral,Young Adult,0.61,6.15,No,Yes
+26,19,Male,Undergraduate,Other,6.4,LinkedIn,Yes,5.4,5.8,Negative,Young Adult,1.19,4.26,Yes,Yes
+114,23,Male,High School,Other,3.8,YouTube,No,6.6,6.2,Neutral,Adult,0.58,5.88,No,Yes
+192,24,Male,Graduate,Other,4.9,YouTube,No,6.6,6.2,Neutral,Adult,0.74,5.55,No,Yes
+449,18,Female,Undergraduate,Other,2.4,LinkedIn,No,7.2,7.3,Positive,Teen,0.33,7.26,No,No
+657,18,Female,Graduate,Other,2.8,Twitter,No,8.5,8.1,Positive,Teen,0.33,8.27,No,No
+263,21,Male,Graduate,Australia,7.1,TikTok,Yes,4.7,5.8,Negative,Young Adult,1.51,3.7,Yes,Yes
+12,19,Female,Graduate,UK,8.3,Snapchat,Yes,4.9,4.4,Negative,Young Adult,1.69,2.6,Yes,Yes
+522,20,Female,High School,USA,2.3,Facebook,Yes,8.1,9.0,Positive,Young Adult,0.28,8.76,No,No
+82,19,Male,High School,Other,8.3,Snapchat,Yes,4.9,5.4,Negative,Young Adult,1.69,3.2,Yes,Yes
+893,21,Male,High School,India,2.3,Snapchat,No,7.3,8.0,Positive,Young Adult,0.32,7.76,No,No
+984,22,Female,High School,Germany,6.5,Snapchat,Yes,4.7,5.4,Negative,Young Adult,1.38,3.64,Yes,Yes
+473,19,Female,Undergraduate,Other,3.9,LinkedIn,No,6.1,6.4,Neutral,Young Adult,0.64,5.72,No,Yes
+818,22,Female,Undergraduate,Other,2.8,Facebook,No,7.0,7.2,Positive,Young Adult,0.4,6.98,No,No
+490,23,Male,Undergraduate,Other,3.7,Instagram,No,8.8,9.1,Positive,Adult,0.42,8.75,No,No
+973,24,Male,Graduate,Other,7.5,Twitter,Yes,5.7,5.1,Negative,Adult,1.32,3.66,Yes,Yes
+799,22,Female,Undergraduate,Australia,3.0,YouTube,No,8.3,7.8,Positive,Young Adult,0.36,7.93,No,No
+71,22,Male,Undergraduate,Other,6.7,Facebook,Yes,5.1,4.4,Negative,Young Adult,1.31,3.18,Yes,Yes
+456,23,Female,Graduate,India,2.7,Facebook,Yes,7.8,8.6,Positive,Adult,0.35,8.25,No,No
+125,22,Male,Undergraduate,Other,6.6,Facebook,Yes,5.2,4.5,Negative,Young Adult,1.27,3.32,Yes,Yes
+821,23,Female,High School,Other,6.7,Instagram,Yes,5.7,5.5,Negative,Adult,1.18,4.14,Yes,Yes
+162,21,Male,Undergraduate,Canada,4.0,YouTube,Yes,6.2,6.1,Neutral,Young Adult,0.65,5.56,No,Yes
+308,23,Male,High School,Australia,3.4,YouTube,No,8.8,7.7,Positive,Adult,0.39,8.0,No,No
+361,20,Male,Undergraduate,Other,7.0,YouTube,Yes,6.0,5.1,Negative,Young Adult,1.17,3.96,Yes,Yes
+910,18,Male,Undergraduate,Other,2.3,Twitter,Yes,7.4,8.4,Positive,Teen,0.31,8.05,No,No
+148,18,Male,High School,Other,6.0,Snapchat,Yes,5.2,5.5,Negative,Teen,1.15,4.1,Yes,Yes
+939,23,Female,Graduate,Other,7.7,Instagram,Yes,4.5,4.3,Negative,Adult,1.71,2.52,Yes,Yes
+930,23,Female,Undergraduate,Other,4.4,Twitter,Yes,6.8,6.3,Neutral,Adult,0.65,5.86,No,Yes
+714,23,Male,Graduate,Other,6.9,TikTok,No,5.6,5.0,Negative,Adult,1.23,3.73,Yes,Yes
+234,19,Male,High School,India,3.7,Facebook,No,8.9,7.9,Positive,Young Adult,0.42,8.08,No,No
+21,20,Male,Graduate,Other,1.9,LinkedIn,No,7.6,7.5,Positive,Young Adult,0.25,7.73,No,No
+492,21,Female,Undergraduate,India,4.0,Facebook,No,7.9,7.0,Positive,Young Adult,0.51,6.95,No,No
+650,20,Male,High School,Other,5.6,Instagram,No,6.6,6.7,Neutral,Young Adult,0.85,5.64,Yes,Yes
+993,18,Male,High School,Other,6.8,Instagram,No,4.9,5.8,Negative,Teen,1.39,3.89,Yes,Yes
+543,21,Male,Undergraduate,Other,8.0,Snapchat,No,4.8,5.6,Negative,Young Adult,1.67,3.36,Yes,Yes
+200,21,Female,High School,Other,5.7,TikTok,Yes,5.8,6.2,Negative,Young Adult,0.98,4.91,Yes,Yes
+968,18,Female,High School,Other,5.9,Snapchat,Yes,4.8,5.5,Negative,Teen,1.23,3.93,Yes,Yes
+128,18,Male,Undergraduate,USA,7.2,Instagram,Yes,5.8,4.4,Negative,Teen,1.24,3.38,Yes,Yes
+236,24,Male,Graduate,Other,6.6,Instagram,No,5.2,4.8,Negative,Adult,1.27,3.5,Yes,Yes
+822,19,Female,Undergraduate,USA,2.9,LinkedIn,No,9.0,7.4,Positive,Young Adult,0.32,8.07,No,No
+740,24,Male,Undergraduate,Other,6.1,TikTok,Yes,5.7,5.6,Negative,Adult,1.07,4.38,Yes,Yes
+653,18,Male,High School,Australia,4.5,Twitter,Yes,6.1,6.6,Neutral,Teen,0.74,5.66,No,Yes
+999,21,Female,Undergraduate,Other,7.2,TikTok,Yes,5.5,4.6,Negative,Young Adult,1.31,3.35,Yes,Yes
+772,20,Female,High School,UK,3.9,TikTok,No,7.0,7.9,Positive,Young Adult,0.56,7.07,No,No
+590,22,Female,Undergraduate,Other,8.1,Instagram,Yes,5.4,4.7,Negative,Young Adult,1.5,3.09,Yes,Yes
+505,19,Female,High School,Other,5.7,LinkedIn,Yes,6.2,6.5,Neutral,Young Adult,0.92,5.29,Yes,Yes
+642,20,Female,High School,Other,6.4,YouTube,Yes,5.2,4.4,Negative,Young Adult,1.23,3.32,Yes,Yes
+88,21,Male,Undergraduate,Other,3.2,TikTok,No,7.2,6.8,Positive,Young Adult,0.44,6.72,No,No
+811,20,Male,Undergraduate,Other,1.8,Snapchat,Yes,7.0,9.1,Positive,Young Adult,0.26,8.42,No,No
+276,23,Male,Undergraduate,Australia,7.7,Snapchat,Yes,6.0,4.1,Negative,Adult,1.28,3.15,Yes,Yes
+898,23,Female,Graduate,Other,7.4,YouTube,Yes,5.7,4.1,Negative,Adult,1.3,3.09,Yes,Yes
+279,21,Male,Undergraduate,Other,5.6,YouTube,Yes,4.9,5.4,Negative,Young Adult,1.14,4.01,Yes,Yes
+804,19,Female,High School,Other,4.4,LinkedIn,Yes,7.3,6.4,Neutral,Young Adult,0.6,6.17,No,No
+154,19,Female,Graduate,USA,5.9,Facebook,Yes,4.8,4.2,Negative,Young Adult,1.23,3.15,Yes,Yes
+273,20,Female,Undergraduate,Other,4.4,Snapchat,No,6.3,6.6,Neutral,Young Adult,0.7,5.79,No,Yes
+832,22,Female,Undergraduate,Other,3.7,LinkedIn,No,6.3,6.9,Neutral,Young Adult,0.59,6.18,No,Yes
+651,23,Male,Undergraduate,Other,6.2,LinkedIn,No,5.6,4.2,Negative,Adult,1.11,3.46,Yes,Yes
+466,19,Female,Graduate,USA,6.1,TikTok,Yes,5.4,5.5,Negative,Young Adult,1.13,4.17,Yes,Yes
+849,20,Male,High School,USA,2.7,LinkedIn,No,7.5,8.8,Positive,Young Adult,0.36,8.22,No,No
+665,20,Male,Undergraduate,Other,6.1,Snapchat,No,5.7,4.9,Negative,Young Adult,1.07,3.96,Yes,Yes
+212,23,Male,Graduate,Other,6.3,TikTok,Yes,5.7,4.5,Negative,Adult,1.11,3.66,Yes,Yes
+498,21,Male,Graduate,UK,5.7,YouTube,Yes,5.4,5.9,Negative,Young Adult,1.06,4.53,Yes,Yes
+249,20,Male,High School,Other,6.9,Instagram,Yes,5.2,4.9,Negative,Young Adult,1.33,3.47,Yes,Yes
+196,23,Female,Graduate,Other,7.6,Facebook,Yes,5.6,4.6,Negative,Adult,1.36,3.28,Yes,Yes
+435,19,Male,Graduate,Other,6.3,TikTok,Yes,4.8,4.1,Negative,Young Adult,1.31,2.97,Yes,Yes
+336,20,Female,Undergraduate,Other,5.7,Twitter,Yes,5.3,5.7,Negative,Young Adult,1.08,4.36,Yes,Yes
+482,18,Male,Undergraduate,Other,8.1,LinkedIn,Yes,5.3,4.6,Negative,Teen,1.53,2.98,Yes,Yes
+194,19,Female,Undergraduate,Other,6.6,Twitter,Yes,5.5,4.4,Negative,Young Adult,1.2,3.41,Yes,Yes
+690,22,Male,High School,India,6.5,TikTok,Yes,4.7,4.1,Negative,Young Adult,1.38,2.86,Yes,Yes
+514,18,Female,Undergraduate,Other,6.0,LinkedIn,Yes,4.6,5.2,Negative,Teen,1.3,3.62,Yes,Yes
+779,21,Female,High School,Germany,5.8,LinkedIn,Yes,5.1,6.0,Negative,Young Adult,1.14,4.41,Yes,Yes
+716,23,Female,Undergraduate,Australia,7.6,LinkedIn,No,4.9,4.3,Negative,Adult,1.55,2.75,Yes,Yes
+661,19,Male,Graduate,Other,5.8,Snapchat,Yes,5.6,4.6,Negative,Young Adult,1.04,3.82,Yes,Yes
+470,21,Female,High School,Other,6.0,Instagram,Yes,5.9,4.3,Negative,Young Adult,1.02,3.73,Yes,Yes
+553,21,Male,High School,Other,1.6,LinkedIn,No,9.0,8.3,Positive,Young Adult,0.18,9.0,No,No
+877,18,Male,Graduate,Other,6.5,Snapchat,No,5.7,4.3,Negative,Teen,1.14,3.48,Yes,Yes
+797,23,Male,Undergraduate,Other,3.9,Instagram,Yes,6.5,6.6,Neutral,Adult,0.6,6.04,No,Yes
+264,18,Male,High School,Other,8.0,TikTok,Yes,5.6,4.5,Negative,Teen,1.43,3.1,Yes,Yes
+835,19,Male,Undergraduate,India,7.9,Twitter,Yes,5.6,4.7,Negative,Young Adult,1.41,3.25,Yes,Yes
+61,19,Male,Undergraduate,Other,8.0,Snapchat,Yes,5.2,4.8,Negative,Young Adult,1.54,3.08,Yes,Yes
+675,22,Male,Undergraduate,Other,6.4,TikTok,No,5.2,5.9,Negative,Young Adult,1.23,4.22,Yes,Yes
+191,18,Female,Undergraduate,Other,5.2,Facebook,No,7.2,6.5,Neutral,Teen,0.72,5.94,Yes,No
+269,23,Male,High School,Other,3.8,YouTube,No,8.7,9.0,Positive,Adult,0.44,8.61,No,No
+394,21,Male,Undergraduate,Other,6.5,Twitter,No,4.9,5.8,Negative,Young Adult,1.33,3.98,Yes,Yes
+320,22,Male,High School,Other,6.4,Instagram,No,4.7,4.3,Negative,Young Adult,1.36,3.01,Yes,Yes
+924,24,Male,Graduate,UK,2.6,Facebook,No,7.4,7.2,Positive,Adult,0.35,7.24,No,No
+544,19,Male,Undergraduate,Other,3.5,Instagram,Yes,8.8,8.5,Positive,Young Adult,0.4,8.45,No,No
+8,18,Male,High School,Other,2.7,Instagram,Yes,8.7,8.7,Positive,Teen,0.31,8.76,No,No
+411,23,Male,High School,Other,1.6,YouTube,No,7.1,8.1,Positive,Adult,0.23,7.93,No,No
+91,22,Male,High School,USA,7.1,Facebook,Yes,5.9,4.2,Negative,Young Adult,1.2,3.34,Yes,Yes
+221,18,Female,High School,Canada,6.7,YouTube,Yes,5.3,5.3,Negative,Teen,1.26,3.82,Yes,Yes
+197,22,Male,Undergraduate,Other,7.5,Facebook,Yes,5.1,5.9,Negative,Young Adult,1.47,3.84,Yes,Yes
+912,23,Female,Graduate,Germany,5.4,LinkedIn,No,7.2,7.0,Neutral,Adult,0.75,6.18,Yes,No
+438,22,Male,High School,Other,6.2,TikTok,No,5.5,5.9,Negative,Young Adult,1.13,4.43,Yes,Yes
+885,24,Female,Graduate,Other,4.6,LinkedIn,Yes,6.7,6.2,Neutral,Adult,0.69,5.69,No,Yes
+589,20,Male,Graduate,Other,7.4,Facebook,Yes,5.5,5.6,Negative,Young Adult,1.35,3.89,Yes,Yes
+362,24,Male,Graduate,Other,3.2,TikTok,Yes,7.7,7.9,Positive,Adult,0.42,7.63,No,No
+297,23,Male,Graduate,Other,5.5,YouTube,Yes,6.6,6.4,Neutral,Adult,0.83,5.49,Yes,Yes
+501,23,Female,Undergraduate,Other,3.2,TikTok,No,7.8,9.0,Positive,Adult,0.41,8.34,No,No
+841,18,Female,Graduate,Other,3.7,Snapchat,No,7.9,7.4,Positive,Teen,0.47,7.28,No,No
+954,19,Female,High School,Other,6.4,Snapchat,Yes,5.6,5.4,Negative,Young Adult,1.14,4.12,Yes,Yes
+989,21,Female,Undergraduate,Australia,7.3,YouTube,Yes,4.9,4.8,Negative,Young Adult,1.49,3.14,Yes,Yes
+775,23,Female,Graduate,Other,6.1,Facebook,Yes,6.1,5.6,Negative,Adult,1.0,4.58,Yes,Yes
+299,20,Male,High School,India,8.2,TikTok,No,6.0,5.9,Negative,Young Adult,1.37,4.08,Yes,Yes
+122,18,Female,High School,Other,6.2,YouTube,Yes,5.3,4.6,Negative,Teen,1.17,3.55,Yes,Yes
+763,19,Female,Graduate,Other,8.2,Instagram,Yes,4.3,5.7,Negative,Young Adult,1.91,3.11,Yes,Yes
+259,24,Male,Graduate,Other,5.7,LinkedIn,No,7.2,6.3,Neutral,Adult,0.79,5.67,Yes,No
+857,22,Male,Undergraduate,Other,5.7,YouTube,Yes,7.2,6.0,Neutral,Young Adult,0.79,5.49,Yes,No
+115,22,Female,Undergraduate,USA,7.1,YouTube,Yes,4.5,5.3,Negative,Young Adult,1.58,3.3,Yes,Yes
+734,23,Male,Undergraduate,UK,3.9,Snapchat,No,7.3,6.3,Neutral,Adult,0.53,6.26,No,No
+293,20,Female,Undergraduate,Other,3.2,LinkedIn,No,7.2,8.3,Positive,Young Adult,0.44,7.62,No,No
+938,22,Male,High School,India,6.0,Snapchat,Yes,4.5,5.9,Negative,Young Adult,1.33,3.99,Yes,Yes
+211,18,Female,High School,India,7.0,Facebook,No,4.8,4.2,Negative,Teen,1.46,2.82,Yes,Yes
+410,24,Male,Undergraduate,Other,3.6,Snapchat,No,7.2,8.3,Positive,Adult,0.5,7.5,No,No
+541,24,Female,High School,Other,7.6,Instagram,Yes,4.7,4.8,Negative,Adult,1.62,2.95,Yes,Yes
+670,23,Female,High School,Other,7.5,Instagram,Yes,4.7,5.6,Negative,Adult,1.6,3.46,Yes,Yes
+510,24,Female,Graduate,India,4.8,Snapchat,No,6.5,6.6,Neutral,Adult,0.74,5.77,No,Yes
+978,20,Male,Graduate,Other,4.8,Facebook,Yes,7.4,6.0,Neutral,Young Adult,0.65,5.86,No,No
+133,23,Male,Undergraduate,Other,8.1,LinkedIn,Yes,4.8,6.0,Negative,Adult,1.69,3.57,Yes,Yes
+812,24,Male,Graduate,Other,7.2,YouTube,No,5.9,5.9,Negative,Adult,1.22,4.33,Yes,Yes
+605,22,Female,High School,USA,1.5,LinkedIn,No,7.8,8.2,Positive,Young Adult,0.19,8.37,No,No
+640,24,Female,High School,Other,4.8,TikTok,No,6.9,6.4,Neutral,Adult,0.7,5.85,No,Yes
+836,18,Male,High School,Australia,4.7,Facebook,Yes,6.6,6.4,Neutral,Teen,0.71,5.73,No,Yes
+423,24,Female,High School,Other,3.6,TikTok,No,8.8,8.6,Positive,Adult,0.41,8.48,No,No
+945,18,Female,High School,Other,1.7,YouTube,No,7.9,8.0,Positive,Teen,0.22,8.24,No,No
+536,23,Female,High School,USA,7.7,YouTube,No,4.8,5.7,Negative,Adult,1.6,3.51,Yes,Yes
+733,18,Male,Graduate,USA,4.6,Facebook,Yes,7.2,6.4,Neutral,Teen,0.64,6.06,No,No
+484,22,Male,High School,Australia,8.2,Facebook,Yes,5.2,5.5,Negative,Young Adult,1.58,3.44,Yes,Yes
+711,23,Male,Undergraduate,Other,3.8,YouTube,No,8.1,7.2,Positive,Adult,0.47,7.23,No,No
+190,21,Female,Undergraduate,Canada,3.4,Instagram,No,6.9,7.5,Positive,Young Adult,0.49,6.93,No,Yes
+762,20,Male,High School,Other,3.9,TikTok,Yes,7.2,7.1,Positive,Young Adult,0.54,6.69,No,No
+683,24,Male,Graduate,Other,3.6,TikTok,Yes,6.1,6.2,Neutral,Adult,0.59,5.69,No,Yes
+478,23,Male,Graduate,India,3.7,Twitter,Yes,6.6,6.8,Neutral,Adult,0.56,6.27,No,Yes
+942,18,Male,Undergraduate,Other,5.6,Twitter,No,7.1,5.9,Neutral,Teen,0.79,5.41,Yes,No
+860,23,Female,Undergraduate,Australia,4.6,Instagram,No,6.4,6.5,Neutral,Adult,0.72,5.72,No,Yes
+95,22,Female,Undergraduate,UK,4.0,Snapchat,No,6.1,6.2,Neutral,Young Adult,0.66,5.57,No,Yes
+450,21,Female,Undergraduate,India,2.5,YouTube,No,7.2,7.0,Positive,Young Adult,0.35,7.05,No,No
+208,23,Male,High School,India,4.5,LinkedIn,Yes,6.3,6.6,Neutral,Adult,0.71,5.76,No,Yes
+255,22,Female,High School,Other,7.9,Facebook,No,5.9,5.6,Negative,Young Adult,1.34,3.94,Yes,Yes
+944,24,Male,Graduate,USA,5.6,Facebook,Yes,7.2,6.2,Neutral,Adult,0.78,5.64,Yes,No
+643,22,Female,High School,Australia,7.9,Facebook,Yes,5.0,4.9,Negative,Young Adult,1.58,3.07,Yes,Yes
+550,23,Male,Undergraduate,Other,6.8,Snapchat,Yes,5.7,5.6,Negative,Adult,1.19,4.17,Yes,Yes
+367,20,Male,High School,Canada,4.5,LinkedIn,No,6.5,6.7,Neutral,Young Adult,0.69,5.92,No,Yes
+463,20,Male,High School,Other,3.6,YouTube,No,8.3,8.3,Positive,Young Adult,0.43,8.05,No,No
+666,21,Male,Undergraduate,UK,7.9,LinkedIn,Yes,6.1,4.3,Negative,Young Adult,1.3,3.26,Yes,Yes
+659,19,Female,Graduate,Other,6.2,LinkedIn,Yes,5.8,4.0,Negative,Young Adult,1.07,3.44,Yes,Yes
+676,19,Male,Graduate,Other,6.9,YouTube,Yes,5.4,5.9,Negative,Young Adult,1.28,4.17,Yes,Yes
+770,18,Male,Undergraduate,Other,6.1,YouTube,Yes,5.9,4.0,Negative,Teen,1.03,3.52,Yes,Yes
+669,24,Male,High School,Other,7.2,LinkedIn,Yes,5.1,4.4,Negative,Adult,1.41,3.03,Yes,Yes
+403,23,Female,Graduate,Other,2.8,Instagram,No,7.6,8.8,Positive,Adult,0.37,8.24,No,No
+311,21,Male,High School,USA,4.0,Snapchat,No,7.0,7.4,Positive,Young Adult,0.57,6.74,No,No
+494,19,Female,Graduate,Other,5.7,Twitter,Yes,5.4,5.1,Negative,Young Adult,1.06,4.05,Yes,Yes
+172,22,Male,Graduate,Other,2.1,Facebook,No,8.5,8.6,Positive,Young Adult,0.25,8.78,No,No
+158,23,Female,Undergraduate,Other,2.0,LinkedIn,No,8.2,7.1,Positive,Adult,0.24,7.76,No,No
+685,23,Male,High School,Other,5.0,Facebook,Yes,6.1,5.9,Neutral,Adult,0.82,5.09,No,Yes
+748,20,Male,Undergraduate,UK,4.3,LinkedIn,Yes,6.3,6.1,Neutral,Young Adult,0.68,5.52,No,Yes
+440,19,Female,High School,Other,2.9,YouTube,Yes,7.0,8.9,Positive,Young Adult,0.41,7.97,No,No
+497,22,Female,Graduate,Germany,7.4,Facebook,Yes,5.3,5.7,Negative,Young Adult,1.4,3.85,Yes,Yes
+433,22,Male,Undergraduate,Other,7.8,LinkedIn,Yes,4.6,4.1,Negative,Young Adult,1.7,2.42,Yes,Yes
+105,19,Female,Undergraduate,Germany,2.6,Instagram,No,8.3,7.2,Positive,Young Adult,0.31,7.69,No,No
+694,21,Female,Graduate,Other,3.7,LinkedIn,No,7.3,7.1,Positive,Young Adult,0.51,6.8,No,No
+266,20,Female,Undergraduate,Other,5.8,Snapchat,Yes,7.0,6.1,Neutral,Young Adult,0.83,5.42,Yes,No
+240,20,Male,Undergraduate,Other,6.1,Facebook,Yes,5.9,4.7,Negative,Young Adult,1.03,3.94,Yes,Yes
+151,22,Male,High School,Other,2.6,Instagram,No,7.6,8.8,Positive,Young Adult,0.34,8.3,No,No
+280,18,Female,Graduate,Other,5.2,Twitter,Yes,6.9,7.0,Neutral,Teen,0.75,6.09,Yes,Yes
+964,21,Male,High School,Other,1.5,Snapchat,No,8.4,7.6,Positive,Young Adult,0.18,8.31,No,No
+719,20,Male,Graduate,Australia,2.9,Twitter,No,7.0,7.9,Positive,Young Adult,0.41,7.37,No,No
+445,19,Male,Graduate,Other,3.9,Facebook,No,7.4,8.8,Positive,Young Adult,0.53,7.81,No,No
+29,24,Male,High School,Other,5.4,LinkedIn,Yes,6.6,6.8,Neutral,Adult,0.82,5.76,Yes,Yes
+205,23,Male,Graduate,India,3.7,Instagram,Yes,6.6,6.9,Neutral,Adult,0.56,6.33,No,Yes
+976,23,Female,Undergraduate,India,1.5,Snapchat,No,7.1,7.7,Positive,Adult,0.21,7.72,No,No
+531,18,Female,Graduate,UK,3.5,Facebook,No,7.9,8.6,Positive,Teen,0.44,8.06,No,No
+439,23,Male,Graduate,Other,4.0,Facebook,No,6.5,6.3,Neutral,Adult,0.62,5.83,No,Yes
+673,21,Female,Undergraduate,Other,4.1,YouTube,No,6.3,6.5,Neutral,Young Adult,0.65,5.82,No,Yes
+902,21,Female,High School,Other,5.4,Snapchat,Yes,6.4,6.6,Neutral,Young Adult,0.84,5.54,Yes,Yes
+591,21,Female,Graduate,Other,6.8,YouTube,Yes,5.6,4.8,Negative,Young Adult,1.21,3.64,Yes,Yes
+888,21,Male,High School,Other,7.4,Facebook,Yes,5.3,5.6,Negative,Young Adult,1.4,3.79,Yes,Yes
+621,24,Male,Undergraduate,India,3.7,Facebook,No,6.4,7.0,Neutral,Adult,0.58,6.29,No,Yes
+471,19,Male,Graduate,Other,7.4,LinkedIn,Yes,5.7,5.7,Negative,Young Adult,1.3,4.05,Yes,Yes
+709,22,Female,Undergraduate,Other,2.2,LinkedIn,No,7.4,8.4,Positive,Young Adult,0.3,8.08,No,No
+356,22,Male,Graduate,Other,7.1,Facebook,Yes,5.9,5.2,Negative,Young Adult,1.2,3.94,Yes,Yes
+142,24,Female,High School,Canada,5.8,Facebook,Yes,5.6,4.2,Negative,Adult,1.04,3.58,Yes,Yes
+468,22,Female,Undergraduate,Canada,7.1,Snapchat,Yes,5.1,4.6,Negative,Young Adult,1.39,3.18,Yes,Yes
+943,24,Female,Graduate,Other,3.8,LinkedIn,No,8.4,7.6,Positive,Adult,0.45,7.62,No,No
+680,21,Female,High School,Other,7.4,TikTok,Yes,5.2,4.0,Negative,Young Adult,1.42,2.78,Yes,Yes
+623,22,Female,Undergraduate,Other,3.7,TikTok,No,7.4,6.6,Neutral,Young Adult,0.5,6.55,No,No
+757,21,Male,Undergraduate,Other,6.2,Twitter,Yes,5.8,4.5,Negative,Young Adult,1.07,3.74,Yes,Yes
+667,20,Female,Graduate,UK,3.1,TikTok,No,7.5,7.7,Positive,Young Adult,0.41,7.44,No,No
+882,24,Female,High School,Other,3.7,Instagram,Yes,9.0,9.0,Positive,Adult,0.41,8.79,No,No
+641,21,Female,Undergraduate,Australia,6.9,Facebook,Yes,6.0,4.2,Negative,Young Adult,1.15,3.45,Yes,Yes
+67,22,Female,Undergraduate,Other,4.2,Instagram,No,7.7,8.3,Positive,Young Adult,0.55,7.57,No,No
+36,19,Male,High School,Other,5.8,YouTube,Yes,5.7,4.4,Negative,Young Adult,1.02,3.75,Yes,Yes
+81,18,Male,Undergraduate,Other,2.0,TikTok,No,7.9,7.3,Positive,Teen,0.25,7.73,No,No
+51,22,Female,Undergraduate,Other,2.4,TikTok,Yes,8.0,8.4,Positive,Young Adult,0.3,8.32,No,No
+887,19,Male,High School,India,3.4,Twitter,Yes,6.2,7.0,Neutral,Young Adult,0.55,6.28,No,Yes
+916,22,Male,High School,Other,7.6,Instagram,No,6.0,5.3,Negative,Young Adult,1.27,3.9,Yes,Yes
+886,19,Male,Undergraduate,UK,7.5,Instagram,Yes,5.1,4.5,Negative,Young Adult,1.47,3.0,Yes,Yes
+416,20,Female,Undergraduate,Germany,3.2,LinkedIn,No,8.8,7.4,Positive,Young Adult,0.36,7.88,No,No
+351,23,Male,Graduate,Australia,5.7,Twitter,Yes,4.7,4.9,Negative,Adult,1.21,3.58,Yes,Yes
+396,21,Female,Undergraduate,Other,6.7,Instagram,Yes,5.6,4.4,Negative,Young Adult,1.2,3.43,Yes,Yes
+839,22,Male,High School,Other,2.7,Twitter,No,8.2,7.2,Positive,Young Adult,0.33,7.61,No,No
+481,20,Male,Undergraduate,Other,2.4,YouTube,No,7.1,7.4,Positive,Young Adult,0.34,7.27,No,No
+988,23,Male,Graduate,USA,5.5,Instagram,Yes,5.9,4.1,Negative,Adult,0.93,3.76,Yes,Yes
+756,24,Male,Graduate,Australia,4.3,Snapchat,No,8.7,8.6,Positive,Adult,0.49,8.22,No,No
+349,19,Male,Undergraduate,Other,6.0,LinkedIn,No,4.6,4.4,Negative,Young Adult,1.3,3.14,Yes,Yes
+963,18,Male,Graduate,Other,4.5,Snapchat,No,6.3,6.6,Neutral,Teen,0.71,5.76,No,Yes
+429,20,Female,Graduate,UK,3.6,YouTube,No,8.7,8.4,Positive,Young Adult,0.41,8.31,No,No
+855,19,Female,Undergraduate,Other,6.0,LinkedIn,No,6.1,5.9,Negative,Young Adult,0.98,4.79,Yes,Yes
+538,24,Male,Graduate,Other,7.8,TikTok,Yes,4.9,4.9,Negative,Adult,1.59,3.05,Yes,Yes
+413,20,Male,Graduate,USA,3.9,Instagram,No,6.7,6.8,Neutral,Young Adult,0.58,6.26,No,Yes
+713,19,Female,Undergraduate,Other,7.3,YouTube,Yes,5.8,4.9,Negative,Young Adult,1.26,3.65,Yes,Yes
+96,21,Female,High School,Other,6.0,Twitter,No,5.5,5.4,Negative,Young Adult,1.09,4.19,Yes,Yes
+561,21,Female,Undergraduate,Canada,7.9,Twitter,Yes,5.6,4.6,Negative,Young Adult,1.41,3.19,Yes,Yes
+1,22,Male,High School,USA,4.0,Twitter,No,7.7,8.5,Positive,Young Adult,0.52,7.75,No,No
+647,22,Female,Undergraduate,USA,4.4,LinkedIn,No,6.7,6.7,Neutral,Young Adult,0.66,6.05,No,Yes
+769,24,Female,Graduate,USA,4.0,LinkedIn,No,7.1,6.6,Neutral,Adult,0.56,6.31,No,No
+527,21,Male,High School,UK,4.8,TikTok,Yes,6.3,6.3,Neutral,Young Adult,0.76,5.49,No,Yes
+195,23,Male,High School,India,7.4,Snapchat,No,4.9,5.7,Negative,Adult,1.51,3.65,Yes,Yes
+139,23,Female,High School,India,6.5,TikTok,No,5.3,4.9,Negative,Adult,1.23,3.64,Yes,Yes
+38,20,Female,Graduate,Other,3.4,YouTube,No,7.3,6.9,Positive,Young Adult,0.47,6.77,No,No
+696,19,Female,Graduate,Other,6.9,Twitter,Yes,6.1,4.5,Negative,Young Adult,1.13,3.68,Yes,Yes
+235,21,Male,High School,Other,7.6,Facebook,Yes,5.0,4.2,Negative,Young Adult,1.52,2.74,Yes,Yes
+464,23,Male,High School,Other,4.6,Instagram,Yes,6.7,6.3,Neutral,Adult,0.69,5.75,No,Yes
+303,19,Male,Graduate,Other,3.0,YouTube,No,7.2,8.4,Positive,Young Adult,0.42,7.74,No,No
+604,21,Female,High School,Other,6.4,Facebook,No,5.0,4.7,Negative,Young Adult,1.28,3.4,Yes,Yes
+727,18,Female,High School,Other,6.5,Instagram,Yes,5.5,5.2,Negative,Teen,1.18,3.92,Yes,Yes
+503,23,Male,Graduate,Other,8.7,Twitter,Yes,4.6,5.8,Negative,Adult,1.89,3.17,Yes,Yes
+409,23,Female,Undergraduate,UK,7.0,Snapchat,Yes,5.5,5.9,Negative,Adult,1.27,4.19,Yes,Yes
+848,23,Female,High School,USA,7.7,Snapchat,Yes,5.7,5.0,Negative,Adult,1.35,3.54,Yes,Yes
+600,24,Female,Graduate,Other,3.6,Facebook,No,8.2,8.9,Positive,Adult,0.44,8.36,No,No
+861,24,Male,Undergraduate,Canada,5.4,Snapchat,Yes,4.6,5.1,Negative,Adult,1.17,3.74,Yes,Yes
+243,21,Male,Graduate,Other,2.1,Instagram,No,6.9,7.6,Positive,Young Adult,0.3,7.38,No,Yes
+705,19,Male,High School,Australia,5.7,Facebook,Yes,7.4,6.2,Neutral,Young Adult,0.77,5.71,Yes,No
+940,18,Female,Graduate,Other,6.2,YouTube,Yes,5.5,4.1,Negative,Teen,1.13,3.35,Yes,Yes
+127,19,Male,Undergraduate,Other,2.9,LinkedIn,No,9.1,8.3,Positive,Young Adult,0.32,8.66,No,No
+333,24,Female,High School,Other,1.6,YouTube,No,8.5,8.7,Positive,Adult,0.19,8.99,No,No
+55,18,Female,Graduate,Other,6.6,Snapchat,Yes,4.8,4.3,Negative,Teen,1.38,3.0,Yes,Yes
+339,22,Male,Undergraduate,Other,4.6,Snapchat,No,6.5,6.4,Neutral,Young Adult,0.71,5.71,No,Yes
+307,24,Female,Undergraduate,Other,6.5,Facebook,No,5.0,4.6,Negative,Adult,1.3,3.31,Yes,Yes
+609,23,Male,Undergraduate,India,1.9,TikTok,Yes,8.7,7.6,Positive,Adult,0.22,8.34,No,No
+996,18,Male,Graduate,Other,7.1,Twitter,Yes,5.1,4.9,Negative,Teen,1.39,3.36,Yes,Yes
+820,22,Male,High School,Other,2.5,YouTube,No,7.5,8.4,Positive,Young Adult,0.33,8.04,No,No
+533,21,Female,High School,Other,1.7,Twitter,No,7.4,7.9,Positive,Young Adult,0.23,7.93,No,No
+911,20,Male,Graduate,Other,5.0,Instagram,No,7.1,6.9,Neutral,Young Adult,0.7,6.19,No,No
+972,23,Male,Undergraduate,Other,5.8,Instagram,Yes,5.3,5.0,Negative,Adult,1.09,3.91,Yes,Yes
+905,19,Female,Undergraduate,Other,8.5,YouTube,No,5.9,4.6,Negative,Young Adult,1.44,3.16,Yes,Yes
+870,21,Male,High School,Other,3.8,LinkedIn,No,7.0,8.4,Positive,Young Adult,0.54,7.4,No,No
+381,18,Female,Graduate,Other,8.4,Snapchat,Yes,5.5,5.7,Negative,Teen,1.53,3.65,Yes,Yes
+359,19,Female,Undergraduate,Other,5.5,Twitter,No,5.1,5.4,Negative,Young Adult,1.08,4.14,Yes,Yes
+284,21,Male,Graduate,Other,8.0,YouTube,Yes,5.1,4.6,Negative,Young Adult,1.57,2.91,Yes,Yes
+547,22,Male,Undergraduate,Australia,1.9,YouTube,No,8.7,8.7,Positive,Young Adult,0.22,9.0,No,No
+502,22,Female,Undergraduate,Other,7.2,Twitter,Yes,5.8,5.2,Negative,Young Adult,1.24,3.86,Yes,Yes
+173,18,Male,Graduate,Other,5.8,Instagram,Yes,5.7,4.5,Negative,Teen,1.02,3.81,Yes,Yes
+884,24,Male,Undergraduate,Other,6.8,Instagram,Yes,5.9,5.1,Negative,Adult,1.15,3.97,Yes,Yes
+163,18,Female,Graduate,Germany,1.9,YouTube,No,7.7,7.9,Positive,Teen,0.25,8.02,No,No
+759,20,Male,Graduate,Other,6.3,YouTube,Yes,5.4,5.0,Negative,Young Adult,1.17,3.81,Yes,Yes
+923,18,Male,High School,India,5.4,Snapchat,No,6.5,6.6,Neutral,Teen,0.83,5.59,Yes,Yes
+241,18,Male,Undergraduate,Other,7.0,Snapchat,No,4.7,5.3,Negative,Teen,1.49,3.43,Yes,Yes
+880,22,Female,Graduate,Other,6.3,YouTube,Yes,5.6,4.7,Negative,Young Adult,1.12,3.73,Yes,Yes
+1,19,Female,Undergraduate,Bangladesh,5.4,Instagram,Yes,6.6,5.9,Negative,Young Adult,0.82,5.22,Yes,Yes
+2,22,Male,Graduate,India,2.2,Twitter,No,7.5,8.0,Neutral,Young Adult,0.29,7.89,No,No
+3,20,Female,Undergraduate,USA,6.0,TikTok,Yes,5.0,4.9,Negative,Young Adult,1.2,3.64,Yes,Yes
+4,18,Male,High School,UK,2.9,YouTube,No,7.0,6.8,Positive,Teen,0.41,6.71,No,No
+5,21,Male,Graduate,Canada,4.6,Facebook,Yes,6.2,6.0,Negative,Young Adult,0.74,5.32,No,Yes
+6,19,Female,Undergraduate,Australia,7.3,Instagram,Yes,4.4,4.1,Negative,Young Adult,1.66,2.47,Yes,Yes
+7,23,Male,Graduate,Germany,1.6,LinkedIn,No,8.2,9.0,Neutral,Adult,0.2,9.02,No,No
+8,20,Female,Undergraduate,Brazil,5.9,Snapchat,Yes,6.0,5.8,Negative,Young Adult,0.98,4.71,Yes,Yes
+9,18,Male,High School,Japan,4.2,TikTok,No,6.4,7.0,Positive,Teen,0.66,6.14,No,Yes
+10,21,Female,Graduate,South Korea,3.2,Instagram,No,7.0,6.8,Positive,Young Adult,0.46,6.62,No,No
+11,19,Male,Undergraduate,France,5.0,Snapchat,Yes,6.0,5.1,Negative,Young Adult,0.83,4.56,No,Yes
+12,20,Female,Undergraduate,Spain,5.5,TikTok,Yes,5.9,5.9,Negative,Young Adult,0.93,4.84,Yes,Yes
+13,22,Male,Graduate,Italy,3.1,LinkedIn,No,7.3,8.1,Positive,Young Adult,0.42,7.58,No,No
+14,18,Female,High School,Mexico,6.4,Instagram,Yes,5.4,5.1,Negative,Teen,1.19,3.84,Yes,Yes
+15,21,Male,Undergraduate,Russia,4.0,YouTube,No,6.8,6.9,Positive,Young Adult,0.59,6.34,No,Yes
+16,20,Female,Undergraduate,China,4.2,TikTok,Yes,6.2,5.9,Negative,Young Adult,0.68,5.38,No,Yes
+17,24,Male,Graduate,Sweden,1.9,LinkedIn,No,7.7,8.0,Neutral,Adult,0.25,8.08,No,No
+18,19,Female,High School,Norway,4.9,Instagram,Yes,5.6,4.9,Negative,Young Adult,0.88,4.27,No,Yes
+19,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.8,7.0,Positive,Young Adult,0.51,6.55,No,Yes
+20,20,Female,Undergraduate,Netherlands,4.8,Snapchat,Yes,6.1,6.0,Negative,Young Adult,0.79,5.21,No,Yes
+21,18,Male,High School,Belgium,5.4,TikTok,Yes,5.5,4.8,Negative,Teen,0.98,4.01,Yes,Yes
+22,23,Female,Graduate,Switzerland,2.4,LinkedIn,No,7.4,7.8,Positive,Adult,0.32,7.66,No,No
+23,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.9,6.0,Negative,Young Adult,0.83,5.08,No,Yes
+24,20,Female,Undergraduate,Portugal,6.0,TikTok,Yes,5.3,4.9,Negative,Young Adult,1.13,3.79,Yes,Yes
+25,22,Male,Graduate,Greece,3.5,Facebook,No,6.9,6.9,Positive,Young Adult,0.51,6.54,No,Yes
+26,19,Female,High School,Ireland,6.2,Instagram,Yes,5.3,5.1,Negative,Young Adult,1.17,3.85,Yes,Yes
+27,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.8,7.1,Positive,Young Adult,0.56,6.52,No,Yes
+28,20,Female,Undergraduate,Singapore,4.4,TikTok,Yes,6.0,6.0,Negative,Young Adult,0.73,5.28,No,Yes
+29,24,Male,Graduate,Malaysia,2.3,LinkedIn,No,7.3,8.0,Neutral,Adult,0.32,7.76,No,No
+30,19,Female,High School,Thailand,5.7,Instagram,Yes,5.5,5.1,Negative,Young Adult,1.04,4.1,Yes,Yes
+31,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.6,6.9,Positive,Young Adult,0.55,6.36,No,Yes
+32,20,Female,Undergraduate,Philippines,4.5,Snapchat,Yes,5.7,6.0,Negative,Young Adult,0.79,5.1,No,Yes
+33,18,Male,High School,Indonesia,5.5,TikTok,Yes,5.4,5.1,Negative,Teen,1.02,4.11,Yes,Yes
+34,23,Female,Graduate,Taiwan,2.7,LinkedIn,No,7.4,8.1,Positive,Adult,0.36,7.75,No,No
+35,19,Male,Undergraduate,Hong Kong,4.6,Instagram,Yes,5.9,5.8,Negative,Young Adult,0.78,5.05,No,Yes
+36,20,Female,Undergraduate,Turkey,5.8,TikTok,Yes,5.5,4.9,Negative,Young Adult,1.05,3.95,Yes,Yes
+37,22,Male,Graduate,Israel,2.9,Facebook,No,6.8,6.9,Positive,Young Adult,0.43,6.67,No,Yes
+38,19,Female,High School,UAE,6.0,Instagram,Yes,5.1,5.0,Negative,Young Adult,1.18,3.75,Yes,Yes
+39,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.6,7.0,Negative,Young Adult,0.59,6.33,No,Yes
+40,20,Female,Undergraduate,Morocco,4.7,TikTok,Yes,5.5,6.1,Negative,Young Adult,0.85,5.0,No,Yes
+41,24,Male,Graduate,South Africa,2.6,LinkedIn,No,7.3,8.0,Positive,Adult,0.36,7.67,No,No
+42,19,Female,High School,Nigeria,5.7,Instagram,Yes,5.4,5.0,Negative,Young Adult,1.06,3.99,Yes,Yes
+43,21,Male,Undergraduate,Kenya,3.9,Facebook,No,6.5,7.1,Positive,Young Adult,0.6,6.34,No,Yes
+44,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6.0,Negative,Young Adult,0.81,5.07,No,Yes
+45,18,Male,High School,Argentina,5.5,TikTok,Yes,5.3,5.1,Negative,Teen,1.04,4.06,Yes,Yes
+46,23,Female,Graduate,Chile,2.8,LinkedIn,No,7.3,8.0,Positive,Adult,0.38,7.61,No,No
+47,19,Male,Undergraduate,Colombia,4.9,Instagram,Yes,6.1,5.9,Negative,Young Adult,0.8,5.12,No,Yes
+48,20,Female,Undergraduate,Peru,5.3,TikTok,Yes,5.6,4.9,Negative,Young Adult,0.95,4.15,Yes,Yes
+49,22,Male,Graduate,Venezuela,3.5,Facebook,No,6.7,6.8,Positive,Young Adult,0.52,6.38,No,Yes
+50,19,Female,High School,Ecuador,6.5,Instagram,Yes,5.2,5.1,Negative,Young Adult,1.25,3.71,Yes,Yes
+51,21,Male,Undergraduate,Uruguay,3.7,YouTube,No,6.4,7.1,Negative,Young Adult,0.58,6.35,No,Yes
+52,20,Female,Undergraduate,Paraguay,4.8,TikTok,Yes,5.8,6.2,Negative,Young Adult,0.83,5.18,No,Yes
+53,24,Male,Graduate,Bolivia,2.5,LinkedIn,No,7.1,8.1,Positive,Adult,0.35,7.66,No,No
+54,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.4,5.1,Negative,Young Adult,1.06,4.05,Yes,Yes
+55,21,Male,Undergraduate,Panama,3.5,Facebook,No,6.6,6.9,Positive,Young Adult,0.53,6.39,No,Yes
+56,20,Female,Undergraduate,Jamaica,4.8,Snapchat,Yes,5.7,5.9,Negative,Young Adult,0.84,4.95,No,Yes
+57,18,Male,High School,Trinidad,5.6,TikTok,Yes,5.1,5.1,Negative,Teen,1.1,3.93,Yes,Yes
+58,23,Female,Graduate,Bahamas,3.0,LinkedIn,No,7.1,8.0,Positive,Adult,0.42,7.45,No,No
+59,19,Male,Undergraduate,Iceland,4.7,Instagram,Yes,5.8,6.0,Negative,Young Adult,0.81,5.09,No,Yes
+60,20,Female,Undergraduate,Finland,5.3,TikTok,Yes,5.7,5.0,Negative,Young Adult,0.93,4.26,Yes,Yes
+61,22,Male,Graduate,Poland,3.2,Facebook,No,7.2,7.0,Positive,Young Adult,0.44,6.84,No,No
+62,19,Female,Undergraduate,Romania,5.2,Instagram,Yes,5.6,5.1,Negative,Young Adult,0.93,4.3,Yes,Yes
+63,20,Male,Undergraduate,Hungary,4.4,TikTok,Yes,6.0,6.1,Negative,Young Adult,0.73,5.34,No,Yes
+64,18,Female,High School,Czech Republic,5.8,Snapchat,Yes,5.1,4.1,Negative,Teen,1.14,3.27,Yes,Yes
+65,23,Male,Graduate,Slovakia,2.2,LinkedIn,No,7.4,8.1,Neutral,Adult,0.3,7.9,No,No
+66,21,Female,Undergraduate,Croatia,4.6,Instagram,Yes,5.8,6.1,Negative,Young Adult,0.79,5.18,No,Yes
+67,20,Male,Undergraduate,Serbia,3.7,YouTube,No,6.4,7.0,Negative,Young Adult,0.58,6.29,No,Yes
+68,19,Female,High School,Slovenia,5.9,TikTok,Yes,5.4,5.1,Negative,Young Adult,1.09,3.99,Yes,Yes
+69,22,Male,Graduate,Bulgaria,2.7,LinkedIn,No,7.0,7.9,Positive,Young Adult,0.39,7.43,No,No
+70,20,Female,Undergraduate,Estonia,4.6,Instagram,Yes,5.9,6.1,Negative,Young Adult,0.78,5.23,No,Yes
+71,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,4.9,Negative,Teen,0.98,4.07,Yes,Yes
+72,21,Female,Graduate,Lithuania,3.3,Facebook,No,6.8,7.0,Positive,Young Adult,0.49,6.61,No,Yes
+73,19,Male,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,5.9,Negative,Young Adult,0.86,4.92,No,Yes
+74,20,Female,Undergraduate,Moldova,5.6,Instagram,Yes,5.3,5.1,Negative,Young Adult,1.06,4.03,Yes,Yes
+75,23,Male,Graduate,Belarus,2.6,LinkedIn,No,7.3,8.0,Positive,Adult,0.36,7.67,No,No
+76,21,Female,Undergraduate,Kazakhstan,4.5,Snapchat,Yes,5.9,5.8,Negative,Young Adult,0.76,5.08,No,Yes
+77,19,Male,High School,Uzbekistan,5.3,TikTok,Yes,5.3,5.0,Negative,Young Adult,1.0,4.06,Yes,Yes
+78,22,Female,Graduate,Kyrgyzstan,2.8,Facebook,No,6.9,6.9,Positive,Young Adult,0.41,6.75,No,Yes
+79,20,Male,Undergraduate,Tajikistan,4.9,YouTube,Yes,5.8,6.1,Negative,Young Adult,0.84,5.09,No,Yes
+80,18,Female,High School,Armenia,6.0,Instagram,Yes,5.2,5.0,Negative,Teen,1.15,3.8,Yes,Yes
+81,21,Male,Graduate,Georgia,2.9,LinkedIn,No,7.1,8.0,Positive,Young Adult,0.41,7.48,No,No
+82,19,Female,Undergraduate,Azerbaijan,4.7,TikTok,Yes,5.6,5.9,Negative,Young Adult,0.84,4.93,No,Yes
+83,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.5,6.9,Negative,Young Adult,0.58,6.25,No,Yes
+84,22,Female,Graduate,Malta,3.0,LinkedIn,No,7.2,8.0,Positive,Young Adult,0.42,7.5,No,No
+85,18,Male,High School,Luxembourg,5.7,Snapchat,Yes,5.3,5.1,Negative,Teen,1.08,4.0,Yes,Yes
+86,21,Female,Undergraduate,Monaco,4.6,Instagram,Yes,5.9,6.2,Negative,Young Adult,0.78,5.29,No,Yes
+87,19,Male,High School,Andorra,5.5,TikTok,Yes,5.4,4.9,Negative,Young Adult,1.02,3.99,Yes,Yes
+88,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8.1,Positive,Adult,0.36,7.73,No,No
+89,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,5.9,5.8,Negative,Young Adult,0.75,5.11,No,Yes
+90,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,4.9,Negative,Teen,1.12,3.8,Yes,Yes
+91,22,Male,Graduate,Montenegro,2.9,Facebook,No,6.9,6.9,Positive,Young Adult,0.42,6.72,No,Yes
+92,19,Female,Undergraduate,Albania,4.7,TikTok,Yes,5.9,5.9,Negative,Young Adult,0.8,5.08,No,Yes
+93,21,Male,Undergraduate,North Macedonia,3.8,Snapchat,No,6.3,6.8,Negative,Young Adult,0.6,6.09,No,Yes
+94,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5.0,Negative,Young Adult,1.02,4.05,Yes,Yes
+95,23,Male,Graduate,Bosnia,2.5,LinkedIn,No,7.4,8.0,Positive,Adult,0.34,7.75,No,No
+96,19,Female,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,6.0,Negative,Young Adult,0.86,4.98,No,Yes
+97,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.6,5.1,Negative,Teen,1.02,4.15,Yes,Yes
+98,22,Female,Graduate,Bahrain,2.5,LinkedIn,No,7.1,8.0,Positive,Young Adult,0.35,7.6,No,No
+99,20,Male,Undergraduate,Oman,4.7,Instagram,Yes,5.8,6.1,Negative,Young Adult,0.81,5.15,No,Yes
+100,21,Female,Undergraduate,Jordan,5.5,TikTok,Yes,5.5,5.0,Negative,Young Adult,1.0,4.1,Yes,Yes
+101,19,Male,High School,Lebanon,5.9,YouTube,Yes,5.0,4.9,Negative,Young Adult,1.18,3.67,Yes,Yes
+102,23,Female,Graduate,Iraq,2.1,LinkedIn,No,7.3,8.1,Positive,Adult,0.29,7.88,No,No
+103,20,Male,Undergraduate,Yemen,5.0,Facebook,Yes,5.7,5.9,Negative,Young Adult,0.88,4.89,No,Yes
+104,18,Female,High School,Syria,5.6,Instagram,Yes,5.5,4.9,Negative,Teen,1.02,4.01,Yes,Yes
+105,22,Male,Graduate,Afghanistan,3.1,LinkedIn,No,6.9,7.0,Positive,Young Adult,0.45,6.72,No,Yes
+106,19,Female,Undergraduate,Pakistan,4.6,TikTok,Yes,5.7,5.9,Negative,Young Adult,0.81,5.01,No,Yes
+107,21,Male,Undergraduate,Nepal,3.9,YouTube,No,6.5,7.0,Negative,Young Adult,0.6,6.28,No,Yes
+108,20,Female,High School,Bhutan,5.3,Snapchat,Yes,5.7,5.0,Negative,Young Adult,0.93,4.26,Yes,Yes
+109,23,Male,Graduate,Sri Lanka,2.5,LinkedIn,No,7.2,8.0,Positive,Adult,0.35,7.65,No,No
+110,19,Female,Undergraduate,Maldives,5.2,Instagram,Yes,6.0,5.9,Negative,Young Adult,0.87,4.98,Yes,Yes
+111,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.3,5.0,Negative,Young Adult,0.97,4.32,Yes,Yes
+112,21,Female,Undergraduate,India,5.8,TikTok,Yes,5.9,6.1,Negative,Young Adult,0.98,4.87,Yes,Yes
+113,19,Male,Undergraduate,Nepal,5.0,Facebook,No,7.1,7.0,Positive,Young Adult,0.7,6.25,No,No
+114,22,Female,Graduate,Pakistan,5.6,Instagram,Yes,6.0,5.2,Negative,Young Adult,0.93,4.44,Yes,Yes
+115,20,Male,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.1,6.1,Negative,Young Adult,0.85,5.15,Yes,Yes
+116,19,Female,Undergraduate,Maldives,4.9,Instagram,No,7.2,8.1,Positive,Young Adult,0.68,6.99,No,No
+117,21,Male,Graduate,Bangladesh,6.4,Facebook,Yes,5.9,4.9,Negative,Young Adult,1.08,3.97,Yes,Yes
+118,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6.1,Negative,Young Adult,0.93,5.0,Yes,Yes
+119,22,Male,Graduate,Nepal,4.7,TikTok,No,7.2,7.0,Positive,Young Adult,0.65,6.39,No,No
+120,19,Female,Undergraduate,Pakistan,5.6,Instagram,Yes,6.2,4.9,Negative,Young Adult,0.9,4.36,Yes,Yes
+121,20,Male,Undergraduate,Sri Lanka,6.1,Facebook,Yes,6.1,6.0,Negative,Young Adult,1.0,4.82,Yes,Yes
+122,21,Female,Graduate,Maldives,4.8,Instagram,No,7.5,8.1,Positive,Young Adult,0.64,7.17,No,No
+123,19,Male,Undergraduate,Bangladesh,5.4,TikTok,Yes,6.3,5.1,Negative,Young Adult,0.86,4.59,Yes,Yes
+124,22,Female,Graduate,India,5.6,Instagram,Yes,5.9,5.9,Negative,Young Adult,0.95,4.81,Yes,Yes
+125,20,Male,Undergraduate,Nepal,4.7,Facebook,No,7.5,7.1,Positive,Young Adult,0.63,6.6,No,No
+126,21,Female,Graduate,Pakistan,5.0,Instagram,Yes,6.2,4.9,Negative,Young Adult,0.81,4.54,No,Yes
+127,19,Male,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.6,6.0,Negative,Young Adult,1.02,4.69,Yes,Yes
+128,20,Female,Undergraduate,Maldives,4.3,Instagram,No,7.8,8.0,Positive,Young Adult,0.55,7.41,No,No
+129,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5.0,Negative,Young Adult,0.78,4.72,Yes,Yes
+130,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6.1,Negative,Young Adult,1.0,4.78,Yes,Yes
+131,19,Male,Undergraduate,Nepal,4.3,TikTok,No,7.7,6.9,Positive,Young Adult,0.56,6.7,No,No
+132,20,Female,Undergraduate,Pakistan,5.1,Instagram,Yes,6.8,5.2,Negative,Young Adult,0.75,4.99,Yes,Yes
+133,22,Male,Graduate,Sri Lanka,5.7,Facebook,Yes,5.7,5.8,Negative,Young Adult,1.0,4.62,Yes,Yes
+134,21,Female,Graduate,Maldives,4.3,Instagram,No,8.0,7.9,Positive,Young Adult,0.54,7.45,No,No
+135,19,Male,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,5.0,Negative,Young Adult,0.73,4.88,No,Yes
+136,20,Female,Undergraduate,India,5.5,Instagram,Yes,5.4,6.1,Negative,Young Adult,1.02,4.71,Yes,Yes
+137,22,Male,Graduate,Nepal,4.3,Facebook,No,7.7,7.0,Positive,Young Adult,0.56,6.76,No,No
+138,21,Female,Graduate,Pakistan,4.6,Instagram,Yes,6.9,5.0,Negative,Young Adult,0.67,5.07,No,Yes
+139,19,Male,Undergraduate,Sri Lanka,5.4,TikTok,Yes,5.2,6.0,Negative,Young Adult,1.04,4.58,Yes,Yes
+140,20,Female,Undergraduate,Maldives,4.1,Instagram,No,8.0,8.0,Positive,Young Adult,0.51,7.57,No,No
+141,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.8,5.1,Negative,Young Adult,0.69,5.05,No,Yes
+142,21,Female,Graduate,India,5.4,Instagram,Yes,5.1,6.1,Negative,Young Adult,1.06,4.59,Yes,Yes
+143,19,Male,Undergraduate,Nepal,3.9,TikTok,No,8.0,7.1,Positive,Young Adult,0.49,7.09,No,No
+144,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,6.9,4.9,Negative,Young Adult,0.67,5.01,No,Yes
+145,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.0,6.0,Negative,Young Adult,1.02,4.57,Yes,Yes
+146,21,Female,Graduate,Maldives,3.8,Instagram,No,8.1,8.0,Positive,Young Adult,0.47,7.71,No,No
+147,19,Male,Undergraduate,Bangladesh,4.3,TikTok,Yes,7.2,4.9,Negative,Young Adult,0.6,5.25,No,No
+148,20,Female,Undergraduate,India,4.8,Instagram,Yes,4.9,6.0,Negative,Young Adult,0.98,4.61,No,Yes
+149,22,Male,Graduate,Nepal,3.9,Facebook,No,8.3,6.9,Positive,Young Adult,0.47,7.12,No,No
+150,21,Female,Graduate,Pakistan,4.3,Instagram,Yes,7.3,5.1,Negative,Young Adult,0.59,5.42,No,No
+151,19,Male,Undergraduate,Sri Lanka,4.8,TikTok,Yes,4.8,5.9,Negative,Young Adult,1.0,4.5,No,Yes
+152,20,Female,Undergraduate,Maldives,3.3,Instagram,No,8.3,8.2,Positive,Young Adult,0.4,8.08,No,No
+153,22,Male,Graduate,Bangladesh,4.2,Facebook,Yes,7.3,4.9,Negative,Young Adult,0.58,5.33,No,No
+154,21,Female,Graduate,India,4.6,Instagram,Yes,4.9,6.0,Negative,Young Adult,0.94,4.67,No,Yes
+155,19,Male,Undergraduate,Nepal,3.7,TikTok,No,8.5,7.1,Positive,Young Adult,0.44,7.4,No,No
+156,20,Female,Undergraduate,Pakistan,4.4,Instagram,Yes,7.3,4.9,Negative,Young Adult,0.6,5.27,No,No
+157,22,Male,Graduate,Sri Lanka,4.6,Facebook,Yes,4.7,6.1,Negative,Young Adult,0.98,4.63,No,Yes
+158,21,Female,Graduate,Maldives,3.7,Instagram,No,8.5,7.9,Positive,Young Adult,0.44,7.88,No,No
+159,19,Male,Undergraduate,Bangladesh,4.2,TikTok,Yes,7.6,5.1,Negative,Young Adult,0.55,5.6,No,No
+160,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6.0,Negative,Young Adult,1.0,4.52,No,Yes
+161,19,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.1,4.9,Negative,Young Adult,0.8,4.52,No,Yes
+162,21,Male,Graduate,India,5.1,Facebook,No,7.1,7.0,Negative,Young Adult,0.72,6.22,Yes,No
+163,20,Female,Undergraduate,Nepal,5.3,TikTok,Yes,5.8,6.1,Negative,Young Adult,0.91,4.97,Yes,Yes
+164,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.4,4.9,Negative,Young Adult,0.7,4.79,No,Yes
+165,19,Female,Undergraduate,Sri Lanka,5.3,Facebook,No,7.1,6.9,Positive,Young Adult,0.75,6.1,Yes,No
+166,21,Male,Graduate,Maldives,5.8,TikTok,Yes,5.9,6.0,Negative,Young Adult,0.98,4.81,Yes,Yes
+167,20,Female,Undergraduate,Bangladesh,5.1,Instagram,Yes,6.4,4.9,Negative,Young Adult,0.8,4.61,Yes,Yes
+168,22,Male,Graduate,India,5.3,Facebook,No,6.9,7.2,Negative,Young Adult,0.77,6.18,Yes,Yes
+169,19,Female,Undergraduate,Nepal,5.7,TikTok,Yes,5.7,5.9,Negative,Young Adult,1.0,4.68,Yes,Yes
+170,21,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.5,5.1,Negative,Young Adult,0.72,4.9,No,Yes
+171,20,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7.2,7.0,Positive,Young Adult,0.71,6.27,Yes,No
+172,22,Male,Graduate,Maldives,5.3,TikTok,Yes,5.6,5.9,Negative,Young Adult,0.95,4.75,Yes,Yes
+173,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.5,5.0,Negative,Young Adult,0.74,4.81,No,Yes
+174,21,Male,Graduate,India,5.1,Facebook,No,7.4,7.1,Negative,Young Adult,0.69,6.43,Yes,No
+175,20,Female,Undergraduate,Nepal,5.6,TikTok,Yes,5.6,6.0,Negative,Young Adult,1.0,4.72,Yes,Yes
+176,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.5,5.1,Negative,Young Adult,0.69,4.96,No,Yes
+177,19,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,7.3,7.1,Positive,Young Adult,0.63,6.53,No,No
+178,21,Male,Graduate,Maldives,5.2,TikTok,Yes,5.4,6.1,Negative,Young Adult,0.96,4.8,Yes,Yes
+179,20,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,6.8,5.0,Negative,Young Adult,0.68,5.02,No,Yes
+180,22,Male,Graduate,India,4.8,Facebook,No,7.3,6.9,Negative,Young Adult,0.66,6.35,No,No
+181,19,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,5.9,Negative,Young Adult,1.07,4.5,Yes,Yes
+182,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.8,5.0,Negative,Young Adult,0.68,5.02,No,Yes
+183,20,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.8,7.1,Positive,Young Adult,0.63,6.69,No,No
+184,22,Male,Graduate,Maldives,4.9,TikTok,Yes,5.3,5.8,Negative,Young Adult,0.92,4.66,No,Yes
+185,19,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.0,5.0,Negative,Young Adult,0.64,5.15,No,No
+186,21,Male,Graduate,India,5.0,Facebook,No,7.8,7.0,Negative,Young Adult,0.64,6.6,No,No
+187,20,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.0,6.0,Negative,Young Adult,1.16,4.36,Yes,Yes
+188,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.2,5.1,Negative,Young Adult,0.6,5.37,No,No
+189,19,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.9,7.0,Positive,Young Adult,0.61,6.71,No,No
+190,21,Male,Graduate,Maldives,4.9,TikTok,Yes,5.2,6.1,Negative,Young Adult,0.94,4.79,No,Yes
+191,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.6,5.0,Negative,Young Adult,0.59,5.45,No,No
+192,22,Male,Graduate,India,4.6,Facebook,No,7.8,7.1,Negative,Young Adult,0.59,6.78,No,No
+193,19,Female,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,6.2,Negative,Young Adult,1.13,4.55,Yes,Yes
+194,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5.1,Negative,Young Adult,0.58,5.45,No,No
+195,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.1,6.9,Positive,Young Adult,0.54,6.87,No,No
+196,22,Male,Graduate,Maldives,5.0,TikTok,Yes,4.9,6.0,Negative,Young Adult,1.02,4.55,No,Yes
+197,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5.0,Negative,Young Adult,0.59,5.38,No,No
+198,21,Male,Graduate,India,4.8,Facebook,No,8.1,7.0,Negative,Young Adult,0.59,6.81,No,No
+199,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,6.1,Negative,Young Adult,1.27,4.23,Yes,Yes
+200,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.3,4.9,Negative,Young Adult,0.59,5.3,No,No
+201,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.4,7.0,Positive,Young Adult,0.54,7.05,No,No
+202,21,Male,Graduate,Maldives,4.7,TikTok,Yes,4.7,5.8,Negative,Young Adult,1.0,4.42,No,Yes
+203,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.5,5.1,Negative,Young Adult,0.57,5.52,No,No
+204,22,Male,Graduate,India,4.7,Facebook,No,8.4,6.9,Negative,Young Adult,0.56,6.93,No,No
+205,19,Female,Undergraduate,Nepal,6.2,TikTok,Yes,4.7,6.0,Negative,Young Adult,1.32,4.09,Yes,Yes
+206,21,Male,Graduate,Pakistan,4.0,Instagram,Yes,7.6,5.0,Negative,Young Adult,0.53,5.6,No,No
+207,20,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.5,7.1,Positive,Young Adult,0.51,7.22,No,No
+208,22,Male,Graduate,Maldives,4.6,TikTok,Yes,4.4,5.7,Negative,Young Adult,1.05,4.24,No,Yes
+209,19,Female,Undergraduate,Bangladesh,4.0,Instagram,Yes,7.9,5.0,Negative,Young Adult,0.51,5.75,No,No
+210,21,Male,Graduate,India,4.8,Facebook,No,8.7,7.0,Negative,Young Adult,0.55,7.11,No,No
+211,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.6,6.0,Negative,Young Adult,1.33,4.07,Yes,Yes
+212,22,Male,Graduate,Pakistan,3.8,Instagram,Yes,7.9,5.2,Negative,Young Adult,0.48,5.93,No,No
+213,19,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.8,6.9,Positive,Young Adult,0.48,7.28,No,No
+214,21,Male,Graduate,Maldives,4.7,TikTok,Yes,4.3,6.1,Negative,Young Adult,1.09,4.4,No,Yes
+215,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8.1,5.0,Negative,Young Adult,0.51,5.82,No,No
+216,22,Male,Graduate,India,4.6,Facebook,No,8.7,7.1,Negative,Young Adult,0.53,7.23,No,No
+217,19,Female,Undergraduate,Nepal,6.3,TikTok,Yes,4.3,5.9,Negative,Young Adult,1.47,3.8,Yes,Yes
+218,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,4.9,Negative,Young Adult,0.47,5.85,No,No
+219,20,Female,Undergraduate,Sri Lanka,4.1,Facebook,No,8.9,7.1,Positive,Young Adult,0.46,7.48,No,No
+220,22,Male,Graduate,Maldives,4.8,TikTok,Yes,4.1,6.0,Negative,Young Adult,1.17,4.21,No,Yes
+221,19,Female,Undergraduate,USA,6.3,Instagram,Yes,6.0,4.8,Negative,Young Adult,1.05,3.99,Yes,Yes
+222,21,Male,Graduate,UK,5.8,TikTok,Yes,6.5,5.9,Negative,Young Adult,0.89,5.05,Yes,Yes
+223,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.5,8.0,Positive,Young Adult,0.61,7.17,No,No
+224,22,Male,Graduate,Germany,4.3,Facebook,No,8.0,7.1,Positive,Young Adult,0.54,6.97,No,No
+225,19,Female,Undergraduate,Japan,3.8,LINE,No,8.0,7.9,Neutral,Young Adult,0.48,7.6,No,No
+226,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.9,5.7,Negative,Young Adult,0.8,5.22,Yes,Yes
+227,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6.1,Negative,Young Adult,0.8,5.35,Yes,Yes
+228,22,Male,Graduate,Russia,4.8,VKontakte,No,7.1,6.9,Positive,Young Adult,0.68,6.25,No,No
+229,19,Female,Undergraduate,USA,7.1,TikTok,Yes,5.9,3.8,Negative,Young Adult,1.2,3.1,Yes,Yes
+230,21,Male,Graduate,UK,5.8,Instagram,Yes,6.8,5.7,Negative,Young Adult,0.85,5.08,Yes,Yes
+231,20,Female,Undergraduate,Australia,4.6,Facebook,No,7.5,7.1,Positive,Young Adult,0.61,6.63,No,No
+232,22,Male,Graduate,Germany,3.8,Instagram,No,7.8,8.0,Positive,Young Adult,0.49,7.56,No,No
+233,19,Female,Undergraduate,Japan,3.5,LINE,No,8.0,8.0,Neutral,Young Adult,0.44,7.75,No,No
+234,21,Male,Graduate,Italy,6.1,TikTok,Yes,6.3,5.1,Negative,Young Adult,0.97,4.38,Yes,Yes
+235,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.8,6.1,Negative,Young Adult,0.72,5.59,No,Yes
+236,22,Male,Graduate,Russia,4.7,VKontakte,No,7.5,7.2,Positive,Young Adult,0.63,6.66,No,No
+237,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.9,3.9,Negative,Young Adult,1.2,3.16,Yes,Yes
+238,21,Male,Graduate,UK,5.5,Facebook,Yes,6.7,6.0,Negative,Young Adult,0.82,5.3,Yes,Yes
+239,20,Female,Undergraduate,Australia,4.7,Instagram,No,7.3,6.8,Positive,Young Adult,0.64,6.32,No,No
+240,22,Male,Graduate,Germany,4.3,Facebook,No,7.7,8.0,Positive,Young Adult,0.56,7.36,No,No
+241,19,Female,Undergraduate,Japan,3.6,LINE,No,7.7,8.0,Neutral,Young Adult,0.47,7.57,No,No
+242,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.1,Negative,Young Adult,0.81,4.79,Yes,Yes
+243,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.3,6.0,Negative,Young Adult,0.79,5.25,No,Yes
+244,22,Male,Graduate,Russia,4.5,VKontakte,No,7.3,7.1,Positive,Young Adult,0.62,6.56,No,No
+245,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.5,4.1,Negative,Young Adult,1.24,3.17,Yes,Yes
+246,21,Male,Graduate,UK,5.5,Instagram,Yes,6.5,6.2,Negative,Young Adult,0.85,5.32,Yes,Yes
+247,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.3,7.0,Positive,Young Adult,0.66,6.41,No,No
+248,22,Male,Graduate,Germany,3.8,Instagram,No,7.8,7.9,Positive,Young Adult,0.49,7.5,No,No
+249,19,Female,Undergraduate,Japan,3.6,LINE,No,8.3,8.0,Neutral,Young Adult,0.43,7.87,No,No
+250,21,Male,Graduate,Italy,5.4,TikTok,Yes,6.5,4.9,Negative,Young Adult,0.83,4.57,Yes,Yes
+251,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,7.1,6.1,Negative,Young Adult,0.69,5.74,No,No
+252,22,Male,Graduate,Russia,4.7,VKontakte,No,7.6,7.0,Positive,Young Adult,0.62,6.59,No,No
+253,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.8,3.9,Negative,Young Adult,1.1,3.32,Yes,Yes
+254,21,Male,Graduate,UK,5.5,Facebook,Yes,6.6,6.0,Negative,Young Adult,0.83,5.25,Yes,Yes
+255,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7.1,Positive,Young Adult,0.63,6.53,No,No
+256,22,Male,Graduate,Germany,3.8,Facebook,No,7.5,8.0,Positive,Young Adult,0.51,7.41,No,No
+257,19,Female,Undergraduate,Japan,3.7,LINE,No,8.1,7.9,Neutral,Young Adult,0.46,7.68,No,No
+258,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.2,Negative,Young Adult,0.81,4.85,Yes,Yes
+259,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.6,5.9,Negative,Young Adult,0.74,5.37,No,Yes
+260,22,Male,Graduate,Russia,4.4,VKontakte,No,7.7,7.0,Positive,Young Adult,0.57,6.73,No,No
+261,19,Female,Undergraduate,USA,6.7,TikTok,Yes,5.6,4.1,Negative,Young Adult,1.2,3.25,Yes,Yes
+262,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,5.8,Negative,Young Adult,0.84,5.04,Yes,Yes
+263,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7.0,Positive,Young Adult,0.59,6.58,No,No
+264,22,Male,Graduate,Germany,3.7,Instagram,No,7.5,7.9,Positive,Young Adult,0.49,7.38,No,No
+265,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8.1,Neutral,Young Adult,0.4,8.02,No,No
+266,21,Male,Graduate,Italy,5.0,TikTok,Yes,6.7,4.9,Negative,Young Adult,0.75,4.79,No,Yes
+267,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7.0,6.1,Negative,Young Adult,0.69,5.72,No,No
+268,22,Male,Graduate,Russia,4.2,VKontakte,No,7.6,7.1,Positive,Young Adult,0.55,6.8,No,No
+269,19,Female,Undergraduate,USA,6.3,Instagram,Yes,5.9,4.1,Negative,Young Adult,1.07,3.52,Yes,Yes
+270,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6.0,Negative,Young Adult,0.83,5.23,Yes,Yes
+271,20,Female,Undergraduate,Australia,4.7,Instagram,No,7.3,7.0,Positive,Young Adult,0.64,6.44,No,No
+272,22,Male,Graduate,Germany,3.8,Facebook,No,7.9,7.9,Positive,Young Adult,0.48,7.55,No,No
+273,19,Female,Undergraduate,Japan,3.0,LINE,No,8.3,8.1,Neutral,Young Adult,0.36,8.11,No,No
+274,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.8,4.9,Negative,Young Adult,0.79,4.72,Yes,Yes
+275,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,7.1,5.9,Negative,Young Adult,0.69,5.62,No,No
+276,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7.1,Positive,Young Adult,0.54,6.9,No,No
+277,19,Female,Undergraduate,USA,6.9,TikTok,Yes,5.6,3.9,Negative,Young Adult,1.23,3.07,Yes,Yes
+278,21,Male,Graduate,UK,5.2,Instagram,Yes,6.6,5.9,Negative,Young Adult,0.79,5.28,Yes,Yes
+279,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,6.9,Positive,Young Adult,0.59,6.52,No,No
+280,22,Male,Graduate,Germany,3.6,Instagram,No,7.7,8.0,Positive,Young Adult,0.47,7.57,No,No
+281,19,Female,Undergraduate,Japan,3.1,LINE,No,8.4,8.0,Neutral,Young Adult,0.37,8.07,No,No
+282,21,Male,Graduate,Italy,5.3,TikTok,Yes,6.8,5.0,Negative,Young Adult,0.78,4.81,Yes,Yes
+283,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.2,6.1,Negative,Young Adult,0.65,5.85,No,No
+284,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7.1,Positive,Young Adult,0.54,6.9,No,No
+285,19,Female,Undergraduate,USA,6.6,Instagram,Yes,5.6,4.0,Negative,Young Adult,1.18,3.22,Yes,Yes
+286,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6.0,Negative,Young Adult,0.71,5.56,No,Yes
+287,20,Female,Undergraduate,Australia,4.0,Instagram,No,7.6,7.1,Positive,Young Adult,0.53,6.86,No,No
+288,22,Male,Graduate,Germany,3.6,Facebook,No,8.0,8.1,Positive,Young Adult,0.45,7.78,No,No
+289,19,Female,Undergraduate,Japan,2.8,LINE,No,8.6,8.0,Neutral,Young Adult,0.33,8.26,No,No
+290,21,Male,Graduate,Italy,4.9,Instagram,Yes,6.8,5.0,Negative,Young Adult,0.72,4.93,No,Yes
+291,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.3,5.9,Negative,Young Adult,0.63,5.81,No,No
+292,22,Male,Graduate,Russia,4.4,VKontakte,No,8.0,6.9,Positive,Young Adult,0.55,6.82,No,No
+293,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.2,4.1,Negative,Young Adult,1.31,3.02,Yes,Yes
+294,21,Male,Graduate,UK,5.0,Instagram,Yes,6.7,6.1,Negative,Young Adult,0.75,5.51,No,Yes
+295,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7.1,Positive,Young Adult,0.55,6.8,No,No
+296,22,Male,Graduate,Germany,3.4,Instagram,No,7.9,8.0,Positive,Young Adult,0.43,7.73,No,No
+297,19,Female,Undergraduate,Japan,3.0,LINE,No,8.6,8.1,Neutral,Young Adult,0.35,8.26,No,No
+298,21,Male,Graduate,Italy,5.1,TikTok,Yes,7.0,5.0,Negative,Young Adult,0.73,4.97,Yes,No
+299,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.6,6.1,Negative,Young Adult,0.58,6.14,No,No
+300,22,Male,Graduate,Russia,3.9,VKontakte,No,8.2,7.0,Positive,Young Adult,0.48,7.13,No,No
+301,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.1,3.9,Negative,Young Adult,1.33,2.85,Yes,Yes
+302,21,Male,Graduate,UK,4.9,Facebook,Yes,6.8,6.1,Negative,Young Adult,0.72,5.59,No,Yes
+303,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.5,7.0,Positive,Young Adult,0.55,6.72,No,No
+304,22,Male,Graduate,Germany,3.2,Facebook,No,8.3,8.0,Positive,Young Adult,0.39,7.99,No,No
+305,19,Female,Undergraduate,Japan,2.9,LINE,No,8.8,8.0,Neutral,Young Adult,0.33,8.33,No,No
+306,21,Male,Graduate,Italy,4.9,Instagram,Yes,7.1,5.0,Negative,Young Adult,0.69,5.08,No,No
+307,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.6,6.2,Negative,Young Adult,0.57,6.23,No,No
+308,22,Male,Graduate,Russia,3.8,VKontakte,No,8.1,7.1,Positive,Young Adult,0.47,7.17,No,No
+309,19,Female,Undergraduate,USA,7.2,TikTok,Yes,5.0,4.1,Negative,Young Adult,1.44,2.8,Yes,Yes
+310,21,Male,Graduate,UK,4.8,Instagram,Yes,6.8,6.0,Negative,Young Adult,0.71,5.56,No,Yes
+311,20,Female,Undergraduate,Australia,4.0,Facebook,No,7.9,7.1,Positive,Young Adult,0.51,7.01,No,No
+312,22,Male,Graduate,Germany,3.3,Instagram,No,8.1,8.1,Positive,Young Adult,0.41,7.92,No,No
+313,19,Female,Undergraduate,Japan,2.9,LINE,No,8.6,8.0,Neutral,Young Adult,0.34,8.23,No,No
+314,21,Male,Graduate,Italy,5.0,TikTok,Yes,7.2,5.0,Negative,Young Adult,0.69,5.1,No,No
+315,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.7,6.0,Negative,Young Adult,0.55,6.19,No,No
+316,22,Male,Graduate,Russia,3.5,VKontakte,No,8.4,6.7,Positive,Young Adult,0.42,7.17,No,No
+317,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.0,4.0,Negative,Young Adult,1.38,2.83,Yes,Yes
+318,21,Male,Graduate,UK,4.6,Facebook,Yes,7.0,6.0,Negative,Young Adult,0.66,5.72,No,No
+319,20,Female,Undergraduate,Australia,3.8,Instagram,No,8.0,7.2,Positive,Young Adult,0.48,7.18,No,No
+320,22,Male,Graduate,Germany,3.1,Facebook,No,8.2,8.0,Positive,Young Adult,0.38,7.97,No,No
+321,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,5.9,Negative,Young Adult,0.76,5.38,Yes,Yes
+322,21,Male,Graduate,Denmark,4.2,Facebook,No,7.8,8.0,Positive,Young Adult,0.54,7.44,No,No
+323,20,Female,Undergraduate,Ireland,5.0,Instagram,Yes,7.0,6.9,Negative,Young Adult,0.71,6.14,No,No
+324,22,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5.0,Negative,Young Adult,0.92,4.43,Yes,Yes
+325,19,Female,Undergraduate,Switzerland,4.0,Instagram,No,7.9,8.0,Positive,Young Adult,0.51,7.55,No,No
+326,21,Male,Graduate,Turkey,5.2,Instagram,Yes,6.5,6.1,Negative,Young Adult,0.8,5.35,Yes,Yes
+327,20,Female,Undergraduate,USA,6.7,TikTok,Yes,5.4,4.9,Negative,Young Adult,1.24,3.63,Yes,Yes
+328,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6.0,Negative,Young Adult,0.85,5.22,Yes,Yes
+329,19,Female,Undergraduate,France,4.3,Instagram,No,7.4,6.9,Positive,Young Adult,0.58,6.55,No,No
+330,21,Male,Graduate,Canada,5.4,Instagram,Yes,6.9,6.1,Negative,Young Adult,0.78,5.49,Yes,Yes
+331,20,Female,Undergraduate,Spain,5.3,TikTok,Yes,6.7,6.1,Negative,Young Adult,0.79,5.42,Yes,Yes
+332,22,Male,Graduate,Denmark,4.1,Facebook,No,7.9,8.0,Positive,Young Adult,0.52,7.52,No,No
+333,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7.0,Negative,Young Adult,0.68,6.31,No,No
+334,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.3,5.0,Negative,Young Adult,0.97,4.32,Yes,Yes
+335,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8.0,8.2,Positive,Young Adult,0.48,7.78,No,No
+336,22,Male,Graduate,Turkey,5.3,TikTok,Yes,6.9,6.0,Negative,Young Adult,0.77,5.46,Yes,Yes
+337,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.4,5.0,Negative,Young Adult,1.26,3.66,Yes,Yes
+338,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.4,5.9,Negative,Young Adult,0.89,5.03,Yes,Yes
+339,20,Female,Undergraduate,France,4.3,Instagram,No,7.6,6.9,Positive,Young Adult,0.57,6.65,No,No
+340,22,Male,Graduate,Canada,5.2,TikTok,Yes,7.1,6.0,Negative,Young Adult,0.73,5.59,Yes,No
+341,19,Female,Undergraduate,Spain,5.0,Instagram,Yes,6.7,6.1,Negative,Young Adult,0.75,5.51,No,Yes
+342,21,Male,Graduate,Denmark,3.8,Facebook,No,8.1,8.0,Positive,Young Adult,0.47,7.71,No,No
+343,20,Female,Undergraduate,Ireland,4.8,TikTok,Yes,7.2,7.0,Negative,Young Adult,0.67,6.36,No,No
+344,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.3,5.0,Negative,Young Adult,0.98,4.29,Yes,Yes
+345,19,Female,Undergraduate,Switzerland,3.8,Instagram,No,8.2,7.9,Positive,Young Adult,0.46,7.7,No,No
+346,21,Male,Graduate,Turkey,5.1,Instagram,Yes,6.8,6.0,Negative,Young Adult,0.75,5.47,Yes,Yes
+347,20,Female,Undergraduate,USA,6.6,TikTok,Yes,5.2,4.9,Negative,Young Adult,1.27,3.56,Yes,Yes
+348,22,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.4,6.1,Negative,Young Adult,0.92,5.09,Yes,Yes
+349,19,Female,Undergraduate,France,4.1,Instagram,No,7.6,6.9,Positive,Young Adult,0.54,6.71,No,No
+350,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.3,6.1,Negative,Young Adult,0.7,5.78,Yes,No
+351,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,6.9,5.9,Negative,Young Adult,0.68,5.58,No,Yes
+352,22,Male,Graduate,Denmark,3.4,Facebook,No,8.0,8.1,Positive,Young Adult,0.42,7.84,No,No
+353,19,Female,Undergraduate,Ireland,4.7,Instagram,Yes,7.3,7.1,Negative,Young Adult,0.64,6.5,No,No
+354,21,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5.0,Negative,Young Adult,1.02,4.19,Yes,Yes
+355,20,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.2,7.9,Positive,Young Adult,0.43,7.79,No,No
+356,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.0,6.0,Negative,Young Adult,0.69,5.66,No,No
+357,19,Female,Undergraduate,USA,7.0,Instagram,Yes,5.2,4.9,Negative,Young Adult,1.35,3.44,Yes,Yes
+358,21,Male,Graduate,Mexico,6.0,WhatsApp,Yes,6.3,6.0,Negative,Young Adult,0.95,4.95,Yes,Yes
+359,20,Female,Undergraduate,France,4.0,Instagram,No,7.7,7.1,Positive,Young Adult,0.52,6.91,No,No
+360,22,Male,Graduate,Canada,5.0,TikTok,Yes,7.0,6.1,Negative,Young Adult,0.71,5.66,No,No
+361,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6.0,Negative,Young Adult,0.68,5.71,No,No
+362,21,Male,Graduate,Denmark,3.7,Facebook,No,8.4,7.9,Positive,Young Adult,0.44,7.83,No,No
+363,20,Female,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,7.1,Negative,Young Adult,0.61,6.61,No,No
+364,22,Male,Graduate,India,6.1,WhatsApp,Yes,6.1,5.0,Negative,Young Adult,1.0,4.22,Yes,Yes
+365,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.4,7.8,Positive,Young Adult,0.44,7.77,No,No
+366,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.0,6.1,Negative,Young Adult,0.73,5.63,Yes,No
+367,20,Female,Undergraduate,USA,7.2,TikTok,Yes,5.3,5.0,Negative,Young Adult,1.36,3.49,Yes,Yes
+368,22,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.2,6.1,Negative,Young Adult,0.95,4.99,Yes,Yes
+369,19,Female,Undergraduate,France,4.0,Instagram,No,8.1,6.9,Positive,Young Adult,0.49,6.99,No,No
+370,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.2,5.7,Negative,Young Adult,0.67,5.58,No,No
+371,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,7.4,6.0,Negative,Young Adult,0.64,5.89,No,No
+372,22,Male,Graduate,Denmark,3.8,Facebook,No,8.4,8.0,Positive,Young Adult,0.45,7.86,No,No
+373,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.6,6.8,Negative,Young Adult,0.55,6.62,No,No
+374,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.0,4.9,Negative,Young Adult,1.02,4.11,Yes,Yes
+375,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.4,8.3,Positive,Young Adult,0.43,8.1,No,No
+376,22,Male,Graduate,Turkey,5.0,TikTok,Yes,7.3,6.0,Negative,Young Adult,0.68,5.75,No,No
+377,19,Female,Undergraduate,USA,7.2,Instagram,Yes,5.0,5.1,Negative,Young Adult,1.44,3.4,Yes,Yes
+378,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,5.9,Negative,Young Adult,1.07,4.6,Yes,Yes
+379,20,Female,Undergraduate,France,3.9,Instagram,No,7.9,6.8,Positive,Young Adult,0.49,6.86,No,No
+380,22,Male,Graduate,Canada,5.1,TikTok,Yes,7.4,6.0,Negative,Young Adult,0.69,5.77,Yes,No
+381,19,Female,Undergraduate,Spain,4.7,Instagram,Yes,7.3,6.0,Negative,Young Adult,0.64,5.84,No,No
+382,21,Male,Graduate,Denmark,3.3,Facebook,No,8.4,8.0,Positive,Young Adult,0.39,8.01,No,No
+383,20,Female,Undergraduate,Ireland,4.6,TikTok,Yes,7.7,7.0,Negative,Young Adult,0.6,6.67,No,No
+384,22,Male,Graduate,India,6.3,WhatsApp,Yes,5.7,5.0,Negative,Young Adult,1.11,3.96,Yes,Yes
+385,19,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.5,8.0,Positive,Young Adult,0.4,8.03,No,No
+386,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.1,5.9,Negative,Young Adult,0.69,5.62,No,No
+387,20,Female,Undergraduate,USA,7.6,TikTok,Yes,5.0,5.0,Negative,Young Adult,1.52,3.22,Yes,Yes
+388,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,6.0,5.8,Negative,Young Adult,1.07,4.56,Yes,Yes
+389,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,6.8,Positive,Young Adult,0.48,6.96,No,No
+390,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.4,6.1,Negative,Young Adult,0.62,5.98,No,No
+391,20,Female,Undergraduate,Spain,4.6,TikTok,Yes,7.5,6.1,Negative,Young Adult,0.61,6.03,No,No
+392,22,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8.0,Positive,Young Adult,0.37,8.14,No,No
+393,19,Female,Undergraduate,Ireland,4.5,Instagram,Yes,7.8,6.9,Negative,Young Adult,0.58,6.69,No,No
+394,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,4.9,Negative,Young Adult,1.12,3.89,Yes,Yes
+395,20,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8.0,Positive,Young Adult,0.36,8.22,No,No
+396,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.3,5.8,Negative,Young Adult,0.66,5.69,No,No
+397,19,Female,Undergraduate,USA,7.3,Instagram,Yes,4.9,4.9,Negative,Young Adult,1.49,3.2,Yes,Yes
+398,21,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6.1,6.1,Negative,Young Adult,1.02,4.85,Yes,Yes
+399,20,Female,Undergraduate,France,4.0,Instagram,No,8.3,7.1,Positive,Young Adult,0.48,7.21,No,No
+400,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.5,6.0,Negative,Young Adult,0.6,6.0,No,No
+401,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.5,6.1,Negative,Young Adult,0.56,6.15,No,No
+402,21,Male,Graduate,Denmark,3.3,Facebook,No,8.5,7.8,Positive,Young Adult,0.39,7.94,No,No
+403,20,Female,Undergraduate,Ireland,4.3,TikTok,Yes,7.9,7.1,Negative,Young Adult,0.54,6.92,No,No
+404,22,Male,Graduate,India,6.7,WhatsApp,Yes,5.7,4.9,Negative,Young Adult,1.18,3.78,Yes,Yes
+405,19,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.5,8.0,Positive,Young Adult,0.38,8.09,No,No
+406,21,Male,Graduate,Turkey,4.6,Instagram,Yes,7.4,6.0,Negative,Young Adult,0.62,5.92,No,No
+407,20,Female,Undergraduate,USA,7.4,TikTok,Yes,4.7,5.1,Negative,Young Adult,1.57,3.19,Yes,Yes
+408,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.8,5.9,Negative,Young Adult,1.14,4.46,Yes,Yes
+409,19,Female,Undergraduate,France,3.7,Instagram,No,8.2,7.1,Positive,Young Adult,0.45,7.25,No,No
+410,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6.0,Negative,Young Adult,0.58,6.1,No,No
+411,20,Female,Undergraduate,Spain,4.5,TikTok,Yes,7.6,6.0,Negative,Young Adult,0.59,6.05,No,No
+412,22,Male,Graduate,Denmark,3.2,Facebook,No,8.7,8.0,Positive,Young Adult,0.37,8.19,No,No
+413,19,Female,Undergraduate,Ireland,4.1,Instagram,Yes,7.8,6.9,Negative,Young Adult,0.53,6.81,No,No
+414,21,Male,Graduate,India,7.0,WhatsApp,Yes,5.7,5.0,Negative,Young Adult,1.23,3.75,Yes,Yes
+415,20,Female,Undergraduate,Switzerland,2.9,Instagram,No,9.0,8.0,Positive,Young Adult,0.32,8.43,No,No
+416,22,Male,Graduate,Turkey,4.7,TikTok,Yes,7.6,6.0,Negative,Young Adult,0.62,5.99,No,No
+417,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.5,5.0,Negative,Young Adult,1.71,2.94,Yes,Yes
+418,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6.1,Negative,Young Adult,1.14,4.56,Yes,Yes
+419,20,Female,Undergraduate,France,3.8,Instagram,No,8.4,7.1,Positive,Young Adult,0.45,7.32,No,No
+420,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.8,5.9,Negative,Young Adult,0.58,6.09,No,No
+421,19,Female,Undergraduate,Spain,4.3,Instagram,Yes,7.8,6.1,Negative,Young Adult,0.55,6.27,No,No
+422,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,7.9,Positive,Young Adult,0.37,8.08,No,No
+423,20,Female,Undergraduate,Ireland,3.8,TikTok,Yes,8.1,7.1,Negative,Young Adult,0.47,7.17,No,No
+424,22,Male,Graduate,India,6.7,WhatsApp,Yes,5.5,5.1,Negative,Young Adult,1.22,3.8,Yes,Yes
+425,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,8.9,7.8,Positive,Young Adult,0.3,8.32,No,No
+426,21,Male,Graduate,Turkey,4.2,Instagram,Yes,7.7,6.0,Negative,Young Adult,0.55,6.19,No,No
+427,20,Female,Undergraduate,USA,8.1,TikTok,Yes,4.5,5.0,Negative,Young Adult,1.8,2.82,Yes,Yes
+428,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.4,5.9,Negative,Young Adult,1.19,4.32,Yes,Yes
+429,19,Female,Undergraduate,France,3.5,Instagram,No,8.6,7.1,Positive,Young Adult,0.41,7.51,No,No
+430,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,5.9,Negative,Young Adult,0.54,6.2,No,No
+431,20,Female,Undergraduate,Spain,4.1,TikTok,Yes,7.8,5.9,Negative,Young Adult,0.53,6.21,No,No
+432,22,Male,Graduate,Denmark,3.0,Facebook,No,9.0,8.0,Positive,Young Adult,0.33,8.4,No,No
+433,19,Female,Undergraduate,Ireland,3.9,Instagram,Yes,8.0,7.1,Negative,Young Adult,0.49,7.09,No,No
+434,21,Male,Graduate,India,6.8,WhatsApp,Yes,5.4,5.0,Negative,Young Adult,1.26,3.66,Yes,Yes
+435,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9.0,8.1,Positive,Young Adult,0.31,8.52,No,No
+436,22,Male,Graduate,Turkey,4.4,TikTok,Yes,7.9,6.1,Negative,Young Adult,0.56,6.29,No,No
+437,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.2,4.8,Negative,Young Adult,1.88,2.61,Yes,Yes
+438,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.5,5.9,Negative,Young Adult,1.25,4.22,Yes,Yes
+439,20,Female,Undergraduate,France,3.5,Instagram,No,8.5,6.9,Positive,Young Adult,0.41,7.34,No,No
+440,22,Male,Graduate,Canada,4.3,TikTok,Yes,8.0,6.0,Negative,Young Adult,0.54,6.31,No,No
+441,19,Female,Undergraduate,Spain,4.1,Instagram,Yes,7.9,5.7,Negative,Young Adult,0.52,6.14,No,No
+442,21,Male,Graduate,Denmark,3.0,Facebook,No,8.9,8.3,Positive,Young Adult,0.34,8.53,No,No
+443,20,Female,Undergraduate,Ireland,3.7,TikTok,Yes,8.1,7.1,Negative,Young Adult,0.46,7.2,No,No
+444,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.3,5.0,Negative,Young Adult,1.28,3.61,Yes,Yes
+445,19,Female,Undergraduate,Switzerland,2.8,Instagram,No,9.0,8.1,Positive,Young Adult,0.31,8.52,No,No
+446,21,Male,Graduate,Turkey,4.2,Instagram,Yes,8.0,6.2,Negative,Young Adult,0.52,6.46,No,No
+447,20,Female,Undergraduate,USA,7.9,TikTok,Yes,4.3,5.1,Negative,Young Adult,1.84,2.84,Yes,Yes
+448,22,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.1,6.1,Negative,Young Adult,1.35,4.14,Yes,Yes
+449,19,Female,Undergraduate,France,3.5,Instagram,No,8.7,7.0,Positive,Young Adult,0.4,7.5,No,No
+450,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.0,6.0,Negative,Young Adult,0.51,6.37,No,No
+451,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,7.8,6.0,Negative,Young Adult,0.5,6.33,No,No
+452,22,Male,Graduate,Denmark,3.0,Facebook,No,9.0,7.9,Positive,Young Adult,0.33,8.34,No,No
+453,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,6.9,Negative,Young Adult,0.43,7.21,No,No
+454,21,Male,Graduate,India,7.5,WhatsApp,Yes,5.3,4.9,Negative,Young Adult,1.42,3.34,Yes,Yes
+455,20,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.2,8.0,Positive,Young Adult,0.29,8.59,No,No
+456,22,Male,Graduate,Turkey,3.9,TikTok,Yes,7.9,5.8,Negative,Young Adult,0.49,6.26,No,No
+457,19,Female,Undergraduate,USA,8.2,Instagram,Yes,4.2,5.0,Negative,Young Adult,1.95,2.64,Yes,Yes
+458,21,Male,Graduate,Mexico,7.0,WhatsApp,Yes,5.3,6.0,Negative,Young Adult,1.32,4.15,Yes,Yes
+459,20,Female,Undergraduate,France,3.4,Instagram,No,8.7,7.0,Positive,Young Adult,0.39,7.53,No,No
+460,22,Male,Graduate,Canada,4.1,TikTok,Yes,8.1,5.9,Negative,Young Adult,0.51,6.36,No,No
+461,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,7.9,6.3,Negative,Young Adult,0.48,6.59,No,No
+462,21,Male,Graduate,Denmark,2.4,Facebook,No,9.2,8.1,Positive,Young Adult,0.26,8.74,No,No
+463,20,Female,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,6.9,Negative,Young Adult,0.42,7.29,No,No
+464,22,Male,Graduate,India,7.1,WhatsApp,Yes,5.1,5.0,Negative,Young Adult,1.39,3.42,Yes,Yes
+465,19,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.3,7.9,Positive,Young Adult,0.26,8.67,No,No
+466,21,Male,Graduate,Turkey,4.2,Instagram,Yes,8.0,5.9,Negative,Young Adult,0.52,6.28,No,No
+467,20,Female,Undergraduate,USA,8.5,TikTok,Yes,4.2,4.9,Negative,Young Adult,2.02,2.49,Yes,Yes
+468,22,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6.0,Negative,Young Adult,1.39,4.02,Yes,Yes
+469,19,Female,Undergraduate,France,2.9,Instagram,No,9.0,6.9,Positive,Young Adult,0.32,7.77,No,No
+470,21,Male,Graduate,Canada,4.0,Instagram,Yes,8.2,6.1,Negative,Young Adult,0.49,6.56,No,No
+471,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,8.1,6.1,Negative,Young Adult,0.48,6.54,No,No
+472,22,Male,Graduate,Denmark,2.4,Facebook,No,9.2,8.1,Positive,Young Adult,0.26,8.74,No,No
+473,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.4,6.9,Negative,Young Adult,0.4,7.32,No,No
+474,21,Male,Graduate,India,7.3,WhatsApp,Yes,5.1,5.0,Negative,Young Adult,1.43,3.36,Yes,Yes
+475,20,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8.1,Positive,Young Adult,0.24,8.92,No,No
+476,22,Male,Graduate,Turkey,4.1,TikTok,Yes,8.3,6.0,Negative,Young Adult,0.49,6.52,No,No
+477,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4.1,4.9,Negative,Young Adult,2.02,2.5,Yes,Yes
+478,21,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5.0,6.2,Negative,Young Adult,1.44,4.06,Yes,Yes
+479,20,Female,Undergraduate,France,2.9,Instagram,No,9.0,7.0,Positive,Young Adult,0.32,7.83,No,No
+480,22,Male,Graduate,Canada,3.7,TikTok,Yes,8.3,6.1,Negative,Young Adult,0.45,6.7,No,No
+481,19,Female,Undergraduate,Spain,3.7,Instagram,Yes,8.4,5.9,Negative,Young Adult,0.44,6.63,No,No
+482,21,Male,Graduate,Denmark,2.3,Facebook,No,9.3,7.9,Positive,Young Adult,0.25,8.7,No,No
+483,20,Female,Undergraduate,Ireland,3.6,TikTok,Yes,8.7,6.9,Negative,Young Adult,0.41,7.41,No,No
+484,22,Male,Graduate,India,7.3,WhatsApp,Yes,5.0,5.0,Negative,Young Adult,1.46,3.31,Yes,Yes
+485,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.7,7.9,Positive,Young Adult,0.24,8.9,No,No
+486,21,Male,Graduate,Turkey,4.0,Instagram,Yes,8.3,6.0,Negative,Young Adult,0.48,6.55,No,No
+487,20,Female,Undergraduate,USA,8.2,TikTok,Yes,4.0,4.8,Negative,Young Adult,2.05,2.42,Yes,Yes
+488,22,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.2,5.9,Negative,Young Adult,1.33,4.07,Yes,Yes
+489,19,Female,Undergraduate,France,2.7,Instagram,No,9.0,7.1,Positive,Young Adult,0.3,7.95,No,No
+490,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6.1,Negative,Young Adult,0.47,6.64,No,No
+491,20,Female,Undergraduate,Spain,3.4,TikTok,Yes,8.2,6.0,Negative,Young Adult,0.41,6.68,No,No
+492,22,Male,Graduate,Denmark,2.7,Facebook,No,9.6,7.9,Positive,Young Adult,0.28,8.73,No,No
+493,19,Female,Undergraduate,Ireland,3.1,Instagram,Yes,8.5,6.9,Negative,Young Adult,0.36,7.46,No,No
+494,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5.0,Negative,Young Adult,1.56,3.15,Yes,Yes
+495,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.6,8.1,Positive,Young Adult,0.25,8.94,No,No
+496,22,Male,Graduate,Turkey,4.1,TikTok,Yes,8.4,6.1,Negative,Young Adult,0.49,6.63,No,No
+497,19,Female,Undergraduate,USA,8.8,Instagram,Yes,3.8,5.0,Negative,Young Adult,2.32,2.26,Yes,Yes
+498,21,Male,Graduate,Mexico,7.5,WhatsApp,Yes,4.9,5.9,Negative,Young Adult,1.53,3.74,Yes,Yes
+499,20,Female,Undergraduate,France,3.0,Instagram,No,9.3,7.0,Positive,Young Adult,0.32,7.95,No,No
+500,22,Male,Graduate,Canada,3.7,TikTok,Yes,8.5,5.9,Negative,Young Adult,0.44,6.68,No,No
+501,19,Female,Undergraduate,Brazil,6.3,WhatsApp,Yes,6.2,5.9,Negative,Young Adult,1.02,4.75,Yes,Yes
+502,21,Male,Graduate,China,4.4,WeChat,No,7.7,7.1,Positive,Young Adult,0.57,6.79,No,No
+503,20,Female,Undergraduate,Netherlands,3.7,Instagram,No,8.3,8.1,Positive,Young Adult,0.45,7.9,No,No
+504,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.6,7.0,Negative,Young Adult,0.62,6.59,No,No
+505,19,Female,Undergraduate,Singapore,5.1,TikTok,Yes,7.0,5.9,Negative,Young Adult,0.73,5.51,Yes,No
+506,21,Male,Graduate,Malaysia,5.4,WhatsApp,Yes,6.9,6.0,Negative,Young Adult,0.78,5.43,Yes,Yes
+507,20,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5.1,Negative,Young Adult,1.03,4.28,Yes,Yes
+508,22,Male,Graduate,Poland,4.3,Facebook,No,8.1,7.0,Positive,Young Adult,0.53,6.96,No,No
+509,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6.2,5.1,Negative,Young Adult,1.1,4.12,Yes,Yes
+510,21,Male,Graduate,Canada,5.0,Instagram,Yes,7.5,7.1,Negative,Young Adult,0.67,6.51,No,No
+511,20,Female,Undergraduate,Brazil,5.9,Instagram,Yes,6.6,6.2,Negative,Young Adult,0.89,5.25,Yes,Yes
+512,22,Male,Graduate,China,4.4,WeChat,No,7.7,7.0,Positive,Young Adult,0.57,6.73,No,No
+513,19,Female,Undergraduate,Netherlands,3.6,TikTok,No,8.2,8.1,Positive,Young Adult,0.44,7.88,No,No
+514,21,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.5,7.1,Negative,Young Adult,0.57,6.72,No,No
+515,20,Female,Undergraduate,Singapore,5.2,TikTok,Yes,7.0,6.0,Negative,Young Adult,0.74,5.54,Yes,No
+516,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.6,5.9,Negative,Young Adult,0.85,5.16,Yes,Yes
+517,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.5,5.0,Negative,Young Adult,1.05,4.21,Yes,Yes
+518,21,Male,Graduate,Poland,4.2,Facebook,No,8.1,7.0,Positive,Young Adult,0.52,6.99,No,No
+519,20,Female,Undergraduate,India,6.7,WhatsApp,Yes,6.0,4.9,Negative,Young Adult,1.12,3.93,Yes,Yes
+520,22,Male,Graduate,Canada,5.0,TikTok,Yes,7.5,7.0,Negative,Young Adult,0.67,6.45,No,No
+521,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.4,6.1,Negative,Young Adult,0.97,5.0,Yes,Yes
+522,21,Male,Graduate,China,4.4,WeChat,No,7.9,6.8,Positive,Young Adult,0.56,6.71,No,No
+523,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.5,8.2,Positive,Young Adult,0.42,8.09,No,No
+524,22,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7.1,Negative,Young Adult,0.56,6.84,No,No
+525,19,Female,Undergraduate,Singapore,5.2,TikTok,Yes,6.8,6.0,Negative,Young Adult,0.76,5.44,Yes,Yes
+526,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.6,6.1,Negative,Young Adult,0.89,5.19,Yes,Yes
+527,20,Female,Undergraduate,UAE,7.0,Instagram,Yes,6.1,5.0,Negative,Young Adult,1.15,3.95,Yes,Yes
+528,22,Male,Graduate,Poland,4.2,Facebook,No,8.0,7.1,Positive,Young Adult,0.52,7.0,No,No
+529,19,Female,Undergraduate,India,6.9,WhatsApp,Yes,6.0,5.1,Negative,Young Adult,1.15,3.99,Yes,Yes
+530,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.5,6.9,Negative,Young Adult,0.59,6.57,No,No
+531,20,Female,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,6.1,Negative,Young Adult,0.89,5.19,Yes,Yes
+532,22,Male,Graduate,China,3.9,WeChat,No,8.2,7.0,Positive,Young Adult,0.48,7.13,No,No
+533,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.4,8.0,Positive,Young Adult,0.42,7.95,No,No
+534,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,6.9,Negative,Young Adult,0.56,6.72,No,No
+535,20,Female,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,6.2,Negative,Young Adult,0.78,5.53,Yes,Yes
+536,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.5,6.1,Negative,Young Adult,0.86,5.23,Yes,Yes
+537,19,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.5,4.9,Negative,Young Adult,1.06,4.12,Yes,Yes
+538,21,Male,Graduate,Poland,3.8,Facebook,No,8.0,6.9,Positive,Young Adult,0.48,7.0,No,No
+539,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.8,5.0,Negative,Young Adult,1.19,3.83,Yes,Yes
+540,22,Male,Graduate,Canada,4.1,TikTok,Yes,7.7,7.0,Negative,Young Adult,0.53,6.82,No,No
+541,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.8,6.0,Negative,Young Adult,0.85,5.26,Yes,Yes
+542,21,Male,Graduate,China,4.4,WeChat,No,8.2,7.1,Positive,Young Adult,0.54,7.04,No,No
+543,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.5,8.1,Positive,Young Adult,0.42,8.03,No,No
+544,22,Male,Graduate,New Zealand,4.2,Instagram,Yes,7.9,7.1,Negative,Young Adult,0.53,6.95,No,No
+545,19,Female,Undergraduate,Singapore,5.4,TikTok,Yes,6.4,6.0,Negative,Young Adult,0.84,5.18,Yes,Yes
+546,21,Male,Graduate,Malaysia,6.0,WhatsApp,Yes,6.5,5.9,Negative,Young Adult,0.92,4.99,Yes,Yes
+547,20,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.1,5.0,Negative,Young Adult,1.11,4.01,Yes,Yes
+548,22,Male,Graduate,Poland,3.8,Facebook,No,8.4,7.1,Positive,Young Adult,0.45,7.32,No,No
+549,19,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.7,5.0,Negative,Young Adult,1.28,3.66,Yes,Yes
+550,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.8,7.1,Negative,Young Adult,0.59,6.78,No,No
+551,20,Female,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,6.0,Negative,Young Adult,0.84,5.29,Yes,Yes
+552,22,Male,Graduate,China,4.0,WeChat,No,8.2,6.9,Positive,Young Adult,0.49,7.04,No,No
+553,19,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.6,8.0,Positive,Young Adult,0.37,8.14,No,No
+554,21,Male,Graduate,New Zealand,4.1,Facebook,Yes,8.1,7.0,Negative,Young Adult,0.51,7.02,No,No
+555,20,Female,Undergraduate,Singapore,5.6,TikTok,Yes,6.6,5.9,Negative,Young Adult,0.85,5.16,Yes,Yes
+556,22,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.3,6.0,Negative,Young Adult,0.97,4.92,Yes,Yes
+557,19,Female,Undergraduate,UAE,7.1,Instagram,Yes,6.0,4.9,Negative,Young Adult,1.18,3.81,Yes,Yes
+558,21,Male,Graduate,Poland,3.6,Facebook,No,8.3,7.1,Positive,Young Adult,0.43,7.33,No,No
+559,20,Female,Undergraduate,India,7.5,WhatsApp,Yes,5.6,5.0,Negative,Young Adult,1.34,3.55,Yes,Yes
+560,22,Male,Graduate,Canada,4.3,TikTok,Yes,8.0,7.1,Negative,Young Adult,0.54,6.97,No,No
+561,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,7.1,6.2,Negative,Young Adult,0.79,5.59,Yes,No
+562,21,Male,Graduate,China,3.8,WeChat,No,8.3,7.0,Positive,Young Adult,0.46,7.21,No,No
+563,20,Female,Undergraduate,Netherlands,2.8,Instagram,No,8.8,7.9,Positive,Young Adult,0.32,8.3,No,No
+564,22,Male,Graduate,New Zealand,4.2,Instagram,Yes,8.1,6.8,Negative,Young Adult,0.52,6.87,No,No
+565,19,Female,Undergraduate,Singapore,5.8,TikTok,Yes,6.5,5.9,Negative,Young Adult,0.89,5.05,Yes,Yes
+566,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,5.9,Negative,Young Adult,0.98,4.81,Yes,Yes
+567,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.8,5.1,Negative,Young Adult,1.22,3.83,Yes,Yes
+568,22,Male,Graduate,Poland,3.7,Facebook,No,8.6,7.0,Positive,Young Adult,0.43,7.39,No,No
+569,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.5,5.0,Negative,Young Adult,1.31,3.59,Yes,Yes
+570,21,Male,Graduate,Canada,4.1,Instagram,Yes,7.9,6.8,Negative,Young Adult,0.52,6.8,No,No
+571,20,Female,Undergraduate,Spain,6.2,Instagram,Yes,7.3,4.9,Negative,Young Adult,0.85,4.73,Yes,No
+572,23,Male,Graduate,Denmark,3.6,Twitter,No,7.9,8.1,Positive,Adult,0.46,7.73,No,No
+573,19,Female,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,6.0,Negative,Young Adult,0.81,5.35,Yes,Yes
+574,22,Male,Graduate,India,7.0,Facebook,Yes,5.9,4.0,Negative,Young Adult,1.19,3.25,Yes,Yes
+575,21,Female,Undergraduate,Switzerland,4.3,Instagram,No,7.6,7.1,Positive,Young Adult,0.57,6.77,No,No
+576,24,Male,Graduate,Turkey,6.8,TikTok,Yes,6.1,5.2,Negative,Adult,1.11,4.13,Yes,Yes
+577,20,Female,Undergraduate,USA,5.7,Instagram,Yes,6.7,6.0,Negative,Young Adult,0.85,5.24,Yes,Yes
+578,22,Male,Graduate,Mexico,6.7,Facebook,Yes,5.9,5.0,Negative,Young Adult,1.14,3.94,Yes,Yes
+579,19,Female,Undergraduate,France,4.6,Twitter,No,7.5,7.0,Positive,Young Adult,0.61,6.57,No,No
+580,23,Male,Graduate,Canada,5.1,Instagram,Yes,6.8,6.2,Negative,Adult,0.75,5.59,Yes,Yes
+581,21,Female,Undergraduate,UK,6.3,TikTok,Yes,6.6,4.8,Negative,Young Adult,0.95,4.29,Yes,Yes
+582,24,Male,Graduate,Italy,5.1,Facebook,No,7.3,7.1,Positive,Adult,0.7,6.38,Yes,No
+583,20,Female,Undergraduate,Russia,6.5,Instagram,Yes,6.0,5.0,Negative,Young Adult,1.08,4.05,Yes,Yes
+584,22,Male,Graduate,China,5.8,WeChat,Yes,6.4,6.1,Negative,Young Adult,0.91,5.12,Yes,Yes
+585,19,Female,Undergraduate,Japan,4.6,Twitter,No,7.6,7.9,Positive,Young Adult,0.61,7.16,No,No
+586,23,Male,Graduate,Poland,6.5,Facebook,Yes,6.4,5.0,Negative,Adult,1.02,4.25,Yes,Yes
+587,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.5,7.1,Positive,Young Adult,0.55,6.78,No,No
+588,24,Male,Graduate,Spain,6.5,TikTok,Yes,6.3,5.3,Negative,Adult,1.03,4.38,Yes,Yes
+589,20,Female,Undergraduate,Denmark,4.3,Instagram,No,7.4,7.1,Positive,Young Adult,0.58,6.67,No,No
+590,22,Male,Graduate,Ireland,5.7,Twitter,Yes,6.7,5.9,Negative,Young Adult,0.85,5.18,Yes,Yes
+591,19,Female,Undergraduate,India,6.8,Instagram,Yes,5.7,4.0,Negative,Young Adult,1.19,3.21,Yes,Yes
+592,23,Male,Graduate,Switzerland,3.9,Facebook,No,7.7,7.0,Positive,Adult,0.51,6.88,No,No
+593,21,Female,Undergraduate,Turkey,7.0,TikTok,Yes,6.0,4.8,Negative,Young Adult,1.17,3.78,Yes,Yes
+594,24,Male,Graduate,USA,5.7,Instagram,Yes,6.8,6.0,Negative,Adult,0.84,5.29,Yes,Yes
+595,20,Female,Undergraduate,Mexico,5.8,Facebook,Yes,6.4,5.1,Negative,Young Adult,0.91,4.52,Yes,Yes
+596,21,Male,Undergraduate,France,5.6,Instagram,Yes,6.7,5.9,Negative,Young Adult,0.84,5.21,Yes,Yes
+597,23,Female,Graduate,Canada,5.0,TikTok,No,7.2,7.1,Positive,Adult,0.69,6.36,No,No
+598,20,Male,Undergraduate,UK,6.7,Facebook,Yes,6.2,5.0,Negative,Young Adult,1.08,4.09,Yes,Yes
+599,22,Female,Graduate,Italy,5.1,Twitter,No,7.0,6.9,Positive,Young Adult,0.73,6.11,Yes,No
+600,19,Male,Undergraduate,Russia,6.6,Instagram,Yes,6.1,4.0,Negative,Young Adult,1.08,3.47,Yes,Yes
+601,24,Female,Graduate,China,5.5,WeChat,Yes,6.9,6.2,Negative,Adult,0.8,5.52,Yes,Yes
+602,21,Male,Undergraduate,Japan,4.5,Twitter,No,7.7,8.1,Positive,Young Adult,0.58,7.36,No,No
+603,23,Female,Graduate,Poland,6.1,Instagram,Yes,6.4,5.0,Negative,Adult,0.95,4.37,Yes,Yes
+604,20,Male,Undergraduate,Finland,4.4,Facebook,No,7.6,7.0,Positive,Young Adult,0.58,6.68,No,No
+605,22,Female,Graduate,Spain,6.2,TikTok,Yes,6.3,5.0,Negative,Young Adult,0.98,4.29,Yes,Yes
+606,19,Male,Undergraduate,Denmark,4.6,Instagram,No,7.1,6.9,Positive,Young Adult,0.65,6.31,No,No
+607,24,Female,Graduate,Ireland,5.9,Twitter,Yes,6.6,5.8,Negative,Adult,0.89,5.01,Yes,Yes
+608,21,Male,Undergraduate,India,7.3,Facebook,Yes,5.9,4.2,Negative,Young Adult,1.24,3.28,Yes,Yes
+609,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.3,7.0,Positive,Adult,0.6,6.53,No,No
+610,20,Male,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,5.0,Negative,Young Adult,1.06,4.12,Yes,Yes
+611,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6.0,Negative,Young Adult,0.78,5.43,Yes,Yes
+612,19,Male,Undergraduate,Mexico,6.3,Facebook,Yes,6.1,4.9,Negative,Young Adult,1.03,4.1,Yes,Yes
+613,24,Female,Graduate,France,4.9,Twitter,No,7.2,7.0,Positive,Adult,0.68,6.33,No,No
+614,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.8,5.8,Negative,Young Adult,0.84,5.17,Yes,Yes
+615,23,Female,Graduate,UK,6.1,TikTok,Yes,6.6,5.2,Negative,Adult,0.92,4.59,Yes,Yes
+616,20,Male,Undergraduate,Italy,5.1,Facebook,No,7.2,6.9,Positive,Young Adult,0.71,6.21,Yes,No
+617,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.8,3.9,Negative,Young Adult,1.17,3.2,Yes,Yes
+618,19,Male,Undergraduate,China,5.5,WeChat,Yes,6.6,6.0,Negative,Young Adult,0.83,5.25,Yes,Yes
+619,24,Female,Graduate,Japan,4.1,Twitter,No,7.5,8.1,Positive,Adult,0.55,7.38,No,No
+620,21,Male,Undergraduate,Poland,6.5,TikTok,Yes,6.4,5.0,Negative,Young Adult,1.02,4.25,Yes,Yes
+621,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,6.9,Positive,Adult,0.59,6.52,No,No
+622,20,Male,Undergraduate,Spain,6.3,Facebook,Yes,6.2,5.1,Negative,Young Adult,1.02,4.27,Yes,Yes
+623,22,Female,Graduate,Denmark,4.7,Twitter,No,7.2,7.1,Positive,Young Adult,0.65,6.45,No,No
+624,19,Male,Undergraduate,Ireland,5.7,Instagram,Yes,6.5,6.1,Negative,Young Adult,0.88,5.2,Yes,Yes
+625,24,Female,Graduate,India,7.3,TikTok,Yes,5.9,4.1,Negative,Adult,1.24,3.22,Yes,Yes
+626,21,Male,Undergraduate,Switzerland,4.7,Facebook,No,7.4,7.2,Positive,Young Adult,0.64,6.61,No,No
+627,23,Female,Graduate,Turkey,6.6,Instagram,Yes,5.9,5.2,Negative,Adult,1.12,4.09,Yes,Yes
+628,20,Male,Undergraduate,USA,5.7,Twitter,Yes,7.0,5.9,Negative,Young Adult,0.81,5.33,Yes,No
+629,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.3,5.2,Negative,Young Adult,1.02,4.35,Yes,Yes
+630,19,Male,Undergraduate,France,4.8,Instagram,No,7.3,7.0,Positive,Young Adult,0.66,6.41,No,No
+631,24,Female,Graduate,Canada,5.7,TikTok,Yes,6.6,6.0,Negative,Adult,0.86,5.19,Yes,Yes
+632,21,Male,Undergraduate,UK,6.1,Facebook,Yes,6.2,4.8,Negative,Young Adult,0.98,4.15,Yes,Yes
+633,23,Female,Graduate,Italy,4.7,Twitter,No,7.1,7.0,Positive,Adult,0.66,6.34,No,No
+634,20,Male,Undergraduate,Russia,7.1,Instagram,Yes,6.0,3.9,Negative,Young Adult,1.18,3.21,Yes,Yes
+635,22,Female,Graduate,China,5.6,WeChat,Yes,6.9,6.1,Negative,Young Adult,0.81,5.43,Yes,Yes
+636,19,Male,Undergraduate,Japan,4.3,Twitter,No,7.5,8.1,Positive,Young Adult,0.57,7.32,No,No
+637,24,Female,Graduate,Poland,6.0,TikTok,Yes,6.4,4.8,Negative,Adult,0.94,4.28,Yes,Yes
+638,21,Male,Undergraduate,Finland,4.4,Instagram,No,7.4,7.0,Positive,Young Adult,0.59,6.58,No,No
+639,23,Female,Graduate,Spain,6.7,Facebook,Yes,6.3,5.1,Negative,Adult,1.06,4.2,Yes,Yes
+640,20,Male,Undergraduate,Denmark,4.3,Twitter,No,7.2,7.0,Positive,Young Adult,0.6,6.51,No,No
+641,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.7,6.1,Negative,Young Adult,0.88,5.24,Yes,Yes
+642,19,Male,Undergraduate,India,7.4,TikTok,Yes,5.7,4.0,Negative,Young Adult,1.3,3.03,Yes,Yes
+643,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.4,7.0,Positive,Adult,0.62,6.52,No,No
+644,21,Male,Undergraduate,Turkey,6.9,Instagram,Yes,6.1,5.0,Negative,Young Adult,1.13,3.98,Yes,Yes
+645,23,Female,Graduate,USA,5.1,Twitter,Yes,6.8,5.9,Negative,Adult,0.75,5.41,Yes,Yes
+646,22,Male,Graduate,Mexico,6.4,Facebook,Yes,6.1,4.9,Negative,Young Adult,1.05,4.07,Yes,Yes
+647,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7.1,Positive,Young Adult,0.68,6.37,No,No
+648,23,Male,Graduate,Canada,5.8,TikTok,Yes,6.6,6.0,Negative,Adult,0.88,5.16,Yes,Yes
+649,21,Female,Undergraduate,UK,6.4,Twitter,Yes,6.3,5.0,Negative,Young Adult,1.02,4.23,Yes,Yes
+650,24,Male,Graduate,Italy,5.1,Facebook,No,7.1,7.0,Positive,Adult,0.72,6.22,Yes,No
+651,19,Female,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4.0,Negative,Young Adult,1.17,3.28,Yes,Yes
+652,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6.1,Negative,Young Adult,0.84,5.33,Yes,Yes
+653,20,Female,Undergraduate,Japan,4.3,Twitter,No,7.3,8.0,Positive,Young Adult,0.59,7.16,No,No
+654,23,Male,Graduate,Poland,6.1,TikTok,Yes,6.3,4.9,Negative,Adult,0.97,4.26,Yes,Yes
+655,21,Female,Undergraduate,Finland,4.5,Instagram,No,7.3,7.1,Positive,Young Adult,0.62,6.56,No,No
+656,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.0,5.0,Negative,Adult,1.08,4.05,Yes,Yes
+657,19,Female,Undergraduate,Denmark,4.6,Twitter,No,7.1,7.0,Positive,Young Adult,0.65,6.37,No,No
+658,22,Male,Graduate,Ireland,6.0,Instagram,Yes,6.4,6.2,Negative,Young Adult,0.94,5.12,Yes,Yes
+659,20,Female,Undergraduate,India,6.9,TikTok,Yes,5.7,4.0,Negative,Young Adult,1.21,3.18,Yes,Yes
+660,23,Male,Graduate,Switzerland,4.7,Facebook,No,7.2,7.0,Positive,Adult,0.65,6.39,No,No
+661,21,Female,Undergraduate,Turkey,6.9,Instagram,Yes,6.2,4.9,Negative,Young Adult,1.11,3.97,Yes,Yes
+662,24,Male,Graduate,USA,5.4,Twitter,Yes,6.7,6.0,Negative,Adult,0.81,5.33,Yes,Yes
+663,19,Female,Undergraduate,Mexico,6.1,TikTok,Yes,6.2,5.1,Negative,Young Adult,0.98,4.33,Yes,Yes
+664,22,Male,Graduate,France,4.6,Facebook,No,7.2,6.8,Positive,Young Adult,0.64,6.3,No,No
+665,20,Female,Undergraduate,Canada,5.8,Instagram,Yes,6.7,6.0,Negative,Young Adult,0.87,5.21,Yes,Yes
+666,23,Male,Graduate,UK,6.3,Twitter,Yes,6.2,5.0,Negative,Adult,1.02,4.21,Yes,Yes
+667,21,Female,Undergraduate,Italy,4.7,TikTok,No,7.0,7.0,Positive,Young Adult,0.67,6.29,No,No
+668,24,Male,Graduate,Russia,6.8,Instagram,Yes,6.0,4.1,Negative,Adult,1.13,3.42,Yes,Yes
+669,19,Female,Undergraduate,China,5.8,WeChat,Yes,6.9,6.0,Negative,Young Adult,0.84,5.31,Yes,Yes
+670,22,Male,Graduate,Japan,4.5,Twitter,No,7.2,8.1,Positive,Young Adult,0.62,7.11,No,No
+671,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.3,4.9,Negative,Young Adult,0.97,4.26,Yes,Yes
+672,23,Male,Graduate,Finland,4.2,Instagram,No,7.5,7.0,Positive,Adult,0.56,6.69,No,No
+673,21,Female,Undergraduate,Spain,6.3,TikTok,Yes,6.1,5.0,Negative,Young Adult,1.03,4.16,Yes,Yes
+674,24,Male,Graduate,Denmark,4.4,Twitter,No,7.4,6.9,Positive,Adult,0.59,6.52,No,No
+675,19,Female,Undergraduate,Ireland,6.1,Instagram,Yes,6.4,6.1,Negative,Young Adult,0.95,5.03,Yes,Yes
+676,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4.2,Negative,Young Adult,1.22,3.31,Yes,Yes
+677,20,Female,Undergraduate,Switzerland,4.8,TikTok,No,7.3,7.0,Positive,Young Adult,0.66,6.41,No,No
+678,23,Male,Graduate,Turkey,7.0,Instagram,Yes,6.0,5.1,Negative,Adult,1.17,3.96,Yes,Yes
+679,21,Female,Undergraduate,USA,5.4,Twitter,Yes,6.9,6.0,Negative,Young Adult,0.78,5.43,Yes,Yes
+680,24,Male,Graduate,Mexico,6.1,Facebook,Yes,6.4,4.9,Negative,Adult,0.95,4.31,Yes,Yes
+681,19,Female,Undergraduate,France,4.8,Instagram,No,7.1,6.8,Positive,Young Adult,0.68,6.19,No,No
+682,22,Male,Graduate,Canada,5.8,TikTok,Yes,6.5,5.9,Negative,Young Adult,0.89,5.05,Yes,Yes
+683,20,Female,Undergraduate,UK,6.0,Twitter,Yes,6.4,4.9,Negative,Young Adult,0.94,4.34,Yes,Yes
+684,23,Male,Graduate,Italy,4.8,Facebook,No,7.2,7.2,Positive,Adult,0.67,6.48,No,No
+685,21,Female,Undergraduate,Russia,6.5,Instagram,Yes,6.0,4.0,Negative,Young Adult,1.08,3.45,Yes,Yes
+686,24,Male,Graduate,China,5.7,WeChat,Yes,6.6,6.0,Negative,Adult,0.86,5.19,Yes,Yes
+687,19,Female,Undergraduate,Japan,4.1,Twitter,No,7.4,8.1,Positive,Young Adult,0.55,7.33,No,No
+688,22,Male,Graduate,Poland,6.3,TikTok,Yes,6.2,4.9,Negative,Young Adult,1.02,4.15,Yes,Yes
+689,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,6.9,Positive,Young Adult,0.59,6.52,No,No
+690,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.3,5.0,Negative,Adult,1.03,4.2,Yes,Yes
+691,21,Female,Undergraduate,Denmark,4.7,Twitter,No,7.2,7.1,Positive,Young Adult,0.65,6.45,No,No
+692,24,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6.1,Negative,Adult,0.88,5.22,Yes,Yes
+693,19,Female,Undergraduate,India,7.1,TikTok,Yes,5.9,4.0,Negative,Young Adult,1.2,3.22,Yes,Yes
+694,22,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7.0,Positive,Young Adult,0.57,6.66,No,No
+695,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5.0,Negative,Young Adult,1.08,4.07,Yes,Yes
+696,23,Male,Graduate,USA,5.8,Twitter,Yes,6.7,6.0,Negative,Adult,0.87,5.21,Yes,Yes
+697,21,Female,Undergraduate,Mexico,6.1,TikTok,Yes,6.3,4.9,Negative,Young Adult,0.97,4.26,Yes,Yes
+698,24,Male,Graduate,France,4.7,Facebook,No,7.1,7.0,Positive,Adult,0.66,6.34,No,No
+699,19,Female,Undergraduate,Canada,5.8,Instagram,Yes,6.6,5.9,Negative,Young Adult,0.88,5.1,Yes,Yes
+700,22,Male,Graduate,UK,6.2,Twitter,Yes,6.3,5.0,Negative,Young Adult,0.98,4.29,Yes,Yes
+701,20,Female,Undergraduate,Italy,4.8,TikTok,No,6.9,7.0,Positive,Young Adult,0.7,6.21,No,Yes
+702,23,Male,Graduate,Russia,6.9,Instagram,Yes,6.0,4.3,Negative,Adult,1.15,3.51,Yes,Yes
+703,21,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6.0,Negative,Young Adult,0.85,5.24,Yes,Yes
+704,24,Male,Graduate,Japan,4.5,Twitter,No,7.5,7.9,Positive,Adult,0.6,7.14,No,No
+705,19,Female,Undergraduate,Poland,6.3,Facebook,Yes,6.5,5.0,Negative,Young Adult,0.97,4.36,Yes,Yes
